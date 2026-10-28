@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Original geometry demo",
+    "logo": "assets/demo-logo.png",
+    "art": "assets/demo-art.png",
+    "crop": [
+      0,
+      0,
+      630,
+      160
+    ],
+    "background": "#0d313a"
+  }
+]
