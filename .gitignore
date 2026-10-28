@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+rendered/
+catalog/staging/
+# Third-party game art stays local unless its inclusion has been reviewed.
+assets/*
+!assets/demo-art.png
+!assets/demo-logo.png
+!assets/DejaVuSans.ttf
+!assets/DejaVu-LICENSE.txt
