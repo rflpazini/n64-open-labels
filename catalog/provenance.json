@@ -1,0 +1,9 @@
+{
+  "source": "https://github.com/libretro/libretro-database/blob/master/metadat/no-intro/Nintendo%20-%20Nintendo%2064.dat",
+  "sha256": "17c3a83994717859cca16a89f5b84952dcd8e55d45fe0cf42b1245f565683e49",
+  "dat_version": "2026.10.07",
+  "candidate_regional_entries": 867,
+  "excluded_distinct_source_names": 184,
+  "count_is_not_unique_games": true,
+  "method": "Endianness and ROM revision duplicates merged; regional/language editions retained. Not a verified retail checklist. All entries require human review. China/iQue and special editions need scope review."
+}
