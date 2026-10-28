@@ -1,0 +1,251 @@
+[
+  {
+    "name": "Mario Kart 64",
+    "logo": "assets/logo-00.png",
+    "art": "assets/art-00.png",
+    "crop": [
+      65,
+      150,
+      465,
+      450
+    ],
+    "background": "#306a45"
+  },
+  {
+    "name": "Smash Bros. / Japão",
+    "logo": "assets/logo-01.png",
+    "art": "assets/art-01.png",
+    "crop": [
+      30,
+      70,
+      480,
+      390
+    ],
+    "background": "#eee9d8"
+  },
+  {
+    "name": "Kobe Bryant in NBA Courtside",
+    "logo": "assets/logo-02.png",
+    "art": "assets/art-02.png",
+    "crop": [
+      210,
+      0,
+      395,
+      110
+    ],
+    "background": "#d8b57e",
+    "background_style": "court"
+  },
+  {
+    "name": "Duke Nukem 64",
+    "logo": "assets/logo-03.png",
+    "art": "assets/art-03.png",
+    "crop": [
+      120,
+      0,
+      370,
+      130
+    ],
+    "background": "#422211"
+  },
+  {
+    "name": "Super Mario 64",
+    "logo": "assets/logo-04.png",
+    "art": "assets/art-04.png",
+    "crop": [
+      70,
+      230,
+      490,
+      510
+    ],
+    "background": "#69a957"
+  },
+  {
+    "name": "Killer Instinct Gold",
+    "logo": "assets/logo-05.png",
+    "art": "assets/art-05.png",
+    "crop": [
+      70,
+      35,
+      610,
+      300
+    ],
+    "background": "#050504",
+    "art_viewport": [
+      8,
+      0,
+      55,
+      16
+    ],
+    "transition": [
+      8,
+      36
+    ]
+  },
+  {
+    "name": "Star Fox 64",
+    "logo": "assets/logo-06.png",
+    "art": "assets/art-06.jpg",
+    "crop": [
+      30,
+      78,
+      165,
+      165
+    ],
+    "background": "#284858"
+  },
+  {
+    "name": "Perfect Dark",
+    "logo": "assets/logo-07.png",
+    "art": "assets/art-07.jpg",
+    "crop": [
+      321,
+      228,
+      491,
+      399
+    ],
+    "background": "#080b12",
+    "art_viewport": [
+      24,
+      -5,
+      39,
+      21
+    ]
+  },
+  {
+    "name": "Paper Mario",
+    "logo": "assets/logo-08.png",
+    "art": "assets/art-08.png",
+    "crop": [
+      93,
+      250,
+      475,
+      555
+    ],
+    "background": "#eddb80"
+  },
+  {
+    "name": "Donkey Kong 64 / Japão",
+    "logo": "assets/logo-09.png",
+    "art": "assets/art-09.jpg",
+    "crop": [
+      410,
+      432,
+      730,
+      597
+    ],
+    "background": "#edd13d"
+  },
+  {
+    "name": "Donkey Kong 64 / EUA",
+    "logo": "assets/logo-10.png",
+    "art": "assets/art-10.jpg",
+    "crop": [
+      498,
+      335,
+      727,
+      603
+    ],
+    "background": "#173c2a"
+  },
+  {
+    "name": "Super Smash Bros. / EUA",
+    "logo": "assets/logo-11.png",
+    "art": "assets/art-11.png",
+    "crop": [
+      60,
+      235,
+      470,
+      490
+    ],
+    "background": "#9c93b8"
+  },
+  {
+    "name": "GoldenEye 007",
+    "logo": "assets/logo-12.png",
+    "art": "assets/art-12.png",
+    "crop": [
+      200,
+      230,
+      475,
+      470
+    ],
+    "background": "#e9e4d7"
+  },
+  {
+    "name": "Banjo-Kazooie",
+    "logo": "assets/logo-13.png",
+    "art": "assets/art-13.png",
+    "crop": [
+      180,
+      365,
+      465,
+      620
+    ],
+    "background": "#24412e"
+  },
+  {
+    "name": "Zelda: Ocarina of Time",
+    "logo": "assets/logo-14.png",
+    "art": "assets/art-14.png",
+    "crop": [
+      40,
+      0,
+      500,
+      280
+    ],
+    "background": "#b8a566",
+    "logo_crop": [
+      128,
+      62,
+      386,
+      226
+    ],
+    "transition": [
+      24,
+      37
+    ]
+  },
+  {
+    "name": "Zelda: Majora’s Mask",
+    "logo": "assets/logo-15.png",
+    "art": "assets/art-15.png",
+    "crop": [
+      70,
+      335,
+      590,
+      560
+    ],
+    "background": "#332939"
+  },
+  {
+    "name": "Resident Evil 2",
+    "logo": "assets/logo-16.png",
+    "art": "assets/art-16.png",
+    "crop": [
+      70,
+      45,
+      330,
+      195
+    ],
+    "background": "#090b10",
+    "art_viewport": [
+      24,
+      -6,
+      39,
+      22
+    ]
+  },
+  {
+    "name": "ClayFighter 63⅓",
+    "logo": "assets/logo-17.png",
+    "art": "assets/art-17.png",
+    "crop": [
+      190,
+      415,
+      480,
+      590
+    ],
+    "background": "#f1ead6"
+  }
+]
