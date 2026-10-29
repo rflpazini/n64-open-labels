@@ -1,0 +1,41 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Ogre Battle 64 - Person of Lordly Caliber",
+    "file": "01-ogre-battle-64-person-of-lordly-caliber.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "067136ee2bf69fb3101b662e419189dc1f52dcc6927e001d0d65dfa436ddb657"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Olympic Hockey 98",
+    "file": "02-olympic-hockey-98.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a0e45095d2417b79d7e0c7ebb5c4093d13cb1bdd7c16fd4ac098cb7d9a19ba80"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Onegai Monsters",
+    "file": "03-onegai-monsters.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "47d823815d4baf1901484e89575b5365baac041a8e64cc98c847fdb565214a96"
+  }
+]

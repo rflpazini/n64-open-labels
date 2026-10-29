@@ -1,0 +1,67 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "AeroGauge",
+    "file": "01-aerogauge.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "986f667356c5a9093631b6e3fb0b44e42eb9aacdf4b780547ef99ca574d647c6"
+  },
+  {
+    "recipe_index": 1,
+    "name": "AI Shougi 3",
+    "file": "02-ai-shougi-3.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "88beb0b225ed287469794bf29c9af49667a734c7f76554a2b0d7d2a5fe699f35"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Air Boarder 64",
+    "file": "03-air-boarder-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "d56caa38d2b407137b031e646deb8b923e36dfee6f883661bbcc55d7fae500f5"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Akumajou Dracula Mokushiroku - Real Action Adventure",
+    "file": "04-akumajou-dracula-mokushiroku-real-action-adventure.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "7bab899ab726c8ae19dc3ae4c8a8ae2d5e7ca588da4360e322bc1aa246307681"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell",
+    "file": "05-akumajou-dracula-mokushiroku-gaiden-legend-of-cornell.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "6e6bb7ac879150f829ce9f160e8ece836d80c28f9c210657c5330c4d2169b174"
+  }
+]

@@ -28,6 +28,8 @@ def load_items(path):
   for key in ('name','logo','art','crop','background'):
    if key not in item:raise ValueError(f"Missing {key}: {item}")
   for key in ('logo','art'):
+   # A null logo means the title is already part of the artwork.
+   if item[key] is None and key=='logo':continue
    if not (ROOT/item[key]).is_file():raise ValueError(f"Missing asset: {item[key]}. See ASSETS.md.")
   if len(item['crop'])!=4:raise ValueError('crop needs four coordinates')
  return data
@@ -77,12 +79,14 @@ def label(c,item,x,y,w=63*mm,h=16*mm):
   poly([(28,16),(59,0),(63,0),(63,16)],'#f1e8d4')
   poly([(35,16),(63,1),(63,16)],'#b82b22')
  else:
-  image(ROOT/item['art'],item['crop'],*item.get('art_viewport',ART))
-  dissolve(item['background'],*item.get('transition',[24,43]))
- f=ROOT/item['logo'];im=Image.open(f)
- bb=item.get('logo_crop') or (im.getchannel('A').getbbox() if 'A' in im.getbands() else (0,0,*im.size))
- im.close()
- image(f,bb,*LOGO,False)
+  # art_fit 'contain' shows the whole crop centred on the background instead of filling the viewport.
+  image(ROOT/item['art'],item['crop'],*item.get('art_viewport',ART),item.get('art_fit')!='contain')
+  if item.get('transition',[24,43]):dissolve(item['background'],*item.get('transition',[24,43]))
+ if item['logo']:
+  f=ROOT/item['logo'];im=Image.open(f)
+  bb=item.get('logo_crop') or (im.getchannel('A').getbbox() if 'A' in im.getbands() else (0,0,*im.size))
+  im.close()
+  image(f,bb,*LOGO,False)
  c.restoreState();uid='labelclip'+stable_id(item['name'])
  return f'<defs><clipPath id="{uid}" clipPathUnits="userSpaceOnUse"><rect width="63" height="16"/></clipPath></defs><g clip-path="url(#{uid})">'+''.join(sv)+'</g>'
 

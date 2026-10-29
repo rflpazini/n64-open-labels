@@ -523,6 +523,14 @@
    "rights_status": "not_reviewed"
   },
   {
+   "catalog_id": "2f415fb39623fbe1",
+   "title": "Conker's Bad Fur Day",
+   "region": "USA",
+   "stage": "draft",
+   "art_source": "libretro-thumbnails Named_Titles/Conker's Bad Fur Day (USA).png (hand-picked crop with printed title)",
+   "rights_status": "not_reviewed"
+  },
+  {
    "catalog_id": "89f97ad7479a24e4",
    "title": "Cruis'n Exotica",
    "region": "USA",
@@ -778,6 +786,14 @@
    "art_source": "libretro-thumbnails Named_Boxarts/F1 Pole Position 64 (USA) (En,Fr,De).png",
    "box_title_inliers": 48,
    "crop_check": "",
+   "rights_status": "not_reviewed"
+  },
+  {
+   "catalog_id": "e4a6186131568d2a",
+   "title": "FIFA - Road to World Cup 98",
+   "region": "USA",
+   "stage": "draft",
+   "art_source": "libretro-thumbnails Named_Titles/FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).png (hand-picked crop with printed title)",
    "rights_status": "not_reviewed"
   },
   {
@@ -2022,6 +2038,14 @@
    "rights_status": "not_reviewed"
   },
   {
+   "catalog_id": "fb2c35ec336b8fc0",
+   "title": "Pokemon Puzzle League",
+   "region": "USA",
+   "stage": "draft",
+   "art_source": "libretro-thumbnails Named_Titles/Pokemon Puzzle League (USA).png (hand-picked crop with printed title)",
+   "rights_status": "not_reviewed"
+  },
+  {
    "catalog_id": "bde15eb4f783d9f4",
    "title": "Pokemon Snap",
    "region": "USA",
@@ -2030,6 +2054,14 @@
    "art_source": "libretro-thumbnails Named_Boxarts/Pokemon Snap (USA).png",
    "box_title_inliers": 37,
    "crop_check": "",
+   "rights_status": "not_reviewed"
+  },
+  {
+   "catalog_id": "e0b376d8600870bf",
+   "title": "Pokemon Stadium",
+   "region": "USA",
+   "stage": "draft",
+   "art_source": "libretro-thumbnails Named_Titles/Pokemon Stadium (USA).png (hand-picked crop with printed title)",
    "rights_status": "not_reviewed"
   },
   {
@@ -2390,6 +2422,14 @@
    "art_source": "libretro-thumbnails Named_Boxarts/Shadowgate 64 - Trials of the Four Towers (USA) (En,Es).png",
    "box_title_inliers": 108,
    "crop_check": "",
+   "rights_status": "not_reviewed"
+  },
+  {
+   "catalog_id": "c1ae7eea9fd058bb",
+   "title": "Snowboard Kids",
+   "region": "USA",
+   "stage": "draft",
+   "art_source": "libretro-thumbnails Named_Titles/Snowboard Kids (USA).png (hand-picked crop with printed title)",
    "rights_status": "not_reviewed"
   },
   {
@@ -3154,46 +3194,5 @@
    "rights_status": "not_reviewed"
   }
  ],
- "pending": [
-  {
-   "catalog_id": "2f415fb39623fbe1",
-   "title": "Conker's Bad Fur Day",
-   "region": "USA",
-   "missing": [
-    "logo"
-   ]
-  },
-  {
-   "catalog_id": "e4a6186131568d2a",
-   "title": "FIFA - Road to World Cup 98",
-   "region": "USA",
-   "missing": [
-    "logo"
-   ]
-  },
-  {
-   "catalog_id": "fb2c35ec336b8fc0",
-   "title": "Pokemon Puzzle League",
-   "region": "USA",
-   "missing": [
-    "logo"
-   ]
-  },
-  {
-   "catalog_id": "e0b376d8600870bf",
-   "title": "Pokemon Stadium",
-   "region": "USA",
-   "missing": [
-    "logo"
-   ]
-  },
-  {
-   "catalog_id": "c1ae7eea9fd058bb",
-   "title": "Snowboard Kids",
-   "region": "USA",
-   "missing": [
-    "logo"
-   ]
-  }
- ]
+ "pending": []
 }

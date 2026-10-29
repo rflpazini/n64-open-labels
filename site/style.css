@@ -53,7 +53,11 @@ a{color:var(--ring);text-underline-offset:2px}
 /* Finder */
 .finder{position:sticky;top:0;z-index:5;padding-top:12px;padding-bottom:12px;background:var(--bg)}
 .finder:after{content:"";position:absolute;left:0;right:0;bottom:0;height:1px;background:var(--border)}
-.search{position:relative;display:block}
+.find-row{display:flex;gap:8px;align-items:stretch}
+.search{position:relative;display:block;flex:1}
+.seg{display:flex;background:var(--muted-bg);border:1px solid var(--border);border-radius:var(--radius);padding:4px;gap:4px}
+.seg button{border:0;background:none;color:var(--muted);font:600 15px var(--font-body);padding:0 16px;border-radius:8px;cursor:pointer;min-height:42px;transition:background-color .18s var(--ease),color .18s var(--ease)}
+.seg button[aria-pressed=true]{background:var(--surface);color:var(--text);box-shadow:var(--shadow)}
 .search .ico{position:absolute;left:14px;top:50%;transform:translateY(-50%);color:var(--subtle);pointer-events:none}
 .search input{width:100%;min-height:52px;padding:12px 16px 12px 44px;font:500 17px var(--font-body);color:var(--text);background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow)}
 .search input:focus{outline:3px solid var(--ring);outline-offset:0;border-color:transparent}
@@ -136,6 +140,8 @@ dialog h2{font:700 20px var(--font-head);margin:0 0 16px}
  .steps li{padding:6px 12px 6px 6px;font-size:14px}
  .num{width:24px;height:24px;font-size:13px}
  .letters{display:none}
+ .find-row{flex-direction:column}
+ .seg button{flex:1}
  .grid{grid-template-columns:1fr}
  .tray-in{flex-wrap:wrap}
  .tray-actions{width:100%}

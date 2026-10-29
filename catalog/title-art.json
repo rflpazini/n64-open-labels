@@ -1,0 +1,83 @@
+{
+ "_comment": "Titles with no clean logo upstream. The label is a hand-picked crop that already contains the printed title, shown whole (art_fit contain). Keys are catalog ids; crops are source pixels left, top, right, bottom.",
+ "2f415fb39623fbe1": {
+  "title": "Conker's Bad Fur Day",
+  "source": "Named_Titles/Conker's Bad Fur Day (USA).png",
+  "crop": [
+   80,
+   2,
+   245,
+   236
+  ]
+ },
+ "e4a6186131568d2a": {
+  "title": "FIFA - Road to World Cup 98",
+  "source": "Named_Titles/FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).png",
+  "crop": [
+   6,
+   14,
+   314,
+   124
+  ]
+ },
+ "fb2c35ec336b8fc0": {
+  "title": "Pokemon Puzzle League",
+  "source": "Named_Titles/Pokemon Puzzle League (USA).png",
+  "crop": [
+   55,
+   25,
+   265,
+   175
+  ]
+ },
+ "e0b376d8600870bf": {
+  "title": "Pokemon Stadium",
+  "source": "Named_Titles/Pokemon Stadium (USA).png",
+  "crop": [
+   0,
+   38,
+   320,
+   120
+  ]
+ },
+ "c1ae7eea9fd058bb": {
+  "title": "Snowboard Kids",
+  "source": "Named_Titles/Snowboard Kids (USA).png",
+  "crop": [
+   0,
+   8,
+   320,
+   116
+  ]
+ },
+ "c22f3fbe3a0b207e": {
+  "title": "FIFA - Road to World Cup 98 - World Cup e no Michi",
+  "source": "Named_Titles/FIFA - Road to World Cup 98 - World Cup e no Michi (Japan).png",
+  "crop": [
+   6,
+   14,
+   314,
+   124
+  ]
+ },
+ "0d82028807ef742e": {
+  "title": "Snobo Kids",
+  "source": "Named_Titles/Snobo Kids (Japan).png",
+  "crop": [
+   0,
+   4,
+   320,
+   124
+  ]
+ },
+ "9733405c19587974": {
+  "title": "G.A.S.P!! Fighters' NEXTream",
+  "source": "Named_Boxarts/G.A.S.P!! Fighters' NEXTream (Japan).png",
+  "crop": [
+   100,
+   512,
+   480,
+   700
+  ]
+ }
+}

@@ -3,7 +3,7 @@
  const LABEL_W=63,LABEL_H=16;
  const PAPER={a4:{w:210,h:297,name:'A4'},letter:{w:215.9,h:279.4,name:'US Letter'}};
  const $=s=>document.querySelector(s);
- const state={labels:[],byId:{},repo:'',q:'',picked:new Set()};
+ const state={labels:[],byId:{},repo:'',q:'',region:'USA',regions:[],picked:new Set()};
 
  const store={
   get(k){try{return localStorage.getItem(k)}catch(e){return null}},
@@ -17,12 +17,26 @@
   const lang=(navigator.languages&&navigator.languages[0])||navigator.language||'';
   return /-(US|CA|MX|PH)$/i.test(lang)?'letter':'a4';
  }
+ function defaultRegion(){
+  const lang=(navigator.languages&&navigator.languages[0])||navigator.language||'';
+  return /^ja\b/i.test(lang)?'Japan':'USA';
+ }
+ const REGION_LABEL={USA:'USA',Japan:'Japan'};
+ function regionTabs(){
+  const el=$('#region');el.innerHTML='';
+  for(const r of state.regions){
+   const b=document.createElement('button');b.type='button';b.textContent=REGION_LABEL[r]||r;
+   b.setAttribute('aria-pressed',String(state.region===r));
+   b.onclick=()=>{state.region=r;store.set('n64ol.region',r);regionTabs();render()};
+   el.appendChild(b);
+  }
+ }
 
  function normalize(s){return s.toLowerCase().normalize('NFKD').replace(/[̀-ͯ]/g,'').replace(/[^a-z0-9]+/g,' ').trim()}
 
  function visible(){
   const q=normalize(state.q);
-  return state.labels.filter(l=>!q||l.search.includes(q));
+  return state.labels.filter(l=>l.region===state.region&&(!q||l.search.includes(q)));
  }
 
  function issueUrl(l){
@@ -42,7 +56,7 @@
   const btn=c.querySelector('.pick'),img=c.querySelector('img');
   img.src=l.thumb;
   btn.setAttribute('aria-label',`${l.title}: ${on?'selected, tap to remove':'tap to add to your sheet'}`);
-  c.querySelector('h3').textContent=l.region==='USA'?l.title:`${l.title} · ${l.region}`;
+  c.querySelector('h3').textContent=l.title;
   const [png,report]=c.querySelectorAll('.card-links a');
   png.href=l.png;png.setAttribute('aria-label',`Download ${l.title} PNG`);
   report.href=issueUrl(l);report.setAttribute('aria-label',`Report a problem with ${l.title}`);
@@ -58,7 +72,7 @@
   for(const [letter,items] of groups){
    const h=document.createElement('div');h.className='group-head';h.id='letter-'+letter;
    h.innerHTML=`<h2>${letter}</h2>`;
-   const sheet=items.find(i=>i.region==='USA');
+   const sheet=items[0];
    if(sheet&&!state.q){const a=document.createElement('a');a.href=sheet.sheet;a.download='';a.textContent=`All ${letter} games (A4 PDF)`;h.appendChild(a)}
    frag.appendChild(h);
    for(const l of items)frag.appendChild(card(l));
@@ -66,7 +80,7 @@
   grid.appendChild(frag);
   const empty=list.length===0;
   $('#empty').hidden=!empty;$('#empty-q').textContent=state.q.trim();
-  $('#result-line').textContent=empty?'':state.q.trim()?`${list.length} game${list.length===1?'':'s'} found`:`${list.length} games. Tap a label to add it to your sheet.`;
+  $('#result-line').textContent=empty?'':state.q.trim()?`${list.length} game${list.length===1?'':'s'} found`:`${list.length} ${state.region==='USA'?'US':'Japanese'} games. Tap a label to add it to your sheet.`;
   const present=new Set(list.map(l=>l.letter)),letters=$('#letters');letters.innerHTML='';
   for(const L of ['0-9',...'ABCDEFGHIJKLMNOPQRSTUVWXYZ']){
    const e=document.createElement(present.has(L)?'a':'span');e.textContent=L;
@@ -156,10 +170,16 @@
   for(const l of state.labels)state.byId[l.id]=l;
   for(const id of ['#repo-link','#foot-repo'])$(id).href=`https://github.com/${data.repo}`;
   $('#empty-issue').href=`https://github.com/${data.repo}/issues/new?title=${encodeURIComponent('Missing label: ')}`;
-  $('#missing-list').textContent=data.missing.length?`These have no label yet: ${data.missing.join(', ')}. Know where to find a clean logo? Open an issue on GitHub.`:'None. Every catalogued game has a label.';
+  $('#missing-list').textContent=data.missing.length?`These have no label yet: ${data.missing.join(', ')}. Know where to find a clean logo? Open an issue on GitHub.`:'None. Every US and Japanese retail cartridge in the catalog has a label. Europe is next.';
+  state.regions=data.regions||[...new Set(state.labels.map(l=>l.region))];
+  const savedRegion=store.get('n64ol.region');
+  state.region=state.regions.includes(savedRegion)?savedRegion:defaultRegion();
+  regionTabs();
   // A shared link (?sheet=id,id) wins over the saved selection.
   const shared=new URLSearchParams(location.search).get('sheet');
   for(const id of (shared||store.get('n64ol.picked')||'').split(','))if(state.byId[id])state.picked.add(id);
+  // Open a shared link on the region its labels come from.
+  if(shared&&state.picked.size){state.region=state.byId[[...state.picked][0]].region;regionTabs()}
   $('#paper').value=store.get('n64ol.paper')||defaultPaper();
   $('#paper').onchange=e=>store.set('n64ol.paper',e.target.value);
   let t;$('#q').oninput=e=>{state.q=e.target.value;clearTimeout(t);t=setTimeout(render,120)};

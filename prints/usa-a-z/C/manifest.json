@@ -144,8 +144,21 @@
   },
   {
     "recipe_index": 11,
+    "name": "Conker's Bad Fur Day",
+    "file": "12-conker-s-bad-fur-day.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "d7027022c9e1d19fd7988aed61d0900ff516810112b123b2206343bddf2b5d46"
+  },
+  {
+    "recipe_index": 12,
     "name": "Cruis'n Exotica",
-    "file": "12-cruis-n-exotica.png",
+    "file": "13-cruis-n-exotica.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,
@@ -156,9 +169,9 @@
     "sha256": "5b4504742743907ee625764d1feb731025195a6a1de4ab147aa74bea2dce8f82"
   },
   {
-    "recipe_index": 12,
+    "recipe_index": 13,
     "name": "Cruis'n USA",
-    "file": "13-cruis-n-usa.png",
+    "file": "14-cruis-n-usa.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,
@@ -169,9 +182,9 @@
     "sha256": "e7283cbb6ab4c2f9a85ee02f7db92a15c8611021119ab53a6e6658df75ec2a3e"
   },
   {
-    "recipe_index": 13,
+    "recipe_index": 14,
     "name": "Cruis'n World",
-    "file": "14-cruis-n-world.png",
+    "file": "15-cruis-n-world.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,
@@ -182,9 +195,9 @@
     "sha256": "1a936d5c54e9ec0f1daf8f2b72fd994ae8f76e7f6d7508d3affb4be4c826ddb0"
   },
   {
-    "recipe_index": 14,
+    "recipe_index": 15,
     "name": "CyberTiger",
-    "file": "15-cybertiger.png",
+    "file": "16-cybertiger.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,

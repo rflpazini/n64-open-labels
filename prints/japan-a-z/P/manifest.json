@@ -1,0 +1,210 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Pachinko 365 Nichi",
+    "file": "01-pachinko-365-nichi.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "2f23c8e1b80674063ab6f871ca45b8aeda80aafaf09b12d5a14ddc24efb8adcc"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Parlor! Pro 64 - Pachinko Jikki Simulation Game",
+    "file": "02-parlor-pro-64-pachinko-jikki-simulation-game.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "920a234e4c96533beeb5b2c970fdfb95be554375a0577f05d68fd413c7ce55a9"
+  },
+  {
+    "recipe_index": 2,
+    "name": "PD Ultraman Battle Collection 64",
+    "file": "03-pd-ultraman-battle-collection-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "60e7f1dd7f47b0deeca4b8e0d944963080f766fbf4b292d58b8695524ea88816"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Perfect Dark",
+    "file": "04-perfect-dark.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "632d07f3bb85070858df52e3abb1dea8a05dcce78097de399bc73fb32277fd20"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Pikachuu Genki de Chuu",
+    "file": "05-pikachuu-genki-de-chuu.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "e0ce37cec17ad6388a45753ec4a8696f42abf29c3e4901c46ab8c6be35527791"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Pilotwings 64",
+    "file": "06-pilotwings-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "7bd911fde85c31bb7cea351557fa3f38a6edf142875bccbf69db61fbfc1e9f91"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Pokemon Snap",
+    "file": "07-pokemon-snap.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "e0988fa182819e798862d0cd51a4d0003cda10192a55aea94b09d318bf6e5b8f"
+  },
+  {
+    "recipe_index": 7,
+    "name": "Pokemon Stadium",
+    "file": "08-pokemon-stadium.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "eed307eff11d90e17689c625a48b3cb0647d39d7aeb4aca27c1ef0dd604d7bac"
+  },
+  {
+    "recipe_index": 8,
+    "name": "Pokemon Stadium 2",
+    "file": "09-pokemon-stadium-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "e0a63b68f3d94e814b94c4a506d365a3c0c75db3ef00c81b8f52c275a1e70deb"
+  },
+  {
+    "recipe_index": 9,
+    "name": "Pokemon Stadium Kin Gin",
+    "file": "10-pokemon-stadium-kin-gin.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "f7cd02e8bc9f73b23704eed3ace0020dffd39ef7ef3e972e4985153fbaf11168"
+  },
+  {
+    "recipe_index": 10,
+    "name": "Power League 64",
+    "file": "11-power-league-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "0d542038a1978f73b8e4b2058409ace51efbeeb4eddfaf53b1ded0450761d6de"
+  },
+  {
+    "recipe_index": 11,
+    "name": "Pro Mahjong Kiwame 64",
+    "file": "12-pro-mahjong-kiwame-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "f7cf7db2db0f1e2b1616b10f4d389372ffbb804464556993afca14331b3bf94c"
+  },
+  {
+    "recipe_index": 12,
+    "name": "Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen",
+    "file": "13-pro-mahjong-tsuwamono-64-jansou-battle-ni-chousen.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "5e149ce75a0afad22b58da4075bbc92966c1c6d883626b043c8caa5e882e6ea0"
+  },
+  {
+    "recipe_index": 13,
+    "name": "Puyo Puyo Sun 64",
+    "file": "14-puyo-puyo-sun-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "6a6ac6fa08179aa567304f43c24df3a4c49d94690bf39b0c66d7ab551efb37da"
+  },
+  {
+    "recipe_index": 14,
+    "name": "Puyo Puyoon Party",
+    "file": "15-puyo-puyoon-party.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "cac8924374ad9e01fcd3e2819c55d9de535b0b311db79c654837b8286c94c077"
+  },
+  {
+    "recipe_index": 15,
+    "name": "Puzzle Bobble 64",
+    "file": "16-puzzle-bobble-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "2a830e11383f594d3a754e3b8fcc510a3115a339ee2497aec5e371f169ba8d9c"
+  }
+]

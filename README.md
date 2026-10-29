@@ -2,15 +2,15 @@
 
 Printable Nintendo 64 end labels with original-era visual references and a shared, integrated layout. Community project initiated by Rafa.
 
-**Status: 18 approved labels plus a 291-label USA A-Z draft set; worldwide set still in progress.** The initial 18 label compositions were visually approved by the project owner. The worldwide coverage file currently contains **867 candidate regional/language entries requiring review**, not 867 distinct games. No physical fit or print-color validation has been recorded yet.
+**Status: complete USA (296) and Japan (198) A-Z sets, mostly automatic drafts; Europe and other regions still to do.** The initial 18 label compositions were visually approved by the project owner. The worldwide coverage file currently contains **867 candidate regional/language entries requiring review**, not 867 distinct games. No physical fit or print-color validation has been recorded yet.
 
 ## Download and print
 
-**Easiest way: [rflpazini.github.io/n64-open-labels](https://rflpazini.github.io/n64-open-labels/)**. Search the games you own, add them to a sheet and download an actual-size PDF (A4 or US Letter), or grab single PNGs.
+**Easiest way: [rflpazini.com/n64-open-labels](https://rflpazini.com/n64-open-labels/)**. Search the games you own, add them to a sheet and download an actual-size PDF (A4 or US Letter), or grab single PNGs.
 
 [**Printable A4 PDF (18 labels)**](prints/collection-18/labels-A4.pdf) | [**Individual PNGs and gallery**](prints/collection-18/)
 
-**New: [USA set, A to Z (291 labels)](prints/usa-a-z/)**, one folder per letter with its own A4 PDF and PNGs. 16 of them reuse the approved recipes above; the other 275 are automatic drafts built from libretro-thumbnails logos and box art and still need individual review. See that folder's README for status and the 5 titles not yet covered.
+**A to Z sets:** [USA, 296 labels](prints/usa-a-z/) and [Japan, 198 labels](prints/japan-a-z/), one folder per letter with its own A4 PDF and PNGs. Every US and Japanese retail cartridge in the catalog is covered. Most labels are automatic drafts built from libretro-thumbnails logos and box art; see each folder's README for status.
 
 ![Initial collection preview](prints/collection-18/preview.jpg)
 

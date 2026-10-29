@@ -9,7 +9,7 @@ approved label. Titles already approved in examples/collection-18.json reuse
 those recipes. Requires numpy and opencv-python-headless.
 
   python scripts/auto_recipes.py --thumbs path/to/Nintendo_-_Nintendo_64 \
-      --region USA --snap-art catalog/usa-snap-art.txt --out build/usa
+      --region USA --snap-art catalog/usa-snap-art.txt --title-art catalog/title-art.json --out build/usa
 """
 import argparse,csv,json,re
 from pathlib import Path
@@ -17,9 +17,11 @@ import cv2,numpy as np
 from PIL import Image
 ROOT=Path(__file__).resolve().parents[1]
 ASPECT=39/16
-# Approved collection-18 recipes, keyed by catalog title.
-APPROVED={'Mario Kart 64':0,'Kobe Bryant in NBA Courtside':2,'Duke Nukem 64':3,'Super Mario 64':4,'Killer Instinct Gold':5,'Star Fox 64':6,'Perfect Dark':7,'Paper Mario':8,'Donkey Kong 64':10,'Super Smash Bros.':11,'GoldenEye 007':12,'Banjo-Kazooie':13,'Legend of Zelda, The - Ocarina of Time':14,"Legend of Zelda, The - Majora's Mask":15,'Resident Evil 2':16,'Clay Fighter 63 1-3':17}
+# Approved collection-18 recipes, keyed by region and catalog title.
+APPROVED={'Japan':{'Donkey Kong 64':9,'Nintendo All-Star! Dairantou Smash Brothers':1},'USA':{'Mario Kart 64':0,'Kobe Bryant in NBA Courtside':2,'Duke Nukem 64':3,'Super Mario 64':4,'Killer Instinct Gold':5,'Star Fox 64':6,'Perfect Dark':7,'Paper Mario':8,'Donkey Kong 64':10,'Super Smash Bros.':11,'GoldenEye 007':12,'Banjo-Kazooie':13,'Legend of Zelda, The - Ocarina of Time':14,"Legend of Zelda, The - Majora's Mask":15,'Resident Evil 2':16,'Clay Fighter 63 1-3':17}}
+# Accessories and 64DD data disks, not retail game cartridges.
 NOT_GAMES={'GameShark Pro'}
+NOT_GAME_PREFIXES=('Characters collection - ','Illustrations - ')
 
 def libretro(name):return re.sub(r'[&*/:`<>?\\|"]','_',name)
 def key(s):return re.sub(r'[^a-z0-9]','',s.lower())
@@ -73,7 +75,7 @@ def find_logo(gray,logo):
  H,W=gray.shape;x0,y0=np.clip(corners.min(0),0,(W,H));x1,y1=np.clip(corners.max(0),0,(W,H))
  return (int(x0),int(y0),int(x1),int(y1)),int(inliers.sum())
 
-def choose_crop(box,logo_box):
+def choose_crop(box,logo_box,layout='us'):
  """Highest-detail 39:16 window, weighted toward its visible right side, away from the box title."""
  g=np.asarray(box.convert('L'),dtype=np.float32)
  energy=np.abs(cv2.Sobel(g,cv2.CV_32F,1,0))+np.abs(cv2.Sobel(g,cv2.CV_32F,0,1))
@@ -83,6 +85,9 @@ def choose_crop(box,logo_box):
  energy*=prior[:,None]
  if logo_box:x0,y0,x1,y1=logo_box;block[max(0,y0-8):y1+8,max(0,x0-8):x1+8]=True
  block[int(H*.84):,:int(W*.3)]=True;block[int(H*.84):,int(W*.7):]=True  # publisher and rating marks
+ if layout=='jp':
+  # Portrait Japanese boxes: N64 badge top right, publisher top left, maker and rating band at the bottom.
+  block[:int(H*.15),int(W*.7):]=True;block[:int(H*.1),:int(W*.3)]=True;block[int(H*.88):,:]=True
  ie=cv2.integral(energy);ib=cv2.integral(block.astype(np.uint8))
  def total(ii,x,y,w,h):return ii[y+h,x+w]-ii[y,x+w]-ii[y+h,x]+ii[y,x]
  best=None
@@ -116,36 +121,47 @@ def main():
  p=argparse.ArgumentParser(description=__doc__.split('\n')[0])
  p.add_argument('--thumbs',type=Path,required=True,help='Local libretro-thumbnails Nintendo_-_Nintendo_64 checkout')
  p.add_argument('--region',default='USA');p.add_argument('--out',type=Path,required=True)
+ p.add_argument('--title-art',type=Path,help='JSON of hand-picked crops that already show the printed title, for titles without a clean logo')
  p.add_argument('--snap-art',type=Path,help='Titles whose box art is mostly text; use a Named_Snaps screenshot as art')
  a=p.parse_args()
- rows=[r for r in csv.DictReader((ROOT/'catalog/coverage.csv').open(encoding='utf-8')) if a.region in r['region'].split(', ') and r['title'] not in NOT_GAMES]
+ rows=[r for r in csv.DictReader((ROOT/'catalog/coverage.csv').open(encoding='utf-8')) if a.region in r['region'].split(', ') and r['title'] not in NOT_GAMES and not r['title'].startswith(NOT_GAME_PREFIXES)]
  approved=json.loads((ROOT/'examples/collection-18.json').read_text(encoding='utf-8'))
  assets=a.out/'assets'/a.region.lower();assets.mkdir(parents=True,exist_ok=True)
+ layout='jp' if a.region=='Japan' else 'us'
  snap_titles={t.strip() for t in a.snap_art.read_text(encoding='utf-8').splitlines() if t.strip()} if a.snap_art else set()
+ title_art={k:v for k,v in json.loads(a.title_art.read_text(encoding='utf-8')).items() if not k.startswith('_')} if a.title_art else {}
  recipes=[];status=[];pending=[]
  for r in sorted(rows,key=lambda r:r['title'].lower()):
-  base={'catalog_id':r['id'],'title':r['title'],'region':r['region']}
-  if r['title'] in APPROVED:
-   recipe=dict(approved[APPROVED[r['title']]],name=r['title'])
+  name=f"{r['title']} ({r['edition']})" if r['edition'] else r['title']
+  base={'catalog_id':r['id'],'title':name,'region':r['region']}
+  if r['title'] in APPROVED.get(a.region,{}):
+   recipe=dict(approved[APPROVED[a.region][r['title']]],name=name)
    recipes.append(recipe);status.append(dict(base,stage='visual_reviewed',source='examples/collection-18.json',rights_status='not_reviewed'));continue
+  if r['id'] in title_art:
+   t=title_art[r['id']];src=load(a.thumbs/t['source']).convert('RGB').crop(tuple(t['crop']))
+   art_rel=f'assets/{a.region.lower()}/art-{r["id"]}.jpg';src.save(a.out/art_rel,quality=92)
+   edge=np.concatenate([np.asarray(src)[[0,-1]].reshape(-1,3),np.asarray(src)[:,[0,-1]].reshape(-1,3)])
+   bg='#%02x%02x%02x'%tuple(int(v) for v in np.median(edge,axis=0))
+   recipes.append({'name':name,'logo':None,'art':art_rel,'crop':[0,0,*src.size],'background':bg,'art_viewport':[0,0,63,16],'art_fit':'contain','transition':None})
+   status.append(dict(base,stage='draft',art_source=f'libretro-thumbnails {t["source"]} (hand-picked crop with printed title)',rights_status='not_reviewed'));continue
   logo_p=resolve(a.thumbs,'Named_Logos',r,a.region);box_p=resolve(a.thumbs,'Named_Boxarts',r,a.region)
-  use_snap=r['title'] in snap_titles
+  use_snap=name in snap_titles
   if use_snap:box_p=resolve(a.thumbs,'Named_Snaps',r,a.region)
   if not (logo_p and box_p):
    pending.append(dict(base,missing=[k for k,v in (('logo',logo_p),('box art',box_p)) if not v]));continue
   logo=load(logo_p).convert('RGBA');box=load(box_p).convert('RGB')
   if use_snap:logo_box,match=None,0
   else:
-   box=box.crop((0,0,art_width(box),box.height))
+   if layout=='us':box=box.crop((0,0,art_width(box),box.height))
    logo_box,match=find_logo(np.asarray(box.convert('L')),logo)
-  crop=choose_crop(box,logo_box if match>=8 else None)
+  crop=choose_crop(box,logo_box if match>=8 else None,layout)
   # Store only the chosen window plus a margin, so recipes stay small.
   mx,my=12,8;x0,y0,x1,y1=crop;keep=(max(0,x0-mx),max(0,y0-my),min(box.width,x1+mx),min(box.height,y1+my))
   art=box.crop(keep);crop=[x0-keep[0],y0-keep[1],x1-keep[0],y1-keep[1]]
   bbox=logo.getchannel('A').getbbox();logo=logo.crop(bbox)
   logo_rel=f'assets/{a.region.lower()}/logo-{r["id"]}.png';art_rel=f'assets/{a.region.lower()}/art-{r["id"]}.jpg'
   logo.save(a.out/logo_rel,optimize=True);art.save(a.out/art_rel,quality=92)
-  recipes.append({'name':r['title'],'logo':logo_rel,'art':art_rel,'crop':crop,'background':background(art,crop,logo)})
+  recipes.append({'name':name,'logo':logo_rel,'art':art_rel,'crop':crop,'background':background(art,crop,logo)})
   status.append(dict(base,stage='draft',logo_source=f'libretro-thumbnails Named_Logos/{logo_p.name}',art_source=f'libretro-thumbnails {box_p.parent.name}/{box_p.name}',box_title_inliers=match,crop_check='box title not located; check the crop for a repeated title' if match<8 and not use_snap else '',rights_status='not_reviewed'))
  (a.out/'recipes.json').write_text(json.dumps(recipes,ensure_ascii=False,indent=1)+'\n',encoding='utf-8')
  (a.out/'status.json').write_text(json.dumps({'labels':status,'pending':pending},ensure_ascii=False,indent=1)+'\n',encoding='utf-8')

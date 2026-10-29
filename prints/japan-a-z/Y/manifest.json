@@ -1,0 +1,41 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Yakouchuu II - Satsujin Kouro",
+    "file": "01-yakouchuu-ii-satsujin-kouro.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "6b425f6734722d3f6167229ef9cc82f5cb924d04041e59e1c3a8378491c89d4e"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Yoshi Story",
+    "file": "02-yoshi-story.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a0eec9c6f2bc3cd87c46d77d412ef74d8a093193fab74c5af98e37179bf93ffb"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Yuke Yuke!! Trouble Makers",
+    "file": "03-yuke-yuke-trouble-makers.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ccc65b9d8539d17184e6624fd4c57b2e49f6fc27b9d60329972bf8019cd59403"
+  }
+]

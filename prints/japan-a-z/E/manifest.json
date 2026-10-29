@@ -1,0 +1,67 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Eikou no Saint Andrews",
+    "file": "01-eikou-no-saint-andrews.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "46ff96ba4caee83c57356c06fc17f27a36b5df3be296db2b1cca8b5e01cda3c5"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Eltale Monsters",
+    "file": "02-eltale-monsters.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "9b675a2815d88ce61deca85343a84af75fa1bbd3d91522d9f90bab99e7f26b63"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Excitebike 64",
+    "file": "03-excitebike-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "76f20b66484fd32d000ca1c1bcea93c04a5a4852a4c12168ea0225425bdfa36d"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Extreme-G",
+    "file": "04-extreme-g.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "386ee9f8159c7ca23f59c428ebfa31c0edbc658373b7c63e432ce54b096b3d78"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Extreme-G XG2",
+    "file": "05-extreme-g-xg2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "d8e2c0e74da3c1618159c0a5c110baad6b90bf4f4ef511c05a264c87de509230"
+  }
+]

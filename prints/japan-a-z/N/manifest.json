@@ -1,0 +1,93 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "NBA in the Zone '98",
+    "file": "01-nba-in-the-zone-98.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a1d15197e5fbe6c32746a0fdb3fb9957412b5e8efdf3756f34669849ea8c0d2b"
+  },
+  {
+    "recipe_index": 1,
+    "name": "NBA in the Zone 2",
+    "file": "02-nba-in-the-zone-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "6c0d2c13908feddfbf3ceeb7e627517c3a103798a636f1031f7d3066f7a352ed"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Neon Genesis Evangelion",
+    "file": "03-neon-genesis-evangelion.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "b93ef2d1388f702484becd44561ca56df3520556e0fe6f0e3c8a396c17eb8f02"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Nintama Rantarou 64 Game Gallery",
+    "file": "04-nintama-rantarou-64-game-gallery.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "1ebdbf0b0ee7beca37abc6f43186a3dfadcda981c253eeb421008d6ce6c6465e"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Nintendo All-Star! Dairantou Smash Brothers",
+    "file": "05-nintendo-all-star-dairantou-smash-brothers.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a6da63c78a831e7724084e4e1a15649758201fb7f597f5f936ed0691333c941e"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Nushi Zuri 64",
+    "file": "06-nushi-zuri-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "df67fbc7ecd8a3a9036b9aa54aa1e7dcc7fe8a061fbc094bf382d7721aa18228"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Nushi Zuri 64 - Shiokaze ni Notte",
+    "file": "07-nushi-zuri-64-shiokaze-ni-notte.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "627140a9f11a89ceb6757997198cf16a47dd483f0a744a169b6b358b562a1819"
+  }
+]

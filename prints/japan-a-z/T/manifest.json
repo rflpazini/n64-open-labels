@@ -1,0 +1,93 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Tetris 64",
+    "file": "01-tetris-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "d1fe2a09b9c062aa39c78fd12cca5a35a4f39c2c451758479a91dc0f880b5e68"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Top Gear Hyper Bike",
+    "file": "02-top-gear-hyper-bike.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "8bd4df832ea3d349e89ac7389ab854d1a8c7025f159e937446ddf641ec402a91"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Top Gear Overdrive",
+    "file": "03-top-gear-overdrive.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "1eedff728dec57c5d070b7d3643f14429f2aa443de5883d47695c9907ea80645"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Top Gear Rally",
+    "file": "04-top-gear-rally.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "460aaadffa85664d8ab51da4d7e201ef91b11a95a4244cd81bbf9bc47f6a24e3"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Top Gear Rally 2",
+    "file": "05-top-gear-rally-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "4bbedb8e6c73d17c8ce46da54d9704618e294b0777a3a5fedabb54cf2924ee0e"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Transformers - Beast Wars Metals 64",
+    "file": "06-transformers-beast-wars-metals-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "25512a102beb3818c9305bc09b0b330864abab28bb502322956aec979c3d238e"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Tsumi to Batsu - Hoshi no Keishousha",
+    "file": "07-tsumi-to-batsu-hoshi-no-keishousha.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "25ef6d96e6e0e1250f85adc58e66e48fe2f1971e857d0f61e29d436b6299a634"
+  }
+]

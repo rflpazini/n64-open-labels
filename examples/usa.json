@@ -576,6 +576,26 @@
   "background": "#36261a"
  },
  {
+  "name": "Conker's Bad Fur Day",
+  "logo": null,
+  "art": "assets/usa/art-2f415fb39623fbe1.jpg",
+  "crop": [
+   0,
+   0,
+   165,
+   234
+  ],
+  "background": "#160d0f",
+  "art_viewport": [
+   0,
+   0,
+   63,
+   16
+  ],
+  "art_fit": "contain",
+  "transition": null
+ },
+ {
   "name": "Cruis'n Exotica",
   "logo": "assets/usa/logo-89f97ad7479a24e4.png",
   "art": "assets/usa/art-89f97ad7479a24e4.jpg",
@@ -862,6 +882,26 @@
    77
   ],
   "background": "#292c32"
+ },
+ {
+  "name": "FIFA - Road to World Cup 98",
+  "logo": null,
+  "art": "assets/usa/art-e4a6186131568d2a.jpg",
+  "crop": [
+   0,
+   0,
+   308,
+   110
+  ],
+  "background": "#f7f6f9",
+  "art_viewport": [
+   0,
+   0,
+   63,
+   16
+  ],
+  "art_fit": "contain",
+  "transition": null
  },
  {
   "name": "FIFA 99",
@@ -2271,6 +2311,26 @@
   "background": "#292c50"
  },
  {
+  "name": "Pokemon Puzzle League",
+  "logo": null,
+  "art": "assets/usa/art-fb2c35ec336b8fc0.jpg",
+  "crop": [
+   0,
+   0,
+   210,
+   150
+  ],
+  "background": "#5d687b",
+  "art_viewport": [
+   0,
+   0,
+   63,
+   16
+  ],
+  "art_fit": "contain",
+  "transition": null
+ },
+ {
   "name": "Pokemon Snap",
   "logo": "assets/usa/logo-bde15eb4f783d9f4.png",
   "art": "assets/usa/art-bde15eb4f783d9f4.jpg",
@@ -2281,6 +2341,26 @@
    75
   ],
   "background": "#f9c9c8"
+ },
+ {
+  "name": "Pokemon Stadium",
+  "logo": null,
+  "art": "assets/usa/art-e0b376d8600870bf.jpg",
+  "crop": [
+   0,
+   0,
+   320,
+   82
+  ],
+  "background": "#6a6f63",
+  "art_viewport": [
+   0,
+   0,
+   63,
+   16
+  ],
+  "art_fit": "contain",
+  "transition": null
  },
  {
   "name": "Pokemon Stadium 2",
@@ -2683,6 +2763,26 @@
    75
   ],
   "background": "#eebeae"
+ },
+ {
+  "name": "Snowboard Kids",
+  "logo": null,
+  "art": "assets/usa/art-c1ae7eea9fd058bb.jpg",
+  "crop": [
+   0,
+   0,
+   320,
+   108
+  ],
+  "background": "#000000",
+  "art_viewport": [
+   0,
+   0,
+   63,
+   16
+  ],
+  "art_fit": "contain",
+  "transition": null
  },
  {
   "name": "Snowboard Kids 2",

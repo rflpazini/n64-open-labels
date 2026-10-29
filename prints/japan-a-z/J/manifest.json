@@ -1,0 +1,236 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "J.League Dynamite Soccer 64",
+    "file": "01-j-league-dynamite-soccer-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "8973e9b49a2298b625e604d01d0f65c2d1e44c8715bc1e60c7cb04608322ece9"
+  },
+  {
+    "recipe_index": 1,
+    "name": "J.League Eleven Beat 1997",
+    "file": "02-j-league-eleven-beat-1997.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "79b7e2d79308083b5800467440e63dddae7c7871b9cc02087c0a0f3b88cb1e35"
+  },
+  {
+    "recipe_index": 2,
+    "name": "J.League Live 64",
+    "file": "03-j-league-live-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "cd7bc8548365e4b1865382bd8b7fe84606a8041eb853b8e84f3c76622491b363"
+  },
+  {
+    "recipe_index": 3,
+    "name": "J.League Tactics Soccer",
+    "file": "04-j-league-tactics-soccer.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "1857f71534ee23daf46784662ea07dc5384e7c7c3f99ce892643d76aabb0b780"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Jangou Simulation Mahjong Dou 64",
+    "file": "05-jangou-simulation-mahjong-dou-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a0679ab50dce56f9171f0a660ca677937be081da07aa11b7fb0a71ad1c0e9d94"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Jikkyou G1 Stable",
+    "file": "06-jikkyou-g1-stable.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "4124ad7b572cb234a2f2a3753bf2f4cb3b25c37ea56d2a015df365bf3fb2d8a1"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Jikkyou J.League 1999 - Perfect Striker 2",
+    "file": "07-jikkyou-j-league-1999-perfect-striker-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "11243b785fd3fcc6f102998cad65c0927ba0b32a4e0624beae3f0f5c3d6d41d3"
+  },
+  {
+    "recipe_index": 7,
+    "name": "Jikkyou J.League Perfect Striker",
+    "file": "08-jikkyou-j-league-perfect-striker.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ba2905e4c47b673fb20d7d0ce4b761509277034d51de02d25fe257c262f89df5"
+  },
+  {
+    "recipe_index": 8,
+    "name": "Jikkyou Powerful Pro Yakyuu - Basic Ban 2001",
+    "file": "09-jikkyou-powerful-pro-yakyuu-basic-ban-2001.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "05ca1cededc16d7490c2e255ec9728627885bbd0d32d60cc9f4f5db04d0e5212"
+  },
+  {
+    "recipe_index": 9,
+    "name": "Jikkyou Powerful Pro Yakyuu 2000",
+    "file": "10-jikkyou-powerful-pro-yakyuu-2000.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "eb6c35f3c90bca468772faf279baa545fe72f6ad9f44a08f216d3476712ed653"
+  },
+  {
+    "recipe_index": 10,
+    "name": "Jikkyou Powerful Pro Yakyuu 4",
+    "file": "11-jikkyou-powerful-pro-yakyuu-4.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "b24de67fdc14af3ec5efcd4aac7f4d948d86476df40f0a8ed2df168aa6dc52e3"
+  },
+  {
+    "recipe_index": 11,
+    "name": "Jikkyou Powerful Pro Yakyuu 5",
+    "file": "12-jikkyou-powerful-pro-yakyuu-5.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "2afdb1d183a2b4ad28e390dfaccba7f86f72d74c60ea6494f20a4703821c487f"
+  },
+  {
+    "recipe_index": 12,
+    "name": "Jikkyou Powerful Pro Yakyuu 6",
+    "file": "13-jikkyou-powerful-pro-yakyuu-6.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "d95badd24142a3b496c6673ac6a4791051d5a3af259bbdd0492af07e66b5c1be"
+  },
+  {
+    "recipe_index": 13,
+    "name": "Jikkyou World Soccer - World Cup France '98",
+    "file": "14-jikkyou-world-soccer-world-cup-france-98.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "18aa8c8aa8b9d2893a95e0e0965b59d539c3d2ebe1e8e532d94701dfcd699bed"
+  },
+  {
+    "recipe_index": 14,
+    "name": "Jikkyou World Soccer 3",
+    "file": "15-jikkyou-world-soccer-3.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "76b232f582ade9e778347c85d5b0a9e13b900e39f475d2c6ed0abe9a7d7f2df2"
+  },
+  {
+    "recipe_index": 15,
+    "name": "Jikuu Senshi Turok",
+    "file": "16-jikuu-senshi-turok.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "c61e2f670f64d57edb84ab25bd2b905ea12b2dd06bdd6937c45557bc528e4018"
+  },
+  {
+    "recipe_index": 16,
+    "name": "Jinsei Game 64",
+    "file": "17-jinsei-game-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "fefd6a296f952b5b58a4bdc9fa3d09147473394d812a51a3b4c2b233fc7a0eb7"
+  },
+  {
+    "recipe_index": 17,
+    "name": "John Romero's Daikatana",
+    "file": "18-john-romero-s-daikatana.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "b2463636e8b519f8cb77080d583fb55ac996879dbbf4475ecc291737d2f8a625"
+  }
+]

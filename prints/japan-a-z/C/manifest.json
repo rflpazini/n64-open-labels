@@ -1,0 +1,132 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Chameleon Twist",
+    "file": "01-chameleon-twist.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "051aa142723e920c5625499c89581a589a63545a0496759562df812ee570a2c9"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Chameleon Twist 2",
+    "file": "02-chameleon-twist-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "095d865d90e4bfeecfa0a55fb77dbcd09961db575c8e10efda9d18894c3529dd"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Choro Q 64",
+    "file": "03-choro-q-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "2a8fa7f9562f244ae303e454ee59e779b4794c936ae99b18f739b6825557610d"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Choro Q 64 2 - Hacha Mecha Grand Prix Race",
+    "file": "04-choro-q-64-2-hacha-mecha-grand-prix-race.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ec770a81cba74b1155b8964130e66c78bba5f9c69accf73bddf6fd78f0729b92"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Chou Kuukan Nighter Pro Yakyuu King",
+    "file": "05-chou-kuukan-nighter-pro-yakyuu-king.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "67a31924ebfc0cbb6b0398b684fef6a92bd336809644135e2ffb73bf67b3440a"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Chou Kuukan Nighter Pro Yakyuu King 2",
+    "file": "06-chou-kuukan-nighter-pro-yakyuu-king-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "fb7fc5fc0873f690bd6d2228b374d4b0842ca2fd7af56b85c64234288a0dcf21"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Chou Snobo Kids",
+    "file": "07-chou-snobo-kids.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "96dfbf5f0a612af07f9f11d93016bedb2c03a598b3204109040b63b36e1127b0"
+  },
+  {
+    "recipe_index": 7,
+    "name": "City-Tour GP - Zen-Nihon GT Senshuken",
+    "file": "08-city-tour-gp-zen-nihon-gt-senshuken.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "8d2e154737019f6a7fb8c169fc0ed27ff8a120b045e293ca3419efaa5462f489"
+  },
+  {
+    "recipe_index": 8,
+    "name": "Custom Robo",
+    "file": "09-custom-robo.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a6d04826a45b96c2ef7375529cdaed7ede034daac3d8fb93c9b024df505809c2"
+  },
+  {
+    "recipe_index": 9,
+    "name": "Custom Robo V2",
+    "file": "10-custom-robo-v2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "99a13677d107aaac653e8d57d091d69dd53f8fc9243b8402e922f5f8b97a3ed3"
+  }
+]

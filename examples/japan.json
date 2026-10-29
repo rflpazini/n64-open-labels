@@ -1,0 +1,2402 @@
+[
+ {
+  "name": "1080 Snowboarding",
+  "logo": "assets/japan/logo-7b0c5b619d99e5cf.png",
+  "art": "assets/japan/art-7b0c5b619d99e5cf.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#171b23"
+ },
+ {
+  "name": "64 de Hakken!! Tamagotchi - Minna de Tamagotchi World",
+  "logo": "assets/japan/logo-2afc685ea064efa8.png",
+  "art": "assets/japan/art-2afc685ea064efa8.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#293d43"
+ },
+ {
+  "name": "64 Hanafuda - Tenshi no Yakusoku",
+  "logo": "assets/japan/logo-d5c34db1e4f83571.png",
+  "art": "assets/japan/art-d5c34db1e4f83571.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#f2f5fa"
+ },
+ {
+  "name": "64 Oozumou",
+  "logo": "assets/japan/logo-f8ac189eaf20df05.png",
+  "art": "assets/japan/art-f8ac189eaf20df05.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#e9c8c7"
+ },
+ {
+  "name": "64 Oozumou 2",
+  "logo": "assets/japan/logo-81084bd4a43da96a.png",
+  "art": "assets/japan/art-81084bd4a43da96a.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#21190b"
+ },
+ {
+  "name": "64 Trump Collection - Alice no Wakuwaku Trump World",
+  "logo": "assets/japan/logo-c05102d7ade805e9.png",
+  "art": "assets/japan/art-c05102d7ade805e9.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#fcf8f1"
+ },
+ {
+  "name": "AeroGauge",
+  "logo": "assets/japan/logo-4ce8a582153292dc.png",
+  "art": "assets/japan/art-4ce8a582153292dc.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#bbbbd0"
+ },
+ {
+  "name": "AI Shougi 3",
+  "logo": "assets/japan/logo-eb130be18e1ed0b3.png",
+  "art": "assets/japan/art-eb130be18e1ed0b3.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#d8d9d9"
+ },
+ {
+  "name": "Air Boarder 64",
+  "logo": "assets/japan/logo-4b4b53fc533b4426.png",
+  "art": "assets/japan/art-4b4b53fc533b4426.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#78171d"
+ },
+ {
+  "name": "Akumajou Dracula Mokushiroku - Real Action Adventure",
+  "logo": "assets/japan/logo-46489ccd9461cb24.png",
+  "art": "assets/japan/art-46489ccd9461cb24.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#b7b3b7"
+ },
+ {
+  "name": "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell",
+  "logo": "assets/japan/logo-229a91af2db759bf.png",
+  "art": "assets/japan/art-229a91af2db759bf.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#878c8e"
+ },
+ {
+  "name": "Baku Bomberman",
+  "logo": "assets/japan/logo-8f4d3c7b53af0fe6.png",
+  "art": "assets/japan/art-8f4d3c7b53af0fe6.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#2b1f0d"
+ },
+ {
+  "name": "Baku Bomberman 2",
+  "logo": "assets/japan/logo-065cbe3d4eebd815.png",
+  "art": "assets/japan/art-065cbe3d4eebd815.jpg",
+  "crop": [
+   0,
+   8,
+   200,
+   90
+  ],
+  "background": "#03040a"
+ },
+ {
+  "name": "Bakuretsu Muteki Bangaioh",
+  "logo": "assets/japan/logo-a472c418cb6aa178.png",
+  "art": "assets/japan/art-a472c418cb6aa178.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#b0b0b1"
+ },
+ {
+  "name": "Bakushou Jinsei 64 - Mezase! Resort Ou",
+  "logo": "assets/japan/logo-bc833d422c6eb42d.png",
+  "art": "assets/japan/art-bc833d422c6eb42d.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#19334c"
+ },
+ {
+  "name": "Banjo to Kazooie no Daibouken",
+  "logo": "assets/japan/logo-07cf6f2174e9a657.png",
+  "art": "assets/japan/art-07cf6f2174e9a657.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#12212a"
+ },
+ {
+  "name": "Banjo to Kazooie no Daibouken 2",
+  "logo": "assets/japan/logo-eeef76a19f8d2f8b.png",
+  "art": "assets/japan/art-eeef76a19f8d2f8b.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#e3bd93"
+ },
+ {
+  "name": "Bass Rush - ECOGEAR PowerWorm Championship",
+  "logo": "assets/japan/logo-dc50b5b91f77cb3f.png",
+  "art": "assets/japan/art-dc50b5b91f77cb3f.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#2e3e3b"
+ },
+ {
+  "name": "Beetle Adventure Racing!",
+  "logo": "assets/japan/logo-833724b1000b1b3e.png",
+  "art": "assets/japan/art-833724b1000b1b3e.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#4a450b"
+ },
+ {
+  "name": "Biohazard 2",
+  "logo": "assets/japan/logo-ff38f638986fee23.png",
+  "art": "assets/japan/art-ff38f638986fee23.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#968f8c"
+ },
+ {
+  "name": "Blastdozer",
+  "logo": "assets/japan/logo-ab8a9fdc8e016a3f.png",
+  "art": "assets/japan/art-ab8a9fdc8e016a3f.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#29221c"
+ },
+ {
+  "name": "Bokujou Monogatari 2",
+  "logo": "assets/japan/logo-92f15fbafd5b5fb2.png",
+  "art": "assets/japan/art-92f15fbafd5b5fb2.jpg",
+  "crop": [
+   0,
+   8,
+   146,
+   67
+  ],
+  "background": "#143f18"
+ },
+ {
+  "name": "Bomberman 64",
+  "logo": "assets/japan/logo-68bff35a5b132a91.png",
+  "art": "assets/japan/art-68bff35a5b132a91.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#2b241f"
+ },
+ {
+  "name": "Bomberman Hero - Mirian Oujo o Sukue!",
+  "logo": "assets/japan/logo-59143776a3a7f253.png",
+  "art": "assets/japan/art-59143776a3a7f253.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#261713"
+ },
+ {
+  "name": "Buck Bumble",
+  "logo": "assets/japan/logo-821faf06b1e1c5ff.png",
+  "art": "assets/japan/art-821faf06b1e1c5ff.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#32280f"
+ },
+ {
+  "name": "Chameleon Twist",
+  "logo": "assets/japan/logo-ee3e1c493d7b742d.png",
+  "art": "assets/japan/art-ee3e1c493d7b742d.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#192210"
+ },
+ {
+  "name": "Chameleon Twist 2",
+  "logo": "assets/japan/logo-ce7c926212025ab9.png",
+  "art": "assets/japan/art-ce7c926212025ab9.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#fdf79e"
+ },
+ {
+  "name": "Choro Q 64",
+  "logo": "assets/japan/logo-cae9a92b7f10e422.png",
+  "art": "assets/japan/art-cae9a92b7f10e422.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#3e2d21"
+ },
+ {
+  "name": "Choro Q 64 2 - Hacha Mecha Grand Prix Race",
+  "logo": "assets/japan/logo-8a078ae4e2b083e4.png",
+  "art": "assets/japan/art-8a078ae4e2b083e4.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#131820"
+ },
+ {
+  "name": "Chou Kuukan Nighter Pro Yakyuu King",
+  "logo": "assets/japan/logo-ce9f26639dbeca37.png",
+  "art": "assets/japan/art-ce9f26639dbeca37.jpg",
+  "crop": [
+   12,
+   8,
+   114,
+   49
+  ],
+  "background": "#0a0c0b"
+ },
+ {
+  "name": "Chou Kuukan Nighter Pro Yakyuu King 2",
+  "logo": "assets/japan/logo-49dd96da62774010.png",
+  "art": "assets/japan/art-49dd96da62774010.jpg",
+  "crop": [
+   12,
+   8,
+   88,
+   39
+  ],
+  "background": "#372a10"
+ },
+ {
+  "name": "Chou Snobo Kids",
+  "logo": "assets/japan/logo-594cf4c58376b3b4.png",
+  "art": "assets/japan/art-594cf4c58376b3b4.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#0e1b26"
+ },
+ {
+  "name": "City-Tour GP - Zen-Nihon GT Senshuken",
+  "logo": "assets/japan/logo-4a0b9492f6f59103.png",
+  "art": "assets/japan/art-4a0b9492f6f59103.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#afafb3"
+ },
+ {
+  "name": "Custom Robo",
+  "logo": "assets/japan/logo-2484498375a38cb7.png",
+  "art": "assets/japan/art-2484498375a38cb7.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#47544c"
+ },
+ {
+  "name": "Custom Robo V2",
+  "logo": "assets/japan/logo-c0f187c3c642d9bc.png",
+  "art": "assets/japan/art-c0f187c3c642d9bc.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#392121"
+ },
+ {
+  "name": "Dance Dance Revolution - Disney Dancing Museum",
+  "logo": "assets/japan/logo-e0dc0e01850f1a7a.png",
+  "art": "assets/japan/art-e0dc0e01850f1a7a.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#474448"
+ },
+ {
+  "name": "Densha de Go! 64",
+  "logo": "assets/japan/logo-3924c074c1dcbe38.png",
+  "art": "assets/japan/art-3924c074c1dcbe38.jpg",
+  "crop": [
+   0,
+   8,
+   204,
+   91
+  ],
+  "background": "#181d0b"
+ },
+ {
+  "name": "Derby Stallion 64",
+  "logo": "assets/japan/logo-c535e4de3fe11f24.png",
+  "art": "assets/japan/art-c535e4de3fe11f24.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#100101"
+ },
+ {
+  "name": "Dezaemon 3D",
+  "logo": "assets/japan/logo-926a762a4b40efca.png",
+  "art": "assets/japan/art-926a762a4b40efca.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#000000"
+ },
+ {
+  "name": "Diddy Kong Racing",
+  "logo": "assets/japan/logo-1e1fc210441639e7.png",
+  "art": "assets/japan/art-1e1fc210441639e7.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#211c13"
+ },
+ {
+  "name": "Donkey Kong 64",
+  "logo": "assets/logo-09.png",
+  "art": "assets/art-09.jpg",
+  "crop": [
+   410,
+   432,
+   730,
+   597
+  ],
+  "background": "#edd13d"
+ },
+ {
+  "name": "Doom 64",
+  "logo": "assets/japan/logo-43c0f0f184145853.png",
+  "art": "assets/japan/art-43c0f0f184145853.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#1c0d0b"
+ },
+ {
+  "name": "Doraemon - Nobita to 3tsu no Seireiseki",
+  "logo": "assets/japan/logo-c91390645ff44787.png",
+  "art": "assets/japan/art-c91390645ff44787.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#ececeb"
+ },
+ {
+  "name": "Doraemon 2 - Nobita to Hikari no Shinden",
+  "logo": "assets/japan/logo-44105cfce5e05c45.png",
+  "art": "assets/japan/art-44105cfce5e05c45.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#b8d7f4"
+ },
+ {
+  "name": "Doraemon 3 - Nobita no Machi SOS!",
+  "logo": "assets/japan/logo-94fa94565cc3afa5.png",
+  "art": "assets/japan/art-94fa94565cc3afa5.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#382812"
+ },
+ {
+  "name": "Doubutsu no Mori",
+  "logo": "assets/japan/logo-718fc46c713c2fe5.png",
+  "art": "assets/japan/art-718fc46c713c2fe5.jpg",
+  "crop": [
+   0,
+   8,
+   204,
+   91
+  ],
+  "background": "#2a200d"
+ },
+ {
+  "name": "Dual Heroes",
+  "logo": "assets/japan/logo-560a27b5c8761ab3.png",
+  "art": "assets/japan/art-560a27b5c8761ab3.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#25241f"
+ },
+ {
+  "name": "Eikou no Saint Andrews",
+  "logo": "assets/japan/logo-1171b2bad8064d42.png",
+  "art": "assets/japan/art-1171b2bad8064d42.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#18180d"
+ },
+ {
+  "name": "Eltale Monsters",
+  "logo": "assets/japan/logo-9eb8cff9d26807c0.png",
+  "art": "assets/japan/art-9eb8cff9d26807c0.jpg",
+  "crop": [
+   6,
+   8,
+   210,
+   91
+  ],
+  "background": "#eae6eb"
+ },
+ {
+  "name": "Excitebike 64",
+  "logo": "assets/japan/logo-76b59e8c1fefb047.png",
+  "art": "assets/japan/art-76b59e8c1fefb047.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#b7a8ae"
+ },
+ {
+  "name": "Extreme-G",
+  "logo": "assets/japan/logo-ea679cea16b76867.png",
+  "art": "assets/japan/art-ea679cea16b76867.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#923537"
+ },
+ {
+  "name": "Extreme-G XG2",
+  "logo": "assets/japan/logo-20074c8a8f8b5c13.png",
+  "art": "assets/japan/art-20074c8a8f8b5c13.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#a41416"
+ },
+ {
+  "name": "F-1 World Grand Prix",
+  "logo": "assets/japan/logo-0e7d44cb71e45388.png",
+  "art": "assets/japan/art-0e7d44cb71e45388.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#201c21"
+ },
+ {
+  "name": "F-Zero X",
+  "logo": "assets/japan/logo-e6113c64f3156c7a.png",
+  "art": "assets/japan/art-e6113c64f3156c7a.jpg",
+  "crop": [
+   0,
+   8,
+   146,
+   67
+  ],
+  "background": "#161331"
+ },
+ {
+  "name": "Famista 64",
+  "logo": "assets/japan/logo-5c5f0c5dacba60b7.png",
+  "art": "assets/japan/art-5c5f0c5dacba60b7.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#4d1b10"
+ },
+ {
+  "name": "FIFA - Road to World Cup 98 - World Cup e no Michi",
+  "logo": null,
+  "art": "assets/japan/art-c22f3fbe3a0b207e.jpg",
+  "crop": [
+   0,
+   0,
+   308,
+   110
+  ],
+  "background": "#f8f7fc",
+  "art_viewport": [
+   0,
+   0,
+   63,
+   16
+  ],
+  "art_fit": "contain",
+  "transition": null
+ },
+ {
+  "name": "Fighting Cup",
+  "logo": "assets/japan/logo-7df137c83eef1fd8.png",
+  "art": "assets/japan/art-7df137c83eef1fd8.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#191b12"
+ },
+ {
+  "name": "Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou!",
+  "logo": "assets/japan/logo-50afbebdf7cc2435.png",
+  "art": "assets/japan/art-50afbebdf7cc2435.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#281715"
+ },
+ {
+  "name": "G.A.S.P!! Fighters' NEXTream",
+  "logo": null,
+  "art": "assets/japan/art-9733405c19587974.jpg",
+  "crop": [
+   0,
+   0,
+   380,
+   188
+  ],
+  "background": "#663431",
+  "art_viewport": [
+   0,
+   0,
+   63,
+   16
+  ],
+  "art_fit": "contain",
+  "transition": null
+ },
+ {
+  "name": "Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori",
+  "logo": "assets/japan/logo-db54ea79b30ca25d.png",
+  "art": "assets/japan/art-db54ea79b30ca25d.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#dbc6c5"
+ },
+ {
+  "name": "Ganbare Goemon - Neo Momoyama Bakufu no Odori",
+  "logo": "assets/japan/logo-0832c7f2c27b4483.png",
+  "art": "assets/japan/art-0832c7f2c27b4483.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#ded4dc"
+ },
+ {
+  "name": "Ganbare! Nippon! Olympics 2000",
+  "logo": "assets/japan/logo-8bf5c49812d7b885.png",
+  "art": "assets/japan/art-8bf5c49812d7b885.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#dabeb6"
+ },
+ {
+  "name": "Gauntlet Legends",
+  "logo": "assets/japan/logo-4400b1a44ffafbba.png",
+  "art": "assets/japan/art-4400b1a44ffafbba.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#721a13"
+ },
+ {
+  "name": "Getter Love!! - Cho Renai Party Game Tanjou",
+  "logo": "assets/japan/logo-0d0294ee5397360d.png",
+  "art": "assets/japan/art-0d0294ee5397360d.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#fefdf9"
+ },
+ {
+  "name": "Goemon - Mononoke Sugoroku",
+  "logo": "assets/japan/logo-9a7691182c8a3452.png",
+  "art": "assets/japan/art-9a7691182c8a3452.jpg",
+  "crop": [
+   0,
+   8,
+   204,
+   91
+  ],
+  "background": "#303c12"
+ },
+ {
+  "name": "GoldenEye 007",
+  "logo": "assets/japan/logo-f0ef2e1180df99b6.png",
+  "art": "assets/japan/art-f0ef2e1180df99b6.jpg",
+  "crop": [
+   12,
+   8,
+   268,
+   113
+  ],
+  "background": "#b0b0b0"
+ },
+ {
+  "name": "Hamster Monogatari 64",
+  "logo": "assets/japan/logo-fe5ffb7b9684208d.png",
+  "art": "assets/japan/art-fe5ffb7b9684208d.jpg",
+  "crop": [
+   6,
+   8,
+   198,
+   86
+  ],
+  "background": "#2a164e"
+ },
+ {
+  "name": "Harukanaru Augusta - Masters '98",
+  "logo": "assets/japan/logo-0293933facb88b24.png",
+  "art": "assets/japan/art-0293933facb88b24.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#1b581c"
+ },
+ {
+  "name": "Heiwa Pachinko World 64",
+  "logo": "assets/japan/logo-31ed0148706de786.png",
+  "art": "assets/japan/art-31ed0148706de786.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#d9c4c1"
+ },
+ {
+  "name": "Hexen",
+  "logo": "assets/japan/logo-3702083138bb6e70.png",
+  "art": "assets/japan/art-3702083138bb6e70.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#2a190c"
+ },
+ {
+  "name": "Hiryuu no Ken Twin",
+  "logo": "assets/japan/logo-0cb4e8b4b9b416fa.png",
+  "art": "assets/japan/art-0cb4e8b4b9b416fa.jpg",
+  "crop": [
+   0,
+   8,
+   199,
+   89
+  ],
+  "background": "#f2f5fa"
+ },
+ {
+  "name": "Hoshi no Kirby 64",
+  "logo": "assets/japan/logo-1ac86228fb259463.png",
+  "art": "assets/japan/art-1ac86228fb259463.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#382a27"
+ },
+ {
+  "name": "Human Grand Prix - The New Generation",
+  "logo": "assets/japan/logo-3620f45229a2fa5f.png",
+  "art": "assets/japan/art-3620f45229a2fa5f.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#eeefee"
+ },
+ {
+  "name": "Hybrid Heaven",
+  "logo": "assets/japan/logo-4b7373f68d20ceb2.png",
+  "art": "assets/japan/art-4b7373f68d20ceb2.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#32273a"
+ },
+ {
+  "name": "Hyper Olympics in Nagano 64",
+  "logo": "assets/japan/logo-b8f30311ea275f26.png",
+  "art": "assets/japan/art-b8f30311ea275f26.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#4a4d50"
+ },
+ {
+  "name": "Ide Yosuke no Mahjong Juku",
+  "logo": "assets/japan/logo-a22e416de5be6c53.png",
+  "art": "assets/japan/art-a22e416de5be6c53.jpg",
+  "crop": [
+   12,
+   8,
+   212,
+   90
+  ],
+  "background": "#3c2a1d"
+ },
+ {
+  "name": "Iggy-kun no Bura Bura Poyon",
+  "logo": "assets/japan/logo-6ea21d8dd598a4d7.png",
+  "art": "assets/japan/art-6ea21d8dd598a4d7.jpg",
+  "crop": [
+   12,
+   8,
+   211,
+   89
+  ],
+  "background": "#383f21"
+ },
+ {
+  "name": "Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban!",
+  "logo": "assets/japan/logo-63a3210621ed8bf0.png",
+  "art": "assets/japan/art-63a3210621ed8bf0.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#c7ca97"
+ },
+ {
+  "name": "J.League Dynamite Soccer 64",
+  "logo": "assets/japan/logo-5739524631984d63.png",
+  "art": "assets/japan/art-5739524631984d63.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#fafaf9"
+ },
+ {
+  "name": "J.League Eleven Beat 1997",
+  "logo": "assets/japan/logo-d05a340f94282f61.png",
+  "art": "assets/japan/art-d05a340f94282f61.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#1e1d1f"
+ },
+ {
+  "name": "J.League Live 64",
+  "logo": "assets/japan/logo-62ef7366321ac1c1.png",
+  "art": "assets/japan/art-62ef7366321ac1c1.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#2b1c14"
+ },
+ {
+  "name": "J.League Tactics Soccer",
+  "logo": "assets/japan/logo-d9a22d3e3bf88acc.png",
+  "art": "assets/japan/art-d9a22d3e3bf88acc.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#ffffff"
+ },
+ {
+  "name": "Jangou Simulation Mahjong Dou 64",
+  "logo": "assets/japan/logo-42ed04799ddf3db0.png",
+  "art": "assets/japan/art-42ed04799ddf3db0.jpg",
+  "crop": [
+   0,
+   8,
+   204,
+   91
+  ],
+  "background": "#b9cfbb"
+ },
+ {
+  "name": "Jikkyou G1 Stable",
+  "logo": "assets/japan/logo-e3fde73e597385e5.png",
+  "art": "assets/japan/art-e3fde73e597385e5.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#f3eff2"
+ },
+ {
+  "name": "Jikkyou J.League 1999 - Perfect Striker 2",
+  "logo": "assets/japan/logo-ead9967674a0eb9b.png",
+  "art": "assets/japan/art-ead9967674a0eb9b.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#cbdaca"
+ },
+ {
+  "name": "Jikkyou J.League Perfect Striker",
+  "logo": "assets/japan/logo-9505c3b9827a913a.png",
+  "art": "assets/japan/art-9505c3b9827a913a.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#c9cbbb"
+ },
+ {
+  "name": "Jikkyou Powerful Pro Yakyuu - Basic Ban 2001",
+  "logo": "assets/japan/logo-f8144b8e9595247e.png",
+  "art": "assets/japan/art-f8144b8e9595247e.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#261a13"
+ },
+ {
+  "name": "Jikkyou Powerful Pro Yakyuu 2000",
+  "logo": "assets/japan/logo-387dbaa74ef96cd8.png",
+  "art": "assets/japan/art-387dbaa74ef96cd8.jpg",
+  "crop": [
+   0,
+   8,
+   198,
+   89
+  ],
+  "background": "#fefefa"
+ },
+ {
+  "name": "Jikkyou Powerful Pro Yakyuu 4",
+  "logo": "assets/japan/logo-d536b11092c8c6b7.png",
+  "art": "assets/japan/art-d536b11092c8c6b7.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#e9ebe5"
+ },
+ {
+  "name": "Jikkyou Powerful Pro Yakyuu 5",
+  "logo": "assets/japan/logo-635d99a099739601.png",
+  "art": "assets/japan/art-635d99a099739601.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#242628"
+ },
+ {
+  "name": "Jikkyou Powerful Pro Yakyuu 6",
+  "logo": "assets/japan/logo-86053876344f395e.png",
+  "art": "assets/japan/art-86053876344f395e.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#26281e"
+ },
+ {
+  "name": "Jikkyou World Soccer - World Cup France '98",
+  "logo": "assets/japan/logo-a46d0aa463e78cf6.png",
+  "art": "assets/japan/art-a46d0aa463e78cf6.jpg",
+  "crop": [
+   0,
+   8,
+   128,
+   60
+  ],
+  "background": "#1c2f12"
+ },
+ {
+  "name": "Jikkyou World Soccer 3",
+  "logo": "assets/japan/logo-2a8efd9e6a569e4b.png",
+  "art": "assets/japan/art-2a8efd9e6a569e4b.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#b4c4e8"
+ },
+ {
+  "name": "Jikuu Senshi Turok",
+  "logo": "assets/japan/logo-21756ef6c2196d3c.png",
+  "art": "assets/japan/art-21756ef6c2196d3c.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#b39990"
+ },
+ {
+  "name": "Jinsei Game 64",
+  "logo": "assets/japan/logo-d31d14f1fdc64b46.png",
+  "art": "assets/japan/art-d31d14f1fdc64b46.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#20190d"
+ },
+ {
+  "name": "John Romero's Daikatana",
+  "logo": "assets/japan/logo-e8f580386af7f299.png",
+  "art": "assets/japan/art-e8f580386af7f299.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#1c2829"
+ },
+ {
+  "name": "Kakutou Denshou - F-Cup Maniax",
+  "logo": "assets/japan/logo-c8abb1b357f101c5.png",
+  "art": "assets/japan/art-c8abb1b357f101c5.jpg",
+  "crop": [
+   12,
+   8,
+   268,
+   113
+  ],
+  "background": "#a79586"
+ },
+ {
+  "name": "King Hill 64 - Extreme Snowboarding",
+  "logo": "assets/japan/logo-e37f2db91710aea7.png",
+  "art": "assets/japan/art-e37f2db91710aea7.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#c1c4d1"
+ },
+ {
+  "name": "Kiratto Kaiketsu! 64 Tanteidan",
+  "logo": "assets/japan/logo-98dbaea8f009caa1.png",
+  "art": "assets/japan/art-98dbaea8f009caa1.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#462c48"
+ },
+ {
+  "name": "Knife Edge - Nose Gunner",
+  "logo": "assets/japan/logo-72f75d2eb4249e1f.png",
+  "art": "assets/japan/art-72f75d2eb4249e1f.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#4f2d21"
+ },
+ {
+  "name": "Last Legion UX",
+  "logo": "assets/japan/logo-6b8db49d54f901bd.png",
+  "art": "assets/japan/art-6b8db49d54f901bd.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#430b0e"
+ },
+ {
+  "name": "Let's Smash",
+  "logo": "assets/japan/logo-ea20a39c00f30610.png",
+  "art": "assets/japan/art-ea20a39c00f30610.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#ddbdbe"
+ },
+ {
+  "name": "Lode Runner 3-D",
+  "logo": "assets/japan/logo-48e10508bf4999b4.png",
+  "art": "assets/japan/art-48e10508bf4999b4.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#cdcdc9"
+ },
+ {
+  "name": "Magical Tetris Challenge featuring Mickey",
+  "logo": "assets/japan/logo-479444ce6981b980.png",
+  "art": "assets/japan/art-479444ce6981b980.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#2e1b18"
+ },
+ {
+  "name": "Mahjong 64",
+  "logo": "assets/japan/logo-324a72b10725cf3e.png",
+  "art": "assets/japan/art-324a72b10725cf3e.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#f9ee25"
+ },
+ {
+  "name": "Mahjong Hourouki Classic",
+  "logo": "assets/japan/logo-7ce1be40b1a9ea23.png",
+  "art": "assets/japan/art-7ce1be40b1a9ea23.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#95ac85"
+ },
+ {
+  "name": "Mahjong Master",
+  "logo": "assets/japan/logo-6243deed9b88c2d0.png",
+  "art": "assets/japan/art-6243deed9b88c2d0.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#18201c"
+ },
+ {
+  "name": "Mario Golf 64",
+  "logo": "assets/japan/logo-8063a944b2203d64.png",
+  "art": "assets/japan/art-8063a944b2203d64.jpg",
+  "crop": [
+   0,
+   8,
+   128,
+   60
+  ],
+  "background": "#c7cfc8"
+ },
+ {
+  "name": "Mario Kart 64",
+  "logo": "assets/japan/logo-3467a2e84075c19b.png",
+  "art": "assets/japan/art-3467a2e84075c19b.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#161410"
+ },
+ {
+  "name": "Mario no Photopie",
+  "logo": "assets/japan/logo-4fc9ffdd5c5643c1.png",
+  "art": "assets/japan/art-4fc9ffdd5c5643c1.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#fbfcfa"
+ },
+ {
+  "name": "Mario Party",
+  "logo": "assets/japan/logo-de61d3ad74ba0d03.png",
+  "art": "assets/japan/art-de61d3ad74ba0d03.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#ebbf9b"
+ },
+ {
+  "name": "Mario Party 2",
+  "logo": "assets/japan/logo-f07d5461a9c6140e.png",
+  "art": "assets/japan/art-f07d5461a9c6140e.jpg",
+  "crop": [
+   0,
+   8,
+   146,
+   67
+  ],
+  "background": "#4a1b2b"
+ },
+ {
+  "name": "Mario Party 3",
+  "logo": "assets/japan/logo-67bddf0132106a50.png",
+  "art": "assets/japan/art-67bddf0132106a50.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#4f1b1e"
+ },
+ {
+  "name": "Mario Story",
+  "logo": "assets/japan/logo-2e2d4f8a5ff6f2a1.png",
+  "art": "assets/japan/art-2e2d4f8a5ff6f2a1.jpg",
+  "crop": [
+   0,
+   8,
+   146,
+   67
+  ],
+  "background": "#383224"
+ },
+ {
+  "name": "Mario Tennis 64",
+  "logo": "assets/japan/logo-a3660260563e7623.png",
+  "art": "assets/japan/art-a3660260563e7623.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#321a18"
+ },
+ {
+  "name": "Mickey no Racing Challenge USA",
+  "logo": "assets/japan/logo-ec37bf1fbfc94839.png",
+  "art": "assets/japan/art-ec37bf1fbfc94839.jpg",
+  "crop": [
+   0,
+   8,
+   204,
+   91
+  ],
+  "background": "#633326"
+ },
+ {
+  "name": "Morita Shougi 64",
+  "logo": "assets/japan/logo-9ff3efecd0687b6b.png",
+  "art": "assets/japan/art-9ff3efecd0687b6b.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#c7ab58"
+ },
+ {
+  "name": "MRC - Multi-Racing Championship",
+  "logo": "assets/japan/logo-a31da75f8ce6e86c.png",
+  "art": "assets/japan/art-a31da75f8ce6e86c.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#c7c7c7"
+ },
+ {
+  "name": "NBA in the Zone '98",
+  "logo": "assets/japan/logo-81f227e53067f7aa.png",
+  "art": "assets/japan/art-81f227e53067f7aa.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#1f1322"
+ },
+ {
+  "name": "NBA in the Zone 2",
+  "logo": "assets/japan/logo-d12ec404405db1f1.png",
+  "art": "assets/japan/art-d12ec404405db1f1.jpg",
+  "crop": [
+   12,
+   8,
+   215,
+   91
+  ],
+  "background": "#ab0b19"
+ },
+ {
+  "name": "Neon Genesis Evangelion",
+  "logo": "assets/japan/logo-aeda50e745b3a748.png",
+  "art": "assets/japan/art-aeda50e745b3a748.jpg",
+  "crop": [
+   0,
+   8,
+   198,
+   89
+  ],
+  "background": "#101014"
+ },
+ {
+  "name": "Nintama Rantarou 64 Game Gallery",
+  "logo": "assets/japan/logo-10daa36a029f71a3.png",
+  "art": "assets/japan/art-10daa36a029f71a3.jpg",
+  "crop": [
+   0,
+   8,
+   128,
+   60
+  ],
+  "background": "#aacda2"
+ },
+ {
+  "name": "Nintendo All-Star! Dairantou Smash Brothers",
+  "logo": "assets/logo-01.png",
+  "art": "assets/art-01.png",
+  "crop": [
+   30,
+   70,
+   480,
+   390
+  ],
+  "background": "#eee9d8"
+ },
+ {
+  "name": "Nushi Zuri 64",
+  "logo": "assets/japan/logo-225676ef7bbf7a88.png",
+  "art": "assets/japan/art-225676ef7bbf7a88.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#1a280b"
+ },
+ {
+  "name": "Nushi Zuri 64 - Shiokaze ni Notte",
+  "logo": "assets/japan/logo-359b24e74a66b27d.png",
+  "art": "assets/japan/art-359b24e74a66b27d.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#113152"
+ },
+ {
+  "name": "Ogre Battle 64 - Person of Lordly Caliber",
+  "logo": "assets/japan/logo-9abd29965841c8a7.png",
+  "art": "assets/japan/art-9abd29965841c8a7.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#413d0b"
+ },
+ {
+  "name": "Olympic Hockey 98",
+  "logo": "assets/japan/logo-11f1973507750452.png",
+  "art": "assets/japan/art-11f1973507750452.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#fefefe"
+ },
+ {
+  "name": "Onegai Monsters",
+  "logo": "assets/japan/logo-ddb86b4f9dec473e.png",
+  "art": "assets/japan/art-ddb86b4f9dec473e.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#35220a"
+ },
+ {
+  "name": "Pachinko 365 Nichi",
+  "logo": "assets/japan/logo-1d525078d30c512d.png",
+  "art": "assets/japan/art-1d525078d30c512d.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#47352b"
+ },
+ {
+  "name": "Parlor! Pro 64 - Pachinko Jikki Simulation Game",
+  "logo": "assets/japan/logo-533d64c813a0d3e0.png",
+  "art": "assets/japan/art-533d64c813a0d3e0.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#3b1b0e"
+ },
+ {
+  "name": "PD Ultraman Battle Collection 64",
+  "logo": "assets/japan/logo-bb939db95c0aebcc.png",
+  "art": "assets/japan/art-bb939db95c0aebcc.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#273135"
+ },
+ {
+  "name": "Perfect Dark",
+  "logo": "assets/japan/logo-e0dbd9d489323317.png",
+  "art": "assets/japan/art-e0dbd9d489323317.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#34413a"
+ },
+ {
+  "name": "Pikachuu Genki de Chuu",
+  "logo": "assets/japan/logo-abc7e690ded9dce1.png",
+  "art": "assets/japan/art-abc7e690ded9dce1.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#3b370c"
+ },
+ {
+  "name": "Pilotwings 64",
+  "logo": "assets/japan/logo-16a80fcebd4b42fd.png",
+  "art": "assets/japan/art-16a80fcebd4b42fd.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#2f3143"
+ },
+ {
+  "name": "Pokemon Snap",
+  "logo": "assets/japan/logo-8d96706340fc6ce4.png",
+  "art": "assets/japan/art-8d96706340fc6ce4.jpg",
+  "crop": [
+   12,
+   8,
+   142,
+   61
+  ],
+  "background": "#cbcbc7"
+ },
+ {
+  "name": "Pokemon Stadium",
+  "logo": "assets/japan/logo-0ec8513021f1ba4c.png",
+  "art": "assets/japan/art-0ec8513021f1ba4c.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#22281e"
+ },
+ {
+  "name": "Pokemon Stadium 2",
+  "logo": "assets/japan/logo-99a5b96b643f8355.png",
+  "art": "assets/japan/art-99a5b96b643f8355.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#052415"
+ },
+ {
+  "name": "Pokemon Stadium Kin Gin",
+  "logo": "assets/japan/logo-2e9e0aec8152083b.png",
+  "art": "assets/japan/art-2e9e0aec8152083b.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#221c11"
+ },
+ {
+  "name": "Power League 64",
+  "logo": "assets/japan/logo-b63aae88ebe66442.png",
+  "art": "assets/japan/art-b63aae88ebe66442.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#dcc2b3"
+ },
+ {
+  "name": "Pro Mahjong Kiwame 64",
+  "logo": "assets/japan/logo-525c7e10dc174337.png",
+  "art": "assets/japan/art-525c7e10dc174337.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#b0cfc0"
+ },
+ {
+  "name": "Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen",
+  "logo": "assets/japan/logo-0a9ccdc603c02704.png",
+  "art": "assets/japan/art-0a9ccdc603c02704.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#d8c4b1"
+ },
+ {
+  "name": "Puyo Puyo Sun 64",
+  "logo": "assets/japan/logo-aa1e2b836470175a.png",
+  "art": "assets/japan/art-aa1e2b836470175a.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#fdf965"
+ },
+ {
+  "name": "Puyo Puyoon Party",
+  "logo": "assets/japan/logo-82f6246e964fdeca.png",
+  "art": "assets/japan/art-82f6246e964fdeca.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#332212"
+ },
+ {
+  "name": "Puzzle Bobble 64",
+  "logo": "assets/japan/logo-56f4692679dd2cdb.png",
+  "art": "assets/japan/art-56f4692679dd2cdb.jpg",
+  "crop": [
+   0,
+   8,
+   198,
+   89
+  ],
+  "background": "#fffff3"
+ },
+ {
+  "name": "Rakugakids",
+  "logo": "assets/japan/logo-aeee803e4f3c44e9.png",
+  "art": "assets/japan/art-aeee803e4f3c44e9.jpg",
+  "crop": [
+   12,
+   8,
+   211,
+   89
+  ],
+  "background": "#fccc8d"
+ },
+ {
+  "name": "Rally '99",
+  "logo": "assets/japan/logo-c67dfa02c79c4edc.png",
+  "art": "assets/japan/art-c67dfa02c79c4edc.jpg",
+  "crop": [
+   12,
+   8,
+   211,
+   89
+  ],
+  "background": "#e6dabb"
+ },
+ {
+  "name": "Robot Poncots 64 - 7tsu no Umi no Caramel",
+  "logo": "assets/japan/logo-8be079f3e1f1437d.png",
+  "art": "assets/japan/art-8be079f3e1f1437d.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#6e1309"
+ },
+ {
+  "name": "Rockman Dash - Hagane no Boukenshin",
+  "logo": "assets/japan/logo-8d62550ac5b9a205.png",
+  "art": "assets/japan/art-8d62550ac5b9a205.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#361f14"
+ },
+ {
+  "name": "Saikyou Habu Shougi",
+  "logo": "assets/japan/logo-5b6b05611b789ae8.png",
+  "art": "assets/japan/art-5b6b05611b789ae8.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#947539"
+ },
+ {
+  "name": "SD Hiryuu no Ken Densetsu",
+  "logo": "assets/japan/logo-e05d52218631f418.png",
+  "art": "assets/japan/art-e05d52218631f418.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#080400"
+ },
+ {
+  "name": "Shadowgate 64 - Trials of the Four Towers",
+  "logo": "assets/japan/logo-1e13fb0afc0929d4.png",
+  "art": "assets/japan/art-1e13fb0afc0929d4.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#f6cac9"
+ },
+ {
+  "name": "Shin Nihon Pro Wrestling Toukon Road - Brave Spirits",
+  "logo": "assets/japan/logo-8845cc71905ba081.png",
+  "art": "assets/japan/art-8845cc71905ba081.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#f5e9dd"
+ },
+ {
+  "name": "Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation",
+  "logo": "assets/japan/logo-fb391319ee9d8338.png",
+  "art": "assets/japan/art-fb391319ee9d8338.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#c4bdbc"
+ },
+ {
+  "name": "SimCity 2000",
+  "logo": "assets/japan/logo-0339420d5bd63f26.png",
+  "art": "assets/japan/art-0339420d5bd63f26.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#1e1a0c"
+ },
+ {
+  "name": "Snobo Kids",
+  "logo": null,
+  "art": "assets/japan/art-0d82028807ef742e.jpg",
+  "crop": [
+   0,
+   0,
+   320,
+   120
+  ],
+  "background": "#000000",
+  "art_viewport": [
+   0,
+   0,
+   63,
+   16
+  ],
+  "art_fit": "contain",
+  "transition": null
+ },
+ {
+  "name": "Snow Speeder",
+  "logo": "assets/japan/logo-0093c863a0da7dd0.png",
+  "art": "assets/japan/art-0093c863a0da7dd0.jpg",
+  "crop": [
+   12,
+   8,
+   211,
+   89
+  ],
+  "background": "#3a3e64"
+ },
+ {
+  "name": "Sonic Wings Assault",
+  "logo": "assets/japan/logo-2e4394706acfa205.png",
+  "art": "assets/japan/art-2e4394706acfa205.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#433d44"
+ },
+ {
+  "name": "Space Dynamites",
+  "logo": "assets/japan/logo-74b9e5b8f23735cf.png",
+  "art": "assets/japan/art-74b9e5b8f23735cf.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#cbc8c2"
+ },
+ {
+  "name": "Star Fox 64",
+  "logo": "assets/japan/logo-1a5a9820f57124fc.png",
+  "art": "assets/japan/art-1a5a9820f57124fc.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#22271d"
+ },
+ {
+  "name": "Star Soldier - Vanishing Earth",
+  "logo": "assets/japan/logo-bac4b89cfacf1601.png",
+  "art": "assets/japan/art-bac4b89cfacf1601.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#bed3e5"
+ },
+ {
+  "name": "Star Twins",
+  "logo": "assets/japan/logo-fe7c5b5ed6eacca1.png",
+  "art": "assets/japan/art-fe7c5b5ed6eacca1.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#bdc2b5"
+ },
+ {
+  "name": "Star Wars - Shutsugeki! Rogue Chuutai",
+  "logo": "assets/japan/logo-67fba616cdddd140.png",
+  "art": "assets/japan/art-67fba616cdddd140.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#dad2cc"
+ },
+ {
+  "name": "Star Wars - Teikoku no Kage",
+  "logo": "assets/japan/logo-5c533b73b14a2393.png",
+  "art": "assets/japan/art-5c533b73b14a2393.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#1a1c1c"
+ },
+ {
+  "name": "Star Wars Episode I - Racer",
+  "logo": "assets/japan/logo-7a39c2cf63d42b13.png",
+  "art": "assets/japan/art-7a39c2cf63d42b13.jpg",
+  "crop": [
+   12,
+   8,
+   268,
+   113
+  ],
+  "background": "#545e7c"
+ },
+ {
+  "name": "Super B-Daman - Battle Phoenix 64",
+  "logo": "assets/japan/logo-27398bd889f86a99.png",
+  "art": "assets/japan/art-27398bd889f86a99.jpg",
+  "crop": [
+   0,
+   8,
+   204,
+   91
+  ],
+  "background": "#272628"
+ },
+ {
+  "name": "Super Bowling",
+  "logo": "assets/japan/logo-1d9f211a99445f3a.png",
+  "art": "assets/japan/art-1d9f211a99445f3a.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#0c1f1a"
+ },
+ {
+  "name": "Super Mario 64",
+  "logo": "assets/japan/logo-ca64434fe17446ed.png",
+  "art": "assets/japan/art-ca64434fe17446ed.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#9bd5ea"
+ },
+ {
+  "name": "Super Mario 64 (Shindou Edition)",
+  "logo": "assets/japan/logo-5ea82c03d7774f2d.png",
+  "art": "assets/japan/art-5ea82c03d7774f2d.jpg",
+  "crop": [
+   12,
+   8,
+   268,
+   113
+  ],
+  "background": "#a8e3ae"
+ },
+ {
+  "name": "Super Robot Spirits",
+  "logo": "assets/japan/logo-feb8f5ed56112bc7.png",
+  "art": "assets/japan/art-feb8f5ed56112bc7.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#792727"
+ },
+ {
+  "name": "Super Robot Taisen 64",
+  "logo": "assets/japan/logo-9943a6e95013d7b3.png",
+  "art": "assets/japan/art-9943a6e95013d7b3.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#4e2b29"
+ },
+ {
+  "name": "Super Speed Race 64",
+  "logo": "assets/japan/logo-4f348ca8a7c88783.png",
+  "art": "assets/japan/art-4f348ca8a7c88783.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#181a26"
+ },
+ {
+  "name": "Susume! Taisen Puzzle Dama - Toukon! Marutama Chou",
+  "logo": "assets/japan/logo-0f4617b423736f24.png",
+  "art": "assets/japan/art-0f4617b423736f24.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#4c4645"
+ },
+ {
+  "name": "Tetris 64",
+  "logo": "assets/japan/logo-04d2b911d2c804c7.png",
+  "art": "assets/japan/art-04d2b911d2c804c7.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#b2baad"
+ },
+ {
+  "name": "Top Gear Hyper Bike",
+  "logo": "assets/japan/logo-44a3175cce8c0562.png",
+  "art": "assets/japan/art-44a3175cce8c0562.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#aad2ef"
+ },
+ {
+  "name": "Top Gear Overdrive",
+  "logo": "assets/japan/logo-ef7a8f3ab884164e.png",
+  "art": "assets/japan/art-ef7a8f3ab884164e.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#473e3a"
+ },
+ {
+  "name": "Top Gear Rally",
+  "logo": "assets/japan/logo-57b99f1d48ba84aa.png",
+  "art": "assets/japan/art-57b99f1d48ba84aa.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#1c1b28"
+ },
+ {
+  "name": "Top Gear Rally 2",
+  "logo": "assets/japan/logo-5c8e65251d70129e.png",
+  "art": "assets/japan/art-5c8e65251d70129e.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#362114"
+ },
+ {
+  "name": "Transformers - Beast Wars Metals 64",
+  "logo": "assets/japan/logo-b7d96a495a6ba91a.png",
+  "art": "assets/japan/art-b7d96a495a6ba91a.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#452f2b"
+ },
+ {
+  "name": "Tsumi to Batsu - Hoshi no Keishousha",
+  "logo": "assets/japan/logo-a599bae6cc4a6909.png",
+  "art": "assets/japan/art-a599bae6cc4a6909.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#9ba7c4"
+ },
+ {
+  "name": "Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou",
+  "logo": "assets/japan/logo-9cbe97bc9503417d.png",
+  "art": "assets/japan/art-9cbe97bc9503417d.jpg",
+  "crop": [
+   0,
+   8,
+   172,
+   78
+  ],
+  "background": "#5a2628"
+ },
+ {
+  "name": "V-Rally Edition 99",
+  "logo": "assets/japan/logo-f67561c0a5b6938d.png",
+  "art": "assets/japan/art-f67561c0a5b6938d.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#706348"
+ },
+ {
+  "name": "Violence Killer - Turok New Generation",
+  "logo": "assets/japan/logo-db713c1c3b6b8cba.png",
+  "art": "assets/japan/art-db713c1c3b6b8cba.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#c7cbce"
+ },
+ {
+  "name": "Virtual Pro Wrestling 2 - Oudou Keishou",
+  "logo": "assets/japan/logo-eeb2c1317796ef4c.png",
+  "art": "assets/japan/art-eeb2c1317796ef4c.jpg",
+  "crop": [
+   0,
+   8,
+   204,
+   91
+  ],
+  "background": "#eaecf1"
+ },
+ {
+  "name": "Virtual Pro Wrestling 64",
+  "logo": "assets/japan/logo-ca3fba83eff85d6f.png",
+  "art": "assets/japan/art-ca3fba83eff85d6f.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#d6cfc8"
+ },
+ {
+  "name": "Wave Race 64 - Kawasaki Jet Ski",
+  "logo": "assets/japan/logo-afc7cc11daf76aca.png",
+  "art": "assets/japan/art-afc7cc11daf76aca.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#13171c"
+ },
+ {
+  "name": "Wave Race 64 - Kawasaki Jet Ski (Shindou Edition)",
+  "logo": "assets/japan/logo-c4eb6327bc77aa08.png",
+  "art": "assets/japan/art-c4eb6327bc77aa08.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#19181a"
+ },
+ {
+  "name": "Wayne Gretzky's 3D Hockey",
+  "logo": "assets/japan/logo-b933c495252a725b.png",
+  "art": "assets/japan/art-b933c495252a725b.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#c5c8e5"
+ },
+ {
+  "name": "Wetrix",
+  "logo": "assets/japan/logo-295e9430b1c90b75.png",
+  "art": "assets/japan/art-295e9430b1c90b75.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#fbc884"
+ },
+ {
+  "name": "Wild Choppers",
+  "logo": "assets/japan/logo-b7eda2432393d6f5.png",
+  "art": "assets/japan/art-b7eda2432393d6f5.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#211b0c"
+ },
+ {
+  "name": "WinBack",
+  "logo": "assets/japan/logo-b750773760de275f.png",
+  "art": "assets/japan/art-b750773760de275f.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#adb0ac"
+ },
+ {
+  "name": "Wonder Project J2 - Koruro no Mori no Jozet",
+  "logo": "assets/japan/logo-2c963a7d21e15596.png",
+  "art": "assets/japan/art-2c963a7d21e15596.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#0a303c"
+ },
+ {
+  "name": "WWF WrestleMania 2000",
+  "logo": "assets/japan/logo-80337f4ef341d77e.png",
+  "art": "assets/japan/art-80337f4ef341d77e.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#48301d"
+ },
+ {
+  "name": "Yakouchuu II - Satsujin Kouro",
+  "logo": "assets/japan/logo-b7e1280fe1495583.png",
+  "art": "assets/japan/art-b7e1280fe1495583.jpg",
+  "crop": [
+   12,
+   8,
+   210,
+   89
+  ],
+  "background": "#aab0b7"
+ },
+ {
+  "name": "Yoshi Story",
+  "logo": "assets/japan/logo-887144e2816c2dce.png",
+  "art": "assets/japan/art-887144e2816c2dce.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#d8d4ca"
+ },
+ {
+  "name": "Yuke Yuke!! Trouble Makers",
+  "logo": "assets/japan/logo-9066341a0b16f51d.png",
+  "art": "assets/japan/art-9066341a0b16f51d.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#c7cab8"
+ },
+ {
+  "name": "Zelda no Densetsu - Mujura no Kamen",
+  "logo": "assets/japan/logo-258cba44e2bdb183.png",
+  "art": "assets/japan/art-258cba44e2bdb183.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#adabaf"
+ },
+ {
+  "name": "Zelda no Densetsu - Toki no Ocarina",
+  "logo": "assets/japan/logo-1da1d4d63130e396.png",
+  "art": "assets/japan/art-1da1d4d63130e396.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#b8b7b6"
+ },
+ {
+  "name": "Zool - Majuu Tsukai Densetsu",
+  "logo": "assets/japan/logo-55d095b0fde030b1.png",
+  "art": "assets/japan/art-55d095b0fde030b1.jpg",
+  "crop": [
+   12,
+   8,
+   216,
+   91
+  ],
+  "background": "#f0cadf"
+ }
+]

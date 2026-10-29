@@ -1,0 +1,54 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "V-Rally Edition 99",
+    "file": "01-v-rally-edition-99.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a07f02546f6b7efd6833df7b998561336425622f781c2e457e4e87caa39baac5"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Violence Killer - Turok New Generation",
+    "file": "02-violence-killer-turok-new-generation.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "c45f4e9745f05577ec3d1e3d085bca95b0646e8e648af17f837409659209424c"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Virtual Pro Wrestling 2 - Oudou Keishou",
+    "file": "03-virtual-pro-wrestling-2-oudou-keishou.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "2a15df33d7ff73efa4a77f378671b4b1bb40b05ba92ae2227ddf7e90fa6264e9"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Virtual Pro Wrestling 64",
+    "file": "04-virtual-pro-wrestling-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "94945682be45e78da77f74c4913f4a452cf47d04eaf9d322974e5eaab522617d"
+  }
+]

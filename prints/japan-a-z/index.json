@@ -1,0 +1,1042 @@
+{
+ "0-9": [
+  {
+   "name": "1080 Snowboarding",
+   "file": "0-9/01-1080-snowboarding.png",
+   "stage": "draft"
+  },
+  {
+   "name": "64 de Hakken!! Tamagotchi - Minna de Tamagotchi World",
+   "file": "0-9/02-64-de-hakken-tamagotchi-minna-de-tamagotchi-world.png",
+   "stage": "draft"
+  },
+  {
+   "name": "64 Hanafuda - Tenshi no Yakusoku",
+   "file": "0-9/03-64-hanafuda-tenshi-no-yakusoku.png",
+   "stage": "draft"
+  },
+  {
+   "name": "64 Oozumou",
+   "file": "0-9/04-64-oozumou.png",
+   "stage": "draft"
+  },
+  {
+   "name": "64 Oozumou 2",
+   "file": "0-9/05-64-oozumou-2.png",
+   "stage": "draft"
+  },
+  {
+   "name": "64 Trump Collection - Alice no Wakuwaku Trump World",
+   "file": "0-9/06-64-trump-collection-alice-no-wakuwaku-trump-world.png",
+   "stage": "draft"
+  }
+ ],
+ "A": [
+  {
+   "name": "AeroGauge",
+   "file": "A/01-aerogauge.png",
+   "stage": "draft"
+  },
+  {
+   "name": "AI Shougi 3",
+   "file": "A/02-ai-shougi-3.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Air Boarder 64",
+   "file": "A/03-air-boarder-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Akumajou Dracula Mokushiroku - Real Action Adventure",
+   "file": "A/04-akumajou-dracula-mokushiroku-real-action-adventure.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Akumajou Dracula Mokushiroku Gaiden - Legend of Cornell",
+   "file": "A/05-akumajou-dracula-mokushiroku-gaiden-legend-of-cornell.png",
+   "stage": "draft"
+  }
+ ],
+ "B": [
+  {
+   "name": "Baku Bomberman",
+   "file": "B/01-baku-bomberman.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Baku Bomberman 2",
+   "file": "B/02-baku-bomberman-2.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Bakuretsu Muteki Bangaioh",
+   "file": "B/03-bakuretsu-muteki-bangaioh.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Bakushou Jinsei 64 - Mezase! Resort Ou",
+   "file": "B/04-bakushou-jinsei-64-mezase-resort-ou.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Banjo to Kazooie no Daibouken",
+   "file": "B/05-banjo-to-kazooie-no-daibouken.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Banjo to Kazooie no Daibouken 2",
+   "file": "B/06-banjo-to-kazooie-no-daibouken-2.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Bass Rush - ECOGEAR PowerWorm Championship",
+   "file": "B/07-bass-rush-ecogear-powerworm-championship.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Beetle Adventure Racing!",
+   "file": "B/08-beetle-adventure-racing.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Biohazard 2",
+   "file": "B/09-biohazard-2.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Blastdozer",
+   "file": "B/10-blastdozer.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Bokujou Monogatari 2",
+   "file": "B/11-bokujou-monogatari-2.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Bomberman 64",
+   "file": "B/12-bomberman-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Bomberman Hero - Mirian Oujo o Sukue!",
+   "file": "B/13-bomberman-hero-mirian-oujo-o-sukue.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Buck Bumble",
+   "file": "B/14-buck-bumble.png",
+   "stage": "draft"
+  }
+ ],
+ "C": [
+  {
+   "name": "Chameleon Twist",
+   "file": "C/01-chameleon-twist.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Chameleon Twist 2",
+   "file": "C/02-chameleon-twist-2.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Choro Q 64",
+   "file": "C/03-choro-q-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Choro Q 64 2 - Hacha Mecha Grand Prix Race",
+   "file": "C/04-choro-q-64-2-hacha-mecha-grand-prix-race.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Chou Kuukan Nighter Pro Yakyuu King",
+   "file": "C/05-chou-kuukan-nighter-pro-yakyuu-king.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Chou Kuukan Nighter Pro Yakyuu King 2",
+   "file": "C/06-chou-kuukan-nighter-pro-yakyuu-king-2.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Chou Snobo Kids",
+   "file": "C/07-chou-snobo-kids.png",
+   "stage": "draft"
+  },
+  {
+   "name": "City-Tour GP - Zen-Nihon GT Senshuken",
+   "file": "C/08-city-tour-gp-zen-nihon-gt-senshuken.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Custom Robo",
+   "file": "C/09-custom-robo.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Custom Robo V2",
+   "file": "C/10-custom-robo-v2.png",
+   "stage": "draft"
+  }
+ ],
+ "D": [
+  {
+   "name": "Dance Dance Revolution - Disney Dancing Museum",
+   "file": "D/01-dance-dance-revolution-disney-dancing-museum.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Densha de Go! 64",
+   "file": "D/02-densha-de-go-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Derby Stallion 64",
+   "file": "D/03-derby-stallion-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Dezaemon 3D",
+   "file": "D/04-dezaemon-3d.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Diddy Kong Racing",
+   "file": "D/05-diddy-kong-racing.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Donkey Kong 64",
+   "file": "D/06-donkey-kong-64.png",
+   "stage": "visual_reviewed"
+  },
+  {
+   "name": "Doom 64",
+   "file": "D/07-doom-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Doraemon - Nobita to 3tsu no Seireiseki",
+   "file": "D/08-doraemon-nobita-to-3tsu-no-seireiseki.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Doraemon 2 - Nobita to Hikari no Shinden",
+   "file": "D/09-doraemon-2-nobita-to-hikari-no-shinden.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Doraemon 3 - Nobita no Machi SOS!",
+   "file": "D/10-doraemon-3-nobita-no-machi-sos.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Doubutsu no Mori",
+   "file": "D/11-doubutsu-no-mori.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Dual Heroes",
+   "file": "D/12-dual-heroes.png",
+   "stage": "draft"
+  }
+ ],
+ "E": [
+  {
+   "name": "Eikou no Saint Andrews",
+   "file": "E/01-eikou-no-saint-andrews.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Eltale Monsters",
+   "file": "E/02-eltale-monsters.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Excitebike 64",
+   "file": "E/03-excitebike-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Extreme-G",
+   "file": "E/04-extreme-g.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Extreme-G XG2",
+   "file": "E/05-extreme-g-xg2.png",
+   "stage": "draft"
+  }
+ ],
+ "F": [
+  {
+   "name": "F-1 World Grand Prix",
+   "file": "F/01-f-1-world-grand-prix.png",
+   "stage": "draft"
+  },
+  {
+   "name": "F-Zero X",
+   "file": "F/02-f-zero-x.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Famista 64",
+   "file": "F/03-famista-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "FIFA - Road to World Cup 98 - World Cup e no Michi",
+   "file": "F/04-fifa-road-to-world-cup-98-world-cup-e-no-michi.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Fighting Cup",
+   "file": "F/05-fighting-cup.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou!",
+   "file": "F/06-fushigi-no-dungeon-fuurai-no-shiren-2-oni-shuurai-shiren-jou.png",
+   "stage": "draft"
+  }
+ ],
+ "G": [
+  {
+   "name": "G.A.S.P!! Fighters' NEXTream",
+   "file": "G/01-g-a-s-p-fighters-nextream.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori",
+   "file": "G/02-ganbare-goemon-dero-dero-douchuu-obake-tenkomori.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Ganbare Goemon - Neo Momoyama Bakufu no Odori",
+   "file": "G/03-ganbare-goemon-neo-momoyama-bakufu-no-odori.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Ganbare! Nippon! Olympics 2000",
+   "file": "G/04-ganbare-nippon-olympics-2000.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Gauntlet Legends",
+   "file": "G/05-gauntlet-legends.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Getter Love!! - Cho Renai Party Game Tanjou",
+   "file": "G/06-getter-love-cho-renai-party-game-tanjou.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Goemon - Mononoke Sugoroku",
+   "file": "G/07-goemon-mononoke-sugoroku.png",
+   "stage": "draft"
+  },
+  {
+   "name": "GoldenEye 007",
+   "file": "G/08-goldeneye-007.png",
+   "stage": "draft"
+  }
+ ],
+ "H": [
+  {
+   "name": "Hamster Monogatari 64",
+   "file": "H/01-hamster-monogatari-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Harukanaru Augusta - Masters '98",
+   "file": "H/02-harukanaru-augusta-masters-98.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Heiwa Pachinko World 64",
+   "file": "H/03-heiwa-pachinko-world-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Hexen",
+   "file": "H/04-hexen.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Hiryuu no Ken Twin",
+   "file": "H/05-hiryuu-no-ken-twin.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Hoshi no Kirby 64",
+   "file": "H/06-hoshi-no-kirby-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Human Grand Prix - The New Generation",
+   "file": "H/07-human-grand-prix-the-new-generation.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Hybrid Heaven",
+   "file": "H/08-hybrid-heaven.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Hyper Olympics in Nagano 64",
+   "file": "H/09-hyper-olympics-in-nagano-64.png",
+   "stage": "draft"
+  }
+ ],
+ "I": [
+  {
+   "name": "Ide Yosuke no Mahjong Juku",
+   "file": "I/01-ide-yosuke-no-mahjong-juku.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Iggy-kun no Bura Bura Poyon",
+   "file": "I/02-iggy-kun-no-bura-bura-poyon.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban!",
+   "file": "I/03-itoi-shigesato-no-bass-tsuri-no-1-kettei-ban.png",
+   "stage": "draft"
+  }
+ ],
+ "J": [
+  {
+   "name": "J.League Dynamite Soccer 64",
+   "file": "J/01-j-league-dynamite-soccer-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "J.League Eleven Beat 1997",
+   "file": "J/02-j-league-eleven-beat-1997.png",
+   "stage": "draft"
+  },
+  {
+   "name": "J.League Live 64",
+   "file": "J/03-j-league-live-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "J.League Tactics Soccer",
+   "file": "J/04-j-league-tactics-soccer.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Jangou Simulation Mahjong Dou 64",
+   "file": "J/05-jangou-simulation-mahjong-dou-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Jikkyou G1 Stable",
+   "file": "J/06-jikkyou-g1-stable.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Jikkyou J.League 1999 - Perfect Striker 2",
+   "file": "J/07-jikkyou-j-league-1999-perfect-striker-2.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Jikkyou J.League Perfect Striker",
+   "file": "J/08-jikkyou-j-league-perfect-striker.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Jikkyou Powerful Pro Yakyuu - Basic Ban 2001",
+   "file": "J/09-jikkyou-powerful-pro-yakyuu-basic-ban-2001.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Jikkyou Powerful Pro Yakyuu 2000",
+   "file": "J/10-jikkyou-powerful-pro-yakyuu-2000.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Jikkyou Powerful Pro Yakyuu 4",
+   "file": "J/11-jikkyou-powerful-pro-yakyuu-4.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Jikkyou Powerful Pro Yakyuu 5",
+   "file": "J/12-jikkyou-powerful-pro-yakyuu-5.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Jikkyou Powerful Pro Yakyuu 6",
+   "file": "J/13-jikkyou-powerful-pro-yakyuu-6.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Jikkyou World Soccer - World Cup France '98",
+   "file": "J/14-jikkyou-world-soccer-world-cup-france-98.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Jikkyou World Soccer 3",
+   "file": "J/15-jikkyou-world-soccer-3.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Jikuu Senshi Turok",
+   "file": "J/16-jikuu-senshi-turok.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Jinsei Game 64",
+   "file": "J/17-jinsei-game-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "John Romero's Daikatana",
+   "file": "J/18-john-romero-s-daikatana.png",
+   "stage": "draft"
+  }
+ ],
+ "K": [
+  {
+   "name": "Kakutou Denshou - F-Cup Maniax",
+   "file": "K/01-kakutou-denshou-f-cup-maniax.png",
+   "stage": "draft"
+  },
+  {
+   "name": "King Hill 64 - Extreme Snowboarding",
+   "file": "K/02-king-hill-64-extreme-snowboarding.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Kiratto Kaiketsu! 64 Tanteidan",
+   "file": "K/03-kiratto-kaiketsu-64-tanteidan.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Knife Edge - Nose Gunner",
+   "file": "K/04-knife-edge-nose-gunner.png",
+   "stage": "draft"
+  }
+ ],
+ "L": [
+  {
+   "name": "Last Legion UX",
+   "file": "L/01-last-legion-ux.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Let's Smash",
+   "file": "L/02-let-s-smash.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Lode Runner 3-D",
+   "file": "L/03-lode-runner-3-d.png",
+   "stage": "draft"
+  }
+ ],
+ "M": [
+  {
+   "name": "Magical Tetris Challenge featuring Mickey",
+   "file": "M/01-magical-tetris-challenge-featuring-mickey.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Mahjong 64",
+   "file": "M/02-mahjong-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Mahjong Hourouki Classic",
+   "file": "M/03-mahjong-hourouki-classic.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Mahjong Master",
+   "file": "M/04-mahjong-master.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Mario Golf 64",
+   "file": "M/05-mario-golf-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Mario Kart 64",
+   "file": "M/06-mario-kart-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Mario no Photopie",
+   "file": "M/07-mario-no-photopie.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Mario Party",
+   "file": "M/08-mario-party.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Mario Party 2",
+   "file": "M/09-mario-party-2.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Mario Party 3",
+   "file": "M/10-mario-party-3.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Mario Story",
+   "file": "M/11-mario-story.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Mario Tennis 64",
+   "file": "M/12-mario-tennis-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Mickey no Racing Challenge USA",
+   "file": "M/13-mickey-no-racing-challenge-usa.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Morita Shougi 64",
+   "file": "M/14-morita-shougi-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "MRC - Multi-Racing Championship",
+   "file": "M/15-mrc-multi-racing-championship.png",
+   "stage": "draft"
+  }
+ ],
+ "N": [
+  {
+   "name": "NBA in the Zone '98",
+   "file": "N/01-nba-in-the-zone-98.png",
+   "stage": "draft"
+  },
+  {
+   "name": "NBA in the Zone 2",
+   "file": "N/02-nba-in-the-zone-2.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Neon Genesis Evangelion",
+   "file": "N/03-neon-genesis-evangelion.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Nintama Rantarou 64 Game Gallery",
+   "file": "N/04-nintama-rantarou-64-game-gallery.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Nintendo All-Star! Dairantou Smash Brothers",
+   "file": "N/05-nintendo-all-star-dairantou-smash-brothers.png",
+   "stage": "visual_reviewed"
+  },
+  {
+   "name": "Nushi Zuri 64",
+   "file": "N/06-nushi-zuri-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Nushi Zuri 64 - Shiokaze ni Notte",
+   "file": "N/07-nushi-zuri-64-shiokaze-ni-notte.png",
+   "stage": "draft"
+  }
+ ],
+ "O": [
+  {
+   "name": "Ogre Battle 64 - Person of Lordly Caliber",
+   "file": "O/01-ogre-battle-64-person-of-lordly-caliber.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Olympic Hockey 98",
+   "file": "O/02-olympic-hockey-98.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Onegai Monsters",
+   "file": "O/03-onegai-monsters.png",
+   "stage": "draft"
+  }
+ ],
+ "P": [
+  {
+   "name": "Pachinko 365 Nichi",
+   "file": "P/01-pachinko-365-nichi.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Parlor! Pro 64 - Pachinko Jikki Simulation Game",
+   "file": "P/02-parlor-pro-64-pachinko-jikki-simulation-game.png",
+   "stage": "draft"
+  },
+  {
+   "name": "PD Ultraman Battle Collection 64",
+   "file": "P/03-pd-ultraman-battle-collection-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Perfect Dark",
+   "file": "P/04-perfect-dark.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Pikachuu Genki de Chuu",
+   "file": "P/05-pikachuu-genki-de-chuu.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Pilotwings 64",
+   "file": "P/06-pilotwings-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Pokemon Snap",
+   "file": "P/07-pokemon-snap.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Pokemon Stadium",
+   "file": "P/08-pokemon-stadium.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Pokemon Stadium 2",
+   "file": "P/09-pokemon-stadium-2.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Pokemon Stadium Kin Gin",
+   "file": "P/10-pokemon-stadium-kin-gin.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Power League 64",
+   "file": "P/11-power-league-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Pro Mahjong Kiwame 64",
+   "file": "P/12-pro-mahjong-kiwame-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen",
+   "file": "P/13-pro-mahjong-tsuwamono-64-jansou-battle-ni-chousen.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Puyo Puyo Sun 64",
+   "file": "P/14-puyo-puyo-sun-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Puyo Puyoon Party",
+   "file": "P/15-puyo-puyoon-party.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Puzzle Bobble 64",
+   "file": "P/16-puzzle-bobble-64.png",
+   "stage": "draft"
+  }
+ ],
+ "R": [
+  {
+   "name": "Rakugakids",
+   "file": "R/01-rakugakids.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Rally '99",
+   "file": "R/02-rally-99.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Robot Poncots 64 - 7tsu no Umi no Caramel",
+   "file": "R/03-robot-poncots-64-7tsu-no-umi-no-caramel.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Rockman Dash - Hagane no Boukenshin",
+   "file": "R/04-rockman-dash-hagane-no-boukenshin.png",
+   "stage": "draft"
+  }
+ ],
+ "S": [
+  {
+   "name": "Saikyou Habu Shougi",
+   "file": "S/01-saikyou-habu-shougi.png",
+   "stage": "draft"
+  },
+  {
+   "name": "SD Hiryuu no Ken Densetsu",
+   "file": "S/02-sd-hiryuu-no-ken-densetsu.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Shadowgate 64 - Trials of the Four Towers",
+   "file": "S/03-shadowgate-64-trials-of-the-four-towers.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Shin Nihon Pro Wrestling Toukon Road - Brave Spirits",
+   "file": "S/04-shin-nihon-pro-wrestling-toukon-road-brave-spirits.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Shin Nihon Pro Wrestling Toukon Road 2 - The Next Generation",
+   "file": "S/05-shin-nihon-pro-wrestling-toukon-road-2-the-next-generation.png",
+   "stage": "draft"
+  },
+  {
+   "name": "SimCity 2000",
+   "file": "S/06-simcity-2000.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Snobo Kids",
+   "file": "S/07-snobo-kids.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Snow Speeder",
+   "file": "S/08-snow-speeder.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Sonic Wings Assault",
+   "file": "S/09-sonic-wings-assault.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Space Dynamites",
+   "file": "S/10-space-dynamites.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Star Fox 64",
+   "file": "S/11-star-fox-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Star Soldier - Vanishing Earth",
+   "file": "S/12-star-soldier-vanishing-earth.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Star Twins",
+   "file": "S/13-star-twins.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Star Wars - Shutsugeki! Rogue Chuutai",
+   "file": "S/14-star-wars-shutsugeki-rogue-chuutai.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Star Wars - Teikoku no Kage",
+   "file": "S/15-star-wars-teikoku-no-kage.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Star Wars Episode I - Racer",
+   "file": "S/16-star-wars-episode-i-racer.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Super B-Daman - Battle Phoenix 64",
+   "file": "S/17-super-b-daman-battle-phoenix-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Super Bowling",
+   "file": "S/18-super-bowling.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Super Mario 64",
+   "file": "S/19-super-mario-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Super Mario 64 (Shindou Edition)",
+   "file": "S/20-super-mario-64-shindou-edition.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Super Robot Spirits",
+   "file": "S/21-super-robot-spirits.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Super Robot Taisen 64",
+   "file": "S/22-super-robot-taisen-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Super Speed Race 64",
+   "file": "S/23-super-speed-race-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Susume! Taisen Puzzle Dama - Toukon! Marutama Chou",
+   "file": "S/24-susume-taisen-puzzle-dama-toukon-marutama-chou.png",
+   "stage": "draft"
+  }
+ ],
+ "T": [
+  {
+   "name": "Tetris 64",
+   "file": "T/01-tetris-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Top Gear Hyper Bike",
+   "file": "T/02-top-gear-hyper-bike.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Top Gear Overdrive",
+   "file": "T/03-top-gear-overdrive.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Top Gear Rally",
+   "file": "T/04-top-gear-rally.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Top Gear Rally 2",
+   "file": "T/05-top-gear-rally-2.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Transformers - Beast Wars Metals 64",
+   "file": "T/06-transformers-beast-wars-metals-64.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Tsumi to Batsu - Hoshi no Keishousha",
+   "file": "T/07-tsumi-to-batsu-hoshi-no-keishousha.png",
+   "stage": "draft"
+  }
+ ],
+ "U": [
+  {
+   "name": "Utchan Nanchan no Hono no Challenger - Denryuu Ira Ira Bou",
+   "file": "U/01-utchan-nanchan-no-hono-no-challenger-denryuu-ira-ira-bou.png",
+   "stage": "draft"
+  }
+ ],
+ "V": [
+  {
+   "name": "V-Rally Edition 99",
+   "file": "V/01-v-rally-edition-99.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Violence Killer - Turok New Generation",
+   "file": "V/02-violence-killer-turok-new-generation.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Virtual Pro Wrestling 2 - Oudou Keishou",
+   "file": "V/03-virtual-pro-wrestling-2-oudou-keishou.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Virtual Pro Wrestling 64",
+   "file": "V/04-virtual-pro-wrestling-64.png",
+   "stage": "draft"
+  }
+ ],
+ "W": [
+  {
+   "name": "Wave Race 64 - Kawasaki Jet Ski",
+   "file": "W/01-wave-race-64-kawasaki-jet-ski.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Wave Race 64 - Kawasaki Jet Ski (Shindou Edition)",
+   "file": "W/02-wave-race-64-kawasaki-jet-ski-shindou-edition.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Wayne Gretzky's 3D Hockey",
+   "file": "W/03-wayne-gretzky-s-3d-hockey.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Wetrix",
+   "file": "W/04-wetrix.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Wild Choppers",
+   "file": "W/05-wild-choppers.png",
+   "stage": "draft"
+  },
+  {
+   "name": "WinBack",
+   "file": "W/06-winback.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Wonder Project J2 - Koruro no Mori no Jozet",
+   "file": "W/07-wonder-project-j2-koruro-no-mori-no-jozet.png",
+   "stage": "draft"
+  },
+  {
+   "name": "WWF WrestleMania 2000",
+   "file": "W/08-wwf-wrestlemania-2000.png",
+   "stage": "draft"
+  }
+ ],
+ "Y": [
+  {
+   "name": "Yakouchuu II - Satsujin Kouro",
+   "file": "Y/01-yakouchuu-ii-satsujin-kouro.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Yoshi Story",
+   "file": "Y/02-yoshi-story.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Yuke Yuke!! Trouble Makers",
+   "file": "Y/03-yuke-yuke-trouble-makers.png",
+   "stage": "draft"
+  }
+ ],
+ "Z": [
+  {
+   "name": "Zelda no Densetsu - Mujura no Kamen",
+   "file": "Z/01-zelda-no-densetsu-mujura-no-kamen.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Zelda no Densetsu - Toki no Ocarina",
+   "file": "Z/02-zelda-no-densetsu-toki-no-ocarina.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Zool - Majuu Tsukai Densetsu",
+   "file": "Z/03-zool-majuu-tsukai-densetsu.png",
+   "stage": "draft"
+  }
+ ]
+}
