@@ -9,3 +9,4 @@ assets/*
 !assets/demo-logo.png
 !assets/DejaVuSans.ttf
 !assets/DejaVu-LICENSE.txt
+_site/

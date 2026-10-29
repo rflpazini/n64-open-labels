@@ -1,0 +1,145 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Paper Mario",
+    "file": "01-paper-mario.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "528045054910fe6f2abdb3f5026882a56913b1879e36c885b2fbe9f13b59ecae"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Paperboy",
+    "file": "02-paperboy.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "9292913e5b1e9b6d42bdaeafb5c9ea15b05253f8ad7dddb36940475a684ee072"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Penny Racers",
+    "file": "03-penny-racers.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ee43a58582e57f43b216e0bccdd0ad73088c787c42479f86fccd62689f4ffead"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Perfect Dark",
+    "file": "04-perfect-dark.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "dd6c72a0bd9f36185184b3098d747eac573172bdca974e3524255b03b65bebb5"
+  },
+  {
+    "recipe_index": 4,
+    "name": "PGA European Tour",
+    "file": "05-pga-european-tour.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "026776da7171ae47dcc9c6c52e3698109d0f00ce3fa835081f7616818a907ea7"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Pilotwings 64",
+    "file": "06-pilotwings-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "590a58f050544141213b010eb18cfd16012eeeb58bd01602be0cd10ca4a84e26"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Pokemon Snap",
+    "file": "07-pokemon-snap.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "c0077cdda509250353dc7a516141a246c25a199f1adb3dcf96f7860c2ff742cf"
+  },
+  {
+    "recipe_index": 7,
+    "name": "Pokemon Stadium 2",
+    "file": "08-pokemon-stadium-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "78342f01a9ea6bb6941a5073942e581f2722d1fb607687ec33efcf4cb432c257"
+  },
+  {
+    "recipe_index": 8,
+    "name": "Polaris SnoCross",
+    "file": "09-polaris-snocross.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "6d47882ef811e7d26b3d3045e0af133707775d6550fc84684251bc084617425e"
+  },
+  {
+    "recipe_index": 9,
+    "name": "Power Rangers - Lightspeed Rescue",
+    "file": "10-power-rangers-lightspeed-rescue.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "dfde60becd775f51f65893873147c4130992424e1bbf642f5d9662fe36889584"
+  },
+  {
+    "recipe_index": 10,
+    "name": "Powerpuff Girls, The - Chemical X-Traction",
+    "file": "11-powerpuff-girls-the-chemical-x-traction.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "2cbe14029c70a5841e03bbccfc86096869cade7a7efe9a2e53c309c9d6224cc1"
+  }
+]

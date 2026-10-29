@@ -30,4 +30,14 @@ class CatalogTests(unittest.TestCase):
   raw='\n'.join('game (\n name "'+n+'"\n)\n' for n in names)
   rows,excluded=m.parse(raw)
   self.assertEqual(len(rows),2);self.assertEqual({r['region'] for r in rows},{'USA','Japan'});self.assertEqual(len(excluded),1)
+class AToZTests(unittest.TestCase):
+ def test_letter_groups_digits_together(self):
+  m=module('atoz',ROOT/'scripts/export_a_to_z.py')
+  self.assertEqual([m.letter(n) for n in ('007 - The World Is Not Enough','1080 Snowboarding','banjo-Tooie','Yoshi')],['0-9','0-9','B','Y'])
+class SiteTests(unittest.TestCase):
+ def test_display_titles_read_like_box_titles(self):
+  m=module('site',ROOT/'scripts/build_site.py')
+  self.assertEqual(m.display('Legend of Zelda, The - Ocarina of Time'),'The Legend of Zelda: Ocarina of Time')
+  self.assertEqual(m.display("Bug's Life, A"),"A Bug's Life")
+  self.assertEqual(m.display('Super Mario 64'),'Super Mario 64')
 if __name__=='__main__':unittest.main()

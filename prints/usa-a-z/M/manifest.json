@@ -1,0 +1,418 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Mace - The Dark Age",
+    "file": "01-mace-the-dark-age.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "97729078b6d3f0aff184318de9c7353fa97566dcd10018c3c06789f1222f86bd"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Madden Football 64",
+    "file": "02-madden-football-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "30c40db4e9cd5d8b1993a328ac4befd804fee7bdf02909631baf8b5f52e29d8a"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Madden NFL 2000",
+    "file": "03-madden-nfl-2000.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "e4fb5a620af8059a0d8b6fb25e5150b49ae18b483d4628997faa1bd5948921de"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Madden NFL 2001",
+    "file": "04-madden-nfl-2001.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "64828e342c7a13dbe1b43df48c9fb2fed9c7ae79c1d8d533046a1a9392c4235d"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Madden NFL 2002",
+    "file": "05-madden-nfl-2002.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "5b8490969c252e1458029abc8f38d5551a5287183d4dc923ea5bd39dcead1836"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Madden NFL 99",
+    "file": "06-madden-nfl-99.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "65b8e5c1c452e0460f84eab4ded2705696e61d46fdc9437602b0e8dc57033c74"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Magical Tetris Challenge",
+    "file": "07-magical-tetris-challenge.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ec778cfe17ff7ce921581a1c4844f8aac65507d54391c74d9dfbdff065cc436a"
+  },
+  {
+    "recipe_index": 7,
+    "name": "Major League Baseball Featuring Ken Griffey Jr.",
+    "file": "08-major-league-baseball-featuring-ken-griffey-jr.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "5e2becdca775f555b46b3067719c7e80b6d6884355523eba401fde883af20cfb"
+  },
+  {
+    "recipe_index": 8,
+    "name": "Mario Golf",
+    "file": "09-mario-golf.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "83a8f4c070bc39184bb1668e8a7adf664fef471f48da15565a59321fde775d9c"
+  },
+  {
+    "recipe_index": 9,
+    "name": "Mario Kart 64",
+    "file": "10-mario-kart-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "2f260a713083d84c60fcbc7df5e8d08ca83c44f9ad26feac19f7f3a1efe55086"
+  },
+  {
+    "recipe_index": 10,
+    "name": "Mario Party",
+    "file": "11-mario-party.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "08aa34fd5e33d4414592ed2ae8cd332bd3d2c4c5c72951d40a35067147bab289"
+  },
+  {
+    "recipe_index": 11,
+    "name": "Mario Party 2",
+    "file": "12-mario-party-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "c204d125ffb3292852c3ec588ef57a7cab65296116e43b19af63674ada9613db"
+  },
+  {
+    "recipe_index": 12,
+    "name": "Mario Party 3",
+    "file": "13-mario-party-3.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a5c80e0707160f9281f78c69326d0ec4431a53fa433cf139564884bc829d22be"
+  },
+  {
+    "recipe_index": 13,
+    "name": "Mario Tennis",
+    "file": "14-mario-tennis.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "3be79adec2bbdb35ebdf72b778cac9114b55bc369a3d0ca76ae432d9a20375c5"
+  },
+  {
+    "recipe_index": 14,
+    "name": "Mega Man 64",
+    "file": "15-mega-man-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "f768497c613d34d9781f2cca4a19069dd824761ee7f9812aa9f02c231b04fb13"
+  },
+  {
+    "recipe_index": 15,
+    "name": "Mia Hamm Soccer 64",
+    "file": "16-mia-hamm-soccer-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "cfd8e0b7290c79c0ad8fe87e60ec594cd1072d68406af0f8708036b4b0da4889"
+  },
+  {
+    "recipe_index": 16,
+    "name": "Mickey's Speedway USA",
+    "file": "17-mickey-s-speedway-usa.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "446b6dfdbe86e40c39ab24f579c747ed9197d623f140c4e3c4a4100fab9062f5"
+  },
+  {
+    "recipe_index": 17,
+    "name": "Micro Machines 64 Turbo",
+    "file": "18-micro-machines-64-turbo.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "7e3ca775e57c043ab2e3f2e30aa66ed5e92f13795257efccdc0e816ff1c2cca0"
+  },
+  {
+    "recipe_index": 18,
+    "name": "Midway's Greatest Arcade Hits - Volume 1",
+    "file": "19-midway-s-greatest-arcade-hits-volume-1.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ef8814ca09febd67c2078757fb7302012222d5bc59a248abf24b0ac9093fd794"
+  },
+  {
+    "recipe_index": 19,
+    "name": "Mike Piazza's Strike Zone",
+    "file": "20-mike-piazza-s-strike-zone.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "b7d891a811f19d256d6681697951358496f4edfcdb970978a7044b7b0ba3003d"
+  },
+  {
+    "recipe_index": 20,
+    "name": "Milo's Astro Lanes",
+    "file": "21-milo-s-astro-lanes.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "765fd171c886e7d038561ec76274fa72a4bc5e8d070950ec48d18c354db46c28"
+  },
+  {
+    "recipe_index": 21,
+    "name": "Mischief Makers",
+    "file": "22-mischief-makers.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "6dc81260939a56b48ff6324af9a29ed5fafea2d9e4eadd51113b822e7cbe8b60"
+  },
+  {
+    "recipe_index": 22,
+    "name": "Mission - Impossible",
+    "file": "23-mission-impossible.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "c9c087902cfb5469891a225690bcffea0a62913e2006bae2077113490e6f1ead"
+  },
+  {
+    "recipe_index": 23,
+    "name": "Monaco Grand Prix",
+    "file": "24-monaco-grand-prix.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "68c386d7757c6c9a9ca040f0c411b57df07d3cd361bb7ed69062964145e7f95f"
+  },
+  {
+    "recipe_index": 24,
+    "name": "Monopoly",
+    "file": "25-monopoly.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "566c66f869bd24a3565d37edd40c21be4accac58b351dacacff8e22ae66c6a56"
+  },
+  {
+    "recipe_index": 25,
+    "name": "Monster Truck Madness 64",
+    "file": "26-monster-truck-madness-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "27954775c3017130e0ed60eb91a062087abdc2dac692837df53dfc22dd1b863f"
+  },
+  {
+    "recipe_index": 26,
+    "name": "Mortal Kombat 4",
+    "file": "27-mortal-kombat-4.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "d06b66eaed78fa1042f3065ca0997ac7c6df8454e91f78db8bc93b8d617b5c9a"
+  },
+  {
+    "recipe_index": 27,
+    "name": "Mortal Kombat Mythologies - Sub-Zero",
+    "file": "28-mortal-kombat-mythologies-sub-zero.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ad586bc0f56df499c4ab2b3e60f7643b31272430528f4b11a27224cdcd48c934"
+  },
+  {
+    "recipe_index": 28,
+    "name": "Mortal Kombat Trilogy",
+    "file": "29-mortal-kombat-trilogy.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "13a150516689919f13d96b6bc1ed3af780faaaff43aab579426ee02b29a8467e"
+  },
+  {
+    "recipe_index": 29,
+    "name": "MRC - Multi-Racing Championship",
+    "file": "30-mrc-multi-racing-championship.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "93f6748ede8ff7c568986672b900d9d1800c2a091be70ddbb9309e92d232ef5e"
+  },
+  {
+    "recipe_index": 30,
+    "name": "Ms. Pac-Man - Maze Madness",
+    "file": "31-ms-pac-man-maze-madness.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "4ddf72494bad39098243b9ab7d6595cf476c0dbfead14c8807fec3f07dcd0447"
+  },
+  {
+    "recipe_index": 31,
+    "name": "Mystical Ninja Starring Goemon",
+    "file": "32-mystical-ninja-starring-goemon.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "3782664d064c9000f5bba7d141c48431048fe564ab522455e79578298287d675"
+  }
+]

@@ -1,0 +1,379 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "S.C.A.R.S.",
+    "file": "01-s-c-a-r-s.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ee72043aa0521d0d97085eeaeec75dd663534dfb7cc2e5af172485f95ef6b523"
+  },
+  {
+    "recipe_index": 1,
+    "name": "San Francisco Rush - Extreme Racing",
+    "file": "02-san-francisco-rush-extreme-racing.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "d53e3311a13e375ebeb8518955f40af6e2489d926870cc8ef1c8f1951a1f9e81"
+  },
+  {
+    "recipe_index": 2,
+    "name": "San Francisco Rush 2049",
+    "file": "03-san-francisco-rush-2049.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "c3dda2c04fe0fe678ec27e49292190b9952c658990218ac371542ebff32a1639"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Scooby-Doo! - Classic Creep Capers",
+    "file": "04-scooby-doo-classic-creep-capers.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a89c2de7cb183f85c8dad0eebcbbafcd94a4891a183d1fa38f27b97626707399"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Sesame Street - Elmo's Letter Adventure",
+    "file": "05-sesame-street-elmo-s-letter-adventure.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "c7ea2a593308dfab3fe9fa90d35d6fac4e42c17c4e9ed7d2031ea4bf8fc048d5"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Sesame Street - Elmo's Number Journey",
+    "file": "06-sesame-street-elmo-s-number-journey.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "89a7809c027541647179e9cb53000ba67795abb7a852b8e70ebe66388df62fa9"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Shadow Man",
+    "file": "07-shadow-man.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "19a1b5cbbf040a6d42fa539ec1f774cc99954fc18d76578cb59a241acb0321e3"
+  },
+  {
+    "recipe_index": 7,
+    "name": "Shadowgate 64 - Trials of the Four Towers",
+    "file": "08-shadowgate-64-trials-of-the-four-towers.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "16c96c3cffa53377b9a24e5a4a42ac11cd65294e5ed09aae84a966347db730cd"
+  },
+  {
+    "recipe_index": 8,
+    "name": "Snowboard Kids 2",
+    "file": "09-snowboard-kids-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "7eb1971ab0360349e7eebe0ad320bf8d44847ab18699e0efd47fab985c8523c7"
+  },
+  {
+    "recipe_index": 9,
+    "name": "South Park",
+    "file": "10-south-park.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "fdb669e01a5714246682689198c0b7826a715b8ba0cb89ac24a37641b9cc5b36"
+  },
+  {
+    "recipe_index": 10,
+    "name": "South Park - Chef's Luv Shack",
+    "file": "11-south-park-chef-s-luv-shack.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "641eff16816e23d0563d061b12d123f15944d52d90e6e63823896dab58f723bf"
+  },
+  {
+    "recipe_index": 11,
+    "name": "South Park Rally",
+    "file": "12-south-park-rally.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "68f56ff212ddfe3b51025d7c8544f3be3efb6281301c19a5b296158044445d71"
+  },
+  {
+    "recipe_index": 12,
+    "name": "Space Invaders",
+    "file": "13-space-invaders.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a31936c3d1b867c36a3be0fa8c9df0e0c4ec5a2e8db16ef0411f033b2d5f2e99"
+  },
+  {
+    "recipe_index": 13,
+    "name": "SpaceStation Silicon Valley",
+    "file": "14-spacestation-silicon-valley.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "7d9673670115cad7a2aee787f91364988128e1cdd6a0b0f8d43e0829cc35c99c"
+  },
+  {
+    "recipe_index": 14,
+    "name": "Spider-Man",
+    "file": "15-spider-man.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "e9fd2800f118a436946b4468b956350a79626e20d9dc51f0e0348d2d6c08338c"
+  },
+  {
+    "recipe_index": 15,
+    "name": "Star Fox 64",
+    "file": "16-star-fox-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "d245549094db566c3d406c89ed0cca05fee394584ce04d70f4db0ed5ef9eed80"
+  },
+  {
+    "recipe_index": 16,
+    "name": "Star Soldier - Vanishing Earth",
+    "file": "17-star-soldier-vanishing-earth.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "5e9daf15ac92f288d83909404cb13bfff8dc8ed82204aca870edeb9d8c805a13"
+  },
+  {
+    "recipe_index": 17,
+    "name": "Star Wars - Rogue Squadron",
+    "file": "18-star-wars-rogue-squadron.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "615910e0b4aab489c5b545cf95aaa48386ffe4c3dbb512099743f4b4215c9c7d"
+  },
+  {
+    "recipe_index": 18,
+    "name": "Star Wars - Shadows of the Empire",
+    "file": "19-star-wars-shadows-of-the-empire.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "e4dd311e04840e4a340f69be855e284afd02d0525b72ac129e91509175d8260b"
+  },
+  {
+    "recipe_index": 19,
+    "name": "Star Wars Episode I - Battle for Naboo",
+    "file": "20-star-wars-episode-i-battle-for-naboo.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a7f0a1d8ac97cd313e626b7534a86527596862b7d73f8e26996811c87870a25a"
+  },
+  {
+    "recipe_index": 20,
+    "name": "Star Wars Episode I - Racer",
+    "file": "21-star-wars-episode-i-racer.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "94e2e7e65a84dffb386e58947afb9034d24ea3a509baab6dd293f27935ed28d8"
+  },
+  {
+    "recipe_index": 21,
+    "name": "StarCraft 64",
+    "file": "22-starcraft-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "42149ea980e32e7c32163a25bc62c7d083f6eb51263c2e36c1527d326a10f7f2"
+  },
+  {
+    "recipe_index": 22,
+    "name": "Starshot - Space Circus Fever",
+    "file": "23-starshot-space-circus-fever.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "4cb5c23e8e68f949699756a7ccdd323b92a1521c9ba136ec1f0463de139fc532"
+  },
+  {
+    "recipe_index": 23,
+    "name": "Stunt Racer 64",
+    "file": "24-stunt-racer-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a9e8617b905630ad9fdb2b1c9cee6aa3e9ffe79d5a0ccf1eac39a992912a0b4b"
+  },
+  {
+    "recipe_index": 24,
+    "name": "Super Bowling",
+    "file": "25-super-bowling.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "43285fe177f6ffd49cc82840394a3a00a7a67b4f0956c52e269a4067d0c5175d"
+  },
+  {
+    "recipe_index": 25,
+    "name": "Super Mario 64",
+    "file": "26-super-mario-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "d55f0eaa96548572440ff8d39cee0492a568c48278cceec5965494f88adb9c03"
+  },
+  {
+    "recipe_index": 26,
+    "name": "Super Smash Bros.",
+    "file": "27-super-smash-bros.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "025ecf2edeb2e00dc7beb6817a14c7c0b47a90356ba2282e1ff173b4905aa249"
+  },
+  {
+    "recipe_index": 27,
+    "name": "Supercross 2000",
+    "file": "28-supercross-2000.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "25bdf70def04bc5af5e59bcb6a336724a58b7eb49fe610756a47b921c0286849"
+  },
+  {
+    "recipe_index": 28,
+    "name": "Superman - The New Superman Aventures",
+    "file": "29-superman-the-new-superman-aventures.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "e567bc85becfeb4764048ca207e82f9d4f78eff00dfd29929be4ad5386a82823"
+  }
+]

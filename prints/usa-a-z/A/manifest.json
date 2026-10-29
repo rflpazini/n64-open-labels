@@ -1,0 +1,171 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "AeroFighters Assault",
+    "file": "01-aerofighters-assault.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "777933e595c8adc2c2f236eb2699f6c23c6e71a9951a56eb2c72ca247577faa8"
+  },
+  {
+    "recipe_index": 1,
+    "name": "AeroGauge",
+    "file": "02-aerogauge.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "62951f9c49715f974c99391e4ec0fb725cff26960d083369607ab67827bd5d3a"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Aidyn Chronicles - The First Mage",
+    "file": "03-aidyn-chronicles-the-first-mage.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "941a69ebbdb01c2b7dfc58c90a2dd5d202f99c9b0422f15be0d2f93ca414aeaf"
+  },
+  {
+    "recipe_index": 3,
+    "name": "All Star Tennis 99",
+    "file": "04-all-star-tennis-99.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "7ad5ef051bae1ed79eeb9b039ee01513a6a7c6958ef44f65d3cf9c32c941817b"
+  },
+  {
+    "recipe_index": 4,
+    "name": "All-Star Baseball 2000",
+    "file": "05-all-star-baseball-2000.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "1f19006ccbfbe451625c7c1e8feb85082c669eb49f3d40db8649871da0820280"
+  },
+  {
+    "recipe_index": 5,
+    "name": "All-Star Baseball 2001",
+    "file": "06-all-star-baseball-2001.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "d377aac07e371963bd01847b5a8bc08ac20f11a0615e392356ab3ebdd6599153"
+  },
+  {
+    "recipe_index": 6,
+    "name": "All-Star Baseball 99",
+    "file": "07-all-star-baseball-99.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "cfb4666a55168ca4110aa282f0e70ec539595886496031d2559be65f1fa21d06"
+  },
+  {
+    "recipe_index": 7,
+    "name": "Armorines - Project S.W.A.R.M.",
+    "file": "08-armorines-project-s-w-a-r-m.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "0c9534cd48b0fb9079d64d699e1751db5ba1a6e9f6bd894d8febf6a31a3b21c3"
+  },
+  {
+    "recipe_index": 8,
+    "name": "Army Men - Air Combat",
+    "file": "09-army-men-air-combat.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "f90668c1f25edbc34a4e8bb35cabef9d8c9f38bbd20b6a9387c92f6dba21451f"
+  },
+  {
+    "recipe_index": 9,
+    "name": "Army Men - Sarge's Heroes",
+    "file": "10-army-men-sarge-s-heroes.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "f86c777dc2bce03a5a3dd557a167a5732628b9aa682e4d1afc708f9ad127c656"
+  },
+  {
+    "recipe_index": 10,
+    "name": "Army Men - Sarge's Heroes 2",
+    "file": "11-army-men-sarge-s-heroes-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "3f720eb6a6ab4136cfb2390c27495b0834baed87d93d0b743cbcdae43fbfc1fc"
+  },
+  {
+    "recipe_index": 11,
+    "name": "Asteroids Hyper 64",
+    "file": "12-asteroids-hyper-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "03d0d4b363e64a9a6153e81b8741a1d3fe7f8c180aabc70893226a2071e5d754"
+  },
+  {
+    "recipe_index": 12,
+    "name": "Automobili Lamborghini",
+    "file": "13-automobili-lamborghini.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "0a719630c432871486946d2095ef9260e5c97291608e295af31244c1b09b088c"
+  }
+]

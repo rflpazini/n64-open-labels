@@ -1,0 +1,288 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Banjo-Kazooie",
+    "file": "01-banjo-kazooie.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "2d64d1880a6444a578d586a2b6c59230de28dbac080a132989bc9273c3a969bb"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Banjo-Tooie",
+    "file": "02-banjo-tooie.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "3bedc2b5dd69da34687697ce2ccb42a1ce29ffde9dd2103810deae662c4f46a2"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Bassmasters 2000",
+    "file": "03-bassmasters-2000.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "42293d219f4ec8874f62980dc22becd1fca03a85b189c320a83bea677cd8c3f5"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Batman Beyond - Return of the Joker",
+    "file": "04-batman-beyond-return-of-the-joker.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "fd3ba43f1c9960c02a01b7b519b157934981225b9cded3ca03605f7a400c828d"
+  },
+  {
+    "recipe_index": 4,
+    "name": "BattleTanx",
+    "file": "05-battletanx.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "80a15725a73d7bfa7a79badaf9c96c9e0ce4cd6c183e2616867eb0fb9043f288"
+  },
+  {
+    "recipe_index": 5,
+    "name": "BattleTanx - Global Assault",
+    "file": "06-battletanx-global-assault.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "b7f314eef93f2c01da86b6fb31532475d423e6f45284f47169a72c8bfb1bee43"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Battlezone - Rise of the Black Dogs",
+    "file": "07-battlezone-rise-of-the-black-dogs.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "e77e34bc7c509b3ab9fd63906754f66aeedd347ed7ae2e5d11f203b92721bd49"
+  },
+  {
+    "recipe_index": 7,
+    "name": "Beetle Adventure Racing!",
+    "file": "08-beetle-adventure-racing.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "2a4defdf499238caa676d1719bc3508bc689ac769b982b6b0a3bb080af779fde"
+  },
+  {
+    "recipe_index": 8,
+    "name": "Big Mountain 2000",
+    "file": "09-big-mountain-2000.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "9aa4b8c6484acf8adb2dd9ae98b5baf884ed3012dafeadde3279f5e2662f082d"
+  },
+  {
+    "recipe_index": 9,
+    "name": "Bio F.R.E.A.K.S.",
+    "file": "10-bio-f-r-e-a-k-s.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "bc371d67408861a169d00a520e9a6bcc54b04fd540400e63117c99ed7f1c4deb"
+  },
+  {
+    "recipe_index": 10,
+    "name": "Blast Corps",
+    "file": "11-blast-corps.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "051c59349bde729ac624a88ab2b8cf585459dc65486bc501dc9233e50c66dcbd"
+  },
+  {
+    "recipe_index": 11,
+    "name": "Blues Brothers 2000",
+    "file": "12-blues-brothers-2000.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "90925aeed5afff24ef07e59e37e17e7c70cc57862c75807f23cf0345404b935f"
+  },
+  {
+    "recipe_index": 12,
+    "name": "Body Harvest",
+    "file": "13-body-harvest.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "c80074bc38718a0b6f5abcccb13229e670cb548441fcc89c877912c65a981f72"
+  },
+  {
+    "recipe_index": 13,
+    "name": "Bomberman 64",
+    "file": "14-bomberman-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "6cf5446e6fc272d3ac6df1b6822ca771390a015de8f88eb3e0607398dd6ab61a"
+  },
+  {
+    "recipe_index": 14,
+    "name": "Bomberman 64 - The Second Attack!",
+    "file": "15-bomberman-64-the-second-attack.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "90627ffb070a73e8799298155c9e55070290df3dc2b851d02fa1b2a9d7ddeaaa"
+  },
+  {
+    "recipe_index": 15,
+    "name": "Bomberman Hero",
+    "file": "16-bomberman-hero.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "324f295a4f1c09614fc73e9298f5dfaa07c9500cbe0e984d4f0704ef5d667c72"
+  },
+  {
+    "recipe_index": 16,
+    "name": "Bottom of the 9th",
+    "file": "17-bottom-of-the-9th.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "167c162b77bdbffab42b27609f505f3873080f7de243a8b048d95b62b5b40026"
+  },
+  {
+    "recipe_index": 17,
+    "name": "Brunswick Circuit Pro Bowling",
+    "file": "18-brunswick-circuit-pro-bowling.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "2bae24a0c5aefb95519eb45c65521ce427e352704dd591b5fad14a2d33bdf99f"
+  },
+  {
+    "recipe_index": 18,
+    "name": "Buck Bumble",
+    "file": "19-buck-bumble.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "f02f20b975298b13579c869d58a50deee77f7df6f987afb00acbb7d4d98863f7"
+  },
+  {
+    "recipe_index": 19,
+    "name": "Bug's Life, A",
+    "file": "20-bug-s-life-a.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "dd33c969d63a8233e1a03473d0d5a76611959fc0dfa7d7cb48c3dafbd83bec08"
+  },
+  {
+    "recipe_index": 20,
+    "name": "Bust-A-Move '99",
+    "file": "21-bust-a-move-99.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "713e3ebf54633da917705739276337aa4d4b049eec24582d1113d1078beac0aa"
+  },
+  {
+    "recipe_index": 21,
+    "name": "Bust-A-Move 2 - Arcade Edition",
+    "file": "22-bust-a-move-2-arcade-edition.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "1ac50073d8df5b62acaa705e4ad54b9ab03e2397823e0527071525ba0b06cbab"
+  }
+]

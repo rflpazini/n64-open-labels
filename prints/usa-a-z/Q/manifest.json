@@ -1,0 +1,41 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Quake",
+    "file": "01-quake.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "75686dfe29a166c59f38b9f82892a95503a5a48e08f1922de2f4eb68a35a652b"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Quake II",
+    "file": "02-quake-ii.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "c9a78be5c84a57165e0d147445922e8622b338d156780419be8f6ff4948e97e4"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Quest 64",
+    "file": "03-quest-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "5f1e6e27250827d177bc81937e262befc67f4700a84365fcd55eed7f3e959f45"
+  }
+]

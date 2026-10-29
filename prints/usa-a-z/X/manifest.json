@@ -1,0 +1,15 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Xena - Warrior Princess - The Talisman of Fate",
+    "file": "01-xena-warrior-princess-the-talisman-of-fate.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "8bc8d74efa9a325a9a9cb2ced3a88b1ea6f6b499d42a8213cc0253a961cab9b0"
+  }
+]

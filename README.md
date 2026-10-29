@@ -2,11 +2,15 @@
 
 Printable Nintendo 64 end labels with original-era visual references and a shared, integrated layout. Community project initiated by Rafa.
 
-**Status: 18 printable labels available; worldwide set still in progress.** The initial 18 label compositions were visually approved by the project owner. The worldwide coverage file currently contains **867 candidate regional/language entries requiring review**, not 867 distinct games. No physical fit or print-color validation has been recorded yet.
+**Status: 18 approved labels plus a 291-label USA A-Z draft set; worldwide set still in progress.** The initial 18 label compositions were visually approved by the project owner. The worldwide coverage file currently contains **867 candidate regional/language entries requiring review**, not 867 distinct games. No physical fit or print-color validation has been recorded yet.
 
 ## Download and print
 
+**Easiest way: [rflpazini.github.io/n64-open-labels](https://rflpazini.github.io/n64-open-labels/)**. Search the games you own, add them to a sheet and download an actual-size PDF (A4 or US Letter), or grab single PNGs.
+
 [**Printable A4 PDF (18 labels)**](prints/collection-18/labels-A4.pdf) | [**Individual PNGs and gallery**](prints/collection-18/)
+
+**New: [USA set, A to Z (291 labels)](prints/usa-a-z/)**, one folder per letter with its own A4 PDF and PNGs. 16 of them reuse the approved recipes above; the other 275 are automatic drafts built from libretro-thumbnails logos and box art and still need individual review. See that folder's README for status and the 5 titles not yet covered.
 
 ![Initial collection preview](prints/collection-18/preview.jpg)
 
@@ -74,6 +78,15 @@ python scripts/import_catalog.py path/to/Nintendo-64.dat --out catalog/staging
 ```
 
 This reads metadata only. The project does not request, fetch or distribute ROMs.
+
+## Website
+
+The site in `site/` is static HTML, CSS and JS. `scripts/build_site.py` assembles it with thumbnails, PNGs and PDFs from `prints/`, and `.github/workflows/pages.yml` publishes it to GitHub Pages on every push to `main`. Preview locally:
+
+```sh
+python scripts/build_site.py --out _site
+python -m http.server -d _site 8000
+```
 
 ## Contributing
 

@@ -1,0 +1,197 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "California Speed",
+    "file": "01-california-speed.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "c7ea776013c0eb52fb6374210809fd2ba9b0ac9bdfff85e3655dc83c59faf6f1"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Carmageddon 64",
+    "file": "02-carmageddon-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "21af555cfcca375560549df19fd72d3ef1e3cc04b9c759c41559794119b90256"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Castlevania",
+    "file": "03-castlevania.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "d598a37dbd4cdae7bc274d5174641aa4a8e853dd1c547bf5df94fe8d68ecec47"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Castlevania - Legacy of Darkness",
+    "file": "04-castlevania-legacy-of-darkness.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "8e5009c451fa294b52e323a5726d2717b177ee3e80d8f5ac10c20975e9149b4b"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Chameleon Twist",
+    "file": "05-chameleon-twist.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "b6272a526f79110120d75f577280bcdf764d92a9f684f3e4066f60952a4a305f"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Chameleon Twist 2",
+    "file": "06-chameleon-twist-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "30aff5cb88c833292f00bcb65ac791f32ad89b93be91ee20e46f44f63c0084de"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Charlie Blast's Territory",
+    "file": "07-charlie-blast-s-territory.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "8e9753230c53cd0681553389e2a8691158e3bbfca5fca4d09a5b8102e366566f"
+  },
+  {
+    "recipe_index": 7,
+    "name": "Chopper Attack",
+    "file": "08-chopper-attack.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "73abfb223ff7b81f1dc2d6b6d6c2eecbddae0bb3b7d2adff943c4753bd4a45cf"
+  },
+  {
+    "recipe_index": 8,
+    "name": "Clay Fighter - Sculptor's Cut",
+    "file": "09-clay-fighter-sculptor-s-cut.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "575de4d303658e8e95339d05d7df93ff195a1dca0beb5c4f4ab387811c2117a7"
+  },
+  {
+    "recipe_index": 9,
+    "name": "Clay Fighter 63 1-3",
+    "file": "10-clay-fighter-63-1-3.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "627eb5aa9d763aa54c5f5f42e5a635fe8abcaa7cf0656803538b2152de9f3be0"
+  },
+  {
+    "recipe_index": 10,
+    "name": "Command & Conquer",
+    "file": "11-command-conquer.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "3ca246011a7577d268c68725b0c90358d4bdd059215b1917b4ba440b477264bb"
+  },
+  {
+    "recipe_index": 11,
+    "name": "Cruis'n Exotica",
+    "file": "12-cruis-n-exotica.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "5b4504742743907ee625764d1feb731025195a6a1de4ab147aa74bea2dce8f82"
+  },
+  {
+    "recipe_index": 12,
+    "name": "Cruis'n USA",
+    "file": "13-cruis-n-usa.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "e7283cbb6ab4c2f9a85ee02f7db92a15c8611021119ab53a6e6658df75ec2a3e"
+  },
+  {
+    "recipe_index": 13,
+    "name": "Cruis'n World",
+    "file": "14-cruis-n-world.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "1a936d5c54e9ec0f1daf8f2b72fd994ae8f76e7f6d7508d3affb4be4c826ddb0"
+  },
+  {
+    "recipe_index": 14,
+    "name": "CyberTiger",
+    "file": "15-cybertiger.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "61bef6a9da0928861bded45177ae3c01be6dc5cae2795f0f428eb8eca7651ad8"
+  }
+]

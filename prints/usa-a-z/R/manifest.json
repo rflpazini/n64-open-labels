@@ -1,0 +1,236 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Rally Challenge 2000",
+    "file": "01-rally-challenge-2000.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "9a7d13d5800b9f608e8eede8efb0fd4c8d0b85aac759d7861be910d3f952d7d3"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Rampage - World Tour",
+    "file": "02-rampage-world-tour.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "f99835666463cecf4be2b9c76ab994a1115f915337bab3603416f3c4d4d211e2"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Rampage 2 - Universal Tour",
+    "file": "03-rampage-2-universal-tour.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "8ce10638083763bb142637186e8b9e803dad7798efbbfd36a43848f4eb5f0b7c"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Rat Attack!",
+    "file": "04-rat-attack.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "6b5ff2de1bfe63f745a9ca8af46a4f5fb669977312caf8659628b2f7ff7c41da"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Rayman 2 - The Great Escape",
+    "file": "05-rayman-2-the-great-escape.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "b1257a6f8f73f23181e321ce751dc8bc0dc1988eb087439a52df0ab5c90800c8"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Razor Freestyle Scooter",
+    "file": "06-razor-freestyle-scooter.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "45b67ec3cde03fae6e0b93e313de9d1fe1ccc2733fe119f9ef11ee4d9fdce494"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Re-Volt",
+    "file": "07-re-volt.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "148ccac878349816c207761c81cd953a64195b9a4f84669835037f3a98d2418e"
+  },
+  {
+    "recipe_index": 7,
+    "name": "Ready 2 Rumble Boxing",
+    "file": "08-ready-2-rumble-boxing.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "5b9c3f524adeffd9cae00b47fb70a68b0cdde24795a319839553ba7e5cb2eb53"
+  },
+  {
+    "recipe_index": 8,
+    "name": "Ready 2 Rumble Boxing - Round 2",
+    "file": "09-ready-2-rumble-boxing-round-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "6a9a16e6b640e23a2eadd157c97706a4234ad58f83e1b21d49bc4f69d44b5726"
+  },
+  {
+    "recipe_index": 9,
+    "name": "Resident Evil 2",
+    "file": "10-resident-evil-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "4d2062a6ddc7931562ebebee0218edcf404d26cda861d76c80fa836e341b272c"
+  },
+  {
+    "recipe_index": 10,
+    "name": "Road Rash 64",
+    "file": "11-road-rash-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ee7d7b8b1328e2a11e05d8740045c33e158a31140b6d7830d60eb637f7027288"
+  },
+  {
+    "recipe_index": 11,
+    "name": "Roadsters",
+    "file": "12-roadsters.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "f6894532020a327fa3773fe99a2dc6e5f30ed1de23399d91490c7db5e53ff112"
+  },
+  {
+    "recipe_index": 12,
+    "name": "Robotron 64",
+    "file": "13-robotron-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a3932f9e0d6a851747124b946d9d3ee4f54038702940b5bf91624c16e7e5a2c9"
+  },
+  {
+    "recipe_index": 13,
+    "name": "Rocket - Robot on Wheels",
+    "file": "14-rocket-robot-on-wheels.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "3eaf1a0497b6cfdaefea09613e0373f8796e06e6fa3ef9102c80480993c097b6"
+  },
+  {
+    "recipe_index": 14,
+    "name": "RR64 - Ridge Racer 64",
+    "file": "15-rr64-ridge-racer-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "0de3e0717f91def5beabd858dc275bb8323d1c920fb09a1ef892b42d75340cd9"
+  },
+  {
+    "recipe_index": 15,
+    "name": "Rugrats - Scavenger Hunt",
+    "file": "16-rugrats-scavenger-hunt.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "b778246843a76f8dd465d293df6029f6fda81cb3f92902cccf0c549bef1cdcf0"
+  },
+  {
+    "recipe_index": 16,
+    "name": "Rugrats in Paris - The Movie",
+    "file": "17-rugrats-in-paris-the-movie.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "9ab8d51400f78d284e9bb34490447e36a29de75e0695c8ac426a9e513025915e"
+  },
+  {
+    "recipe_index": 17,
+    "name": "Rush 2 - Extreme Racing USA",
+    "file": "18-rush-2-extreme-racing-usa.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "e22a67086d0cc60cc7dceb1678751d8b0d9841faef24f5055946bd87e661cde9"
+  }
+]
