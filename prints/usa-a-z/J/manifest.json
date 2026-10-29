@@ -1,0 +1,54 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Jeopardy!",
+    "file": "01-jeopardy.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "d7980bf7c561250c9963df34e5796f098685eff9ba50a3f33e04679becbf76d5"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Jeremy McGrath Supercross 2000",
+    "file": "02-jeremy-mcgrath-supercross-2000.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "b47041f8bcb7a979165e68cb9fe292926248b6046d492739c0c251895b7ada2e"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Jet Force Gemini",
+    "file": "03-jet-force-gemini.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "7b7d6485f646e7a5670cd61ec2a8eb3f862bfbc982f20fe41442a100dc006327"
+  },
+  {
+    "recipe_index": 3,
+    "name": "John Romero's Daikatana",
+    "file": "04-john-romero-s-daikatana.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "2468055f39b110fd585d56ac85518fe896164e8a3d36c4b5ed40825f3dff89cd"
+  }
+]

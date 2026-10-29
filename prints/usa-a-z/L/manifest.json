@@ -1,0 +1,54 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Legend of Zelda, The - Majora's Mask",
+    "file": "01-legend-of-zelda-the-majora-s-mask.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "57ae644b99089ce6638ca2ae7e5dc6a348c64bb84853c53aed15a6c01b249b3a"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Legend of Zelda, The - Ocarina of Time",
+    "file": "02-legend-of-zelda-the-ocarina-of-time.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "1784dbf0b66b8532a522a9241eb996313f42a938cb3e533ef894f02ca055a8e9"
+  },
+  {
+    "recipe_index": 2,
+    "name": "LEGO Racers",
+    "file": "03-lego-racers.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "be057ab60f8592337aa72574a88bf3e0a41bdb7f1ca08e65e568c451e7fb9574"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Lode Runner 3-D",
+    "file": "04-lode-runner-3-d.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "e9b5cea6fdf3e2327526f17c83bdd8751df17118452849764ae7f5a6cf288808"
+  }
+]

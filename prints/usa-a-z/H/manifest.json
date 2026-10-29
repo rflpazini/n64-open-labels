@@ -1,0 +1,93 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Harvest Moon 64",
+    "file": "01-harvest-moon-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "76237b83f718e1e4c78d71092bb256c23972aea6587a7d649a568df695185c49"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Hercules - The Legendary Journeys",
+    "file": "02-hercules-the-legendary-journeys.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "73b8e9c224e1e35aa16e09e69369ba3113554a0d268014b7f337048b607dd0d0"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Hexen",
+    "file": "03-hexen.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "901880371e19abbc763bbfc3d08d195723fe65ac083dac82b8e94d9eab3bf358"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Hey You, Pikachu!",
+    "file": "04-hey-you-pikachu.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "6a3ae671e08aabb2244c5316e7077379b5d2822d726fbbf89f6c3d18068ac5c6"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Hot Wheels - Turbo Racing",
+    "file": "05-hot-wheels-turbo-racing.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "1efb7b2013cdca1c3d874ac05a210ef93ad01b2e26af6248e1c0f86412177d72"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Hybrid Heaven",
+    "file": "06-hybrid-heaven.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "6a2569ffe7ac7068c0d0458c09ea57845c254390daee7ad2990748a47d5e7542"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Hydro Thunder",
+    "file": "07-hydro-thunder.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "5fb9e8d12f976d1a621d4e4e59f1b70071d40be57b6a8290ed46123ca3769d1c"
+  }
+]

@@ -30,4 +30,8 @@ class CatalogTests(unittest.TestCase):
   raw='\n'.join('game (\n name "'+n+'"\n)\n' for n in names)
   rows,excluded=m.parse(raw)
   self.assertEqual(len(rows),2);self.assertEqual({r['region'] for r in rows},{'USA','Japan'});self.assertEqual(len(excluded),1)
+class AToZTests(unittest.TestCase):
+ def test_letter_groups_digits_together(self):
+  m=module('atoz',ROOT/'scripts/export_a_to_z.py')
+  self.assertEqual([m.letter(n) for n in ('007 - The World Is Not Enough','1080 Snowboarding','banjo-Tooie','Yoshi')],['0-9','0-9','B','Y'])
 if __name__=='__main__':unittest.main()

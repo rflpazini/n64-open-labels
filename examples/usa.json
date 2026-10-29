@@ -1,0 +1,3527 @@
+[
+ {
+  "name": "007 - The World Is Not Enough",
+  "logo": "assets/usa/logo-b1081b4f3c48514e.png",
+  "art": "assets/usa/art-b1081b4f3c48514e.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#040404"
+ },
+ {
+  "name": "1080 Snowboarding",
+  "logo": "assets/usa/logo-7b0c5b619d99e5cf.png",
+  "art": "assets/usa/art-7b0c5b619d99e5cf.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#161a1e"
+ },
+ {
+  "name": "AeroFighters Assault",
+  "logo": "assets/usa/logo-69c97508485ef52c.png",
+  "art": "assets/usa/art-69c97508485ef52c.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#2c1a14"
+ },
+ {
+  "name": "AeroGauge",
+  "logo": "assets/usa/logo-83275b2b633fa13e.png",
+  "art": "assets/usa/art-83275b2b633fa13e.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#cac7c6"
+ },
+ {
+  "name": "Aidyn Chronicles - The First Mage",
+  "logo": "assets/usa/logo-234fe3d69f2aba38.png",
+  "art": "assets/usa/art-234fe3d69f2aba38.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#d9cccb"
+ },
+ {
+  "name": "All Star Tennis 99",
+  "logo": "assets/usa/logo-4ae9beffd5655650.png",
+  "art": "assets/usa/art-4ae9beffd5655650.jpg",
+  "crop": [
+   12,
+   8,
+   177,
+   75
+  ],
+  "background": "#484e4b"
+ },
+ {
+  "name": "All-Star Baseball 2000",
+  "logo": "assets/usa/logo-a665fa8ebdfb0c3e.png",
+  "art": "assets/usa/art-a665fa8ebdfb0c3e.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#6f5a3a"
+ },
+ {
+  "name": "All-Star Baseball 2001",
+  "logo": "assets/usa/logo-f2e50249c7924f93.png",
+  "art": "assets/usa/art-f2e50249c7924f93.jpg",
+  "crop": [
+   12,
+   8,
+   180,
+   76
+  ],
+  "background": "#644548"
+ },
+ {
+  "name": "All-Star Baseball 99",
+  "logo": "assets/usa/logo-6336a7053e49a2d6.png",
+  "art": "assets/usa/art-6336a7053e49a2d6.jpg",
+  "crop": [
+   12,
+   8,
+   180,
+   76
+  ],
+  "background": "#42478b"
+ },
+ {
+  "name": "Armorines - Project S.W.A.R.M.",
+  "logo": "assets/usa/logo-4e3e3eaf409ad3c3.png",
+  "art": "assets/usa/art-4e3e3eaf409ad3c3.jpg",
+  "crop": [
+   12,
+   0,
+   178,
+   68
+  ],
+  "background": "#c6b0b5"
+ },
+ {
+  "name": "Army Men - Air Combat",
+  "logo": "assets/usa/logo-905412c095a2c595.png",
+  "art": "assets/usa/art-905412c095a2c595.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#282814"
+ },
+ {
+  "name": "Army Men - Sarge's Heroes",
+  "logo": "assets/usa/logo-82170cd0e298b9ad.png",
+  "art": "assets/usa/art-82170cd0e298b9ad.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#1d2b12"
+ },
+ {
+  "name": "Army Men - Sarge's Heroes 2",
+  "logo": "assets/usa/logo-d1f0ed27596cb2d3.png",
+  "art": "assets/usa/art-d1f0ed27596cb2d3.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#141b0d"
+ },
+ {
+  "name": "Asteroids Hyper 64",
+  "logo": "assets/usa/logo-773d640d8cc2ea3f.png",
+  "art": "assets/usa/art-773d640d8cc2ea3f.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#c5c4c5"
+ },
+ {
+  "name": "Automobili Lamborghini",
+  "logo": "assets/usa/logo-f9dc75464483d4cf.png",
+  "art": "assets/usa/art-f9dc75464483d4cf.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#5c2716"
+ },
+ {
+  "name": "Banjo-Kazooie",
+  "logo": "assets/logo-13.png",
+  "art": "assets/art-13.png",
+  "crop": [
+   180,
+   365,
+   465,
+   620
+  ],
+  "background": "#24412e"
+ },
+ {
+  "name": "Banjo-Tooie",
+  "logo": "assets/usa/logo-e91244c03b65661f.png",
+  "art": "assets/usa/art-e91244c03b65661f.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#f2bb9e"
+ },
+ {
+  "name": "Bassmasters 2000",
+  "logo": "assets/usa/logo-9b0d6e74f33cdae1.png",
+  "art": "assets/usa/art-9b0d6e74f33cdae1.jpg",
+  "crop": [
+   0,
+   8,
+   166,
+   76
+  ],
+  "background": "#2b302b"
+ },
+ {
+  "name": "Batman Beyond - Return of the Joker",
+  "logo": "assets/usa/logo-f3a188584a8bb743.png",
+  "art": "assets/usa/art-f3a188584a8bb743.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#c3c4c5"
+ },
+ {
+  "name": "BattleTanx",
+  "logo": "assets/usa/logo-5010cd5c1889cbfe.png",
+  "art": "assets/usa/art-5010cd5c1889cbfe.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#6f0e10"
+ },
+ {
+  "name": "BattleTanx - Global Assault",
+  "logo": "assets/usa/logo-b81027a260bfab4f.png",
+  "art": "assets/usa/art-b81027a260bfab4f.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#261a16"
+ },
+ {
+  "name": "Battlezone - Rise of the Black Dogs",
+  "logo": "assets/usa/logo-40db50b17d4829ed.png",
+  "art": "assets/usa/art-40db50b17d4829ed.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#262413"
+ },
+ {
+  "name": "Beetle Adventure Racing!",
+  "logo": "assets/usa/logo-d056f38c221bac31.png",
+  "art": "assets/usa/art-d056f38c221bac31.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#1d1b02"
+ },
+ {
+  "name": "Big Mountain 2000",
+  "logo": "assets/usa/logo-0d0014bdd04d24aa.png",
+  "art": "assets/usa/art-0d0014bdd04d24aa.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#a6a0bc"
+ },
+ {
+  "name": "Bio F.R.E.A.K.S.",
+  "logo": "assets/usa/logo-9074df4476d6fb68.png",
+  "art": "assets/usa/art-9074df4476d6fb68.jpg",
+  "crop": [
+   12,
+   8,
+   180,
+   76
+  ],
+  "background": "#adadaf"
+ },
+ {
+  "name": "Blast Corps",
+  "logo": "assets/usa/logo-53e09545d491a21d.png",
+  "art": "assets/usa/art-53e09545d491a21d.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#282116"
+ },
+ {
+  "name": "Blues Brothers 2000",
+  "logo": "assets/usa/logo-00b045db9e79cb3f.png",
+  "art": "assets/usa/art-00b045db9e79cb3f.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#91b263"
+ },
+ {
+  "name": "Body Harvest",
+  "logo": "assets/usa/logo-0844021ba0d110ac.png",
+  "art": "assets/usa/art-0844021ba0d110ac.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#b0b0bd"
+ },
+ {
+  "name": "Bomberman 64",
+  "logo": "assets/usa/logo-9f7110c4f445ab58.png",
+  "art": "assets/usa/art-9f7110c4f445ab58.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#181125"
+ },
+ {
+  "name": "Bomberman 64 - The Second Attack!",
+  "logo": "assets/usa/logo-7463a04e991df7cc.png",
+  "art": "assets/usa/art-7463a04e991df7cc.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#1f1608"
+ },
+ {
+  "name": "Bomberman Hero",
+  "logo": "assets/usa/logo-ac40743e1bcfcc7f.png",
+  "art": "assets/usa/art-ac40743e1bcfcc7f.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#fdf26c"
+ },
+ {
+  "name": "Bottom of the 9th",
+  "logo": "assets/usa/logo-3af95f21fbcd190c.png",
+  "art": "assets/usa/art-3af95f21fbcd190c.jpg",
+  "crop": [
+   0,
+   8,
+   168,
+   76
+  ],
+  "background": "#4a321a"
+ },
+ {
+  "name": "Brunswick Circuit Pro Bowling",
+  "logo": "assets/usa/logo-10b28d13b174d421.png",
+  "art": "assets/usa/art-10b28d13b174d421.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#fdf9d8"
+ },
+ {
+  "name": "Buck Bumble",
+  "logo": "assets/usa/logo-23ab6a7f2db99f31.png",
+  "art": "assets/usa/art-23ab6a7f2db99f31.jpg",
+  "crop": [
+   12,
+   8,
+   180,
+   76
+  ],
+  "background": "#2b2902"
+ },
+ {
+  "name": "Bug's Life, A",
+  "logo": "assets/usa/logo-c878d689f3312a8a.png",
+  "art": "assets/usa/art-c878d689f3312a8a.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#a9b8bb"
+ },
+ {
+  "name": "Bust-A-Move '99",
+  "logo": "assets/usa/logo-f49fbad4c044deee.png",
+  "art": "assets/usa/art-f49fbad4c044deee.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#ffc2c2"
+ },
+ {
+  "name": "Bust-A-Move 2 - Arcade Edition",
+  "logo": "assets/usa/logo-7f46eeca7acd846c.png",
+  "art": "assets/usa/art-7f46eeca7acd846c.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#111429"
+ },
+ {
+  "name": "California Speed",
+  "logo": "assets/usa/logo-a192a8403a4c1986.png",
+  "art": "assets/usa/art-a192a8403a4c1986.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#cbcbcc"
+ },
+ {
+  "name": "Carmageddon 64",
+  "logo": "assets/usa/logo-576422a716d26381.png",
+  "art": "assets/usa/art-576422a716d26381.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#522a1e"
+ },
+ {
+  "name": "Castlevania",
+  "logo": "assets/usa/logo-12b6fe6f3aea86c9.png",
+  "art": "assets/usa/art-12b6fe6f3aea86c9.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#efc1a0"
+ },
+ {
+  "name": "Castlevania - Legacy of Darkness",
+  "logo": "assets/usa/logo-7649cfde21273975.png",
+  "art": "assets/usa/art-7649cfde21273975.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#212525"
+ },
+ {
+  "name": "Chameleon Twist",
+  "logo": "assets/usa/logo-b3e190d3bd32ff43.png",
+  "art": "assets/usa/art-b3e190d3bd32ff43.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#162327"
+ },
+ {
+  "name": "Chameleon Twist 2",
+  "logo": "assets/usa/logo-7729592be07d1c15.png",
+  "art": "assets/usa/art-7729592be07d1c15.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#172a30"
+ },
+ {
+  "name": "Charlie Blast's Territory",
+  "logo": "assets/usa/logo-db95aaeefaa124e5.png",
+  "art": "assets/usa/art-db95aaeefaa124e5.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#97510d"
+ },
+ {
+  "name": "Chopper Attack",
+  "logo": "assets/usa/logo-2bd5fa35496f29ec.png",
+  "art": "assets/usa/art-2bd5fa35496f29ec.jpg",
+  "crop": [
+   12,
+   8,
+   180,
+   76
+  ],
+  "background": "#c1bbc1"
+ },
+ {
+  "name": "Clay Fighter - Sculptor's Cut",
+  "logo": "assets/usa/logo-0bdfd6cc9e8c2fb8.png",
+  "art": "assets/usa/art-0bdfd6cc9e8c2fb8.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#f4d0b0"
+ },
+ {
+  "name": "Clay Fighter 63 1-3",
+  "logo": "assets/logo-17.png",
+  "art": "assets/art-17.png",
+  "crop": [
+   190,
+   415,
+   480,
+   590
+  ],
+  "background": "#f1ead6"
+ },
+ {
+  "name": "Command & Conquer",
+  "logo": "assets/usa/logo-fa18a26c60184de4.png",
+  "art": "assets/usa/art-fa18a26c60184de4.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#36261a"
+ },
+ {
+  "name": "Cruis'n Exotica",
+  "logo": "assets/usa/logo-89f97ad7479a24e4.png",
+  "art": "assets/usa/art-89f97ad7479a24e4.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#cfcfd0"
+ },
+ {
+  "name": "Cruis'n USA",
+  "logo": "assets/usa/logo-2556d65c3f19470e.png",
+  "art": "assets/usa/art-2556d65c3f19470e.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#e8d3c3"
+ },
+ {
+  "name": "Cruis'n World",
+  "logo": "assets/usa/logo-fa58544d906ad6fb.png",
+  "art": "assets/usa/art-fa58544d906ad6fb.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#d2c4c9"
+ },
+ {
+  "name": "CyberTiger",
+  "logo": "assets/usa/logo-482d18a2055859c4.png",
+  "art": "assets/usa/art-482d18a2055859c4.jpg",
+  "crop": [
+   0,
+   8,
+   166,
+   76
+  ],
+  "background": "#3f4821"
+ },
+ {
+  "name": "Dark Rift",
+  "logo": "assets/usa/logo-6482a0aac1ed6464.png",
+  "art": "assets/usa/art-6482a0aac1ed6464.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#8f858f"
+ },
+ {
+  "name": "Deadly Arts",
+  "logo": "assets/usa/logo-6b25d3f19845c9fc.png",
+  "art": "assets/usa/art-6b25d3f19845c9fc.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#333332"
+ },
+ {
+  "name": "Destruction Derby 64",
+  "logo": "assets/usa/logo-6a8d4eb671c9387b.png",
+  "art": "assets/usa/art-6a8d4eb671c9387b.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#d8d2d4"
+ },
+ {
+  "name": "Diddy Kong Racing",
+  "logo": "assets/usa/logo-84df996d011034a4.png",
+  "art": "assets/usa/art-84df996d011034a4.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#2f160a"
+ },
+ {
+  "name": "Donald Duck - Goin' Quackers",
+  "logo": "assets/usa/logo-94299216fcad9e6a.png",
+  "art": "assets/usa/art-94299216fcad9e6a.jpg",
+  "crop": [
+   0,
+   8,
+   163,
+   74
+  ],
+  "background": "#383036"
+ },
+ {
+  "name": "Donkey Kong 64",
+  "logo": "assets/logo-10.png",
+  "art": "assets/art-10.jpg",
+  "crop": [
+   498,
+   335,
+   727,
+   603
+  ],
+  "background": "#173c2a"
+ },
+ {
+  "name": "Doom 64",
+  "logo": "assets/usa/logo-79a40b8c62ea18a5.png",
+  "art": "assets/usa/art-79a40b8c62ea18a5.jpg",
+  "crop": [
+   12,
+   8,
+   177,
+   75
+  ],
+  "background": "#cdc7c3"
+ },
+ {
+  "name": "Dr. Mario 64",
+  "logo": "assets/usa/logo-e1c1fc8e3be8f1ad.png",
+  "art": "assets/usa/art-e1c1fc8e3be8f1ad.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#1f2026"
+ },
+ {
+  "name": "Dual Heroes",
+  "logo": "assets/usa/logo-4a1287a1b5f03dba.png",
+  "art": "assets/usa/art-4a1287a1b5f03dba.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#d4ccc8"
+ },
+ {
+  "name": "Duck Dodgers Starring Daffy Duck",
+  "logo": "assets/usa/logo-ecc2235f65141dad.png",
+  "art": "assets/usa/art-ecc2235f65141dad.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#e0d262"
+ },
+ {
+  "name": "Duke Nukem - Zero Hour",
+  "logo": "assets/usa/logo-f0971a10f2021a20.png",
+  "art": "assets/usa/art-f0971a10f2021a20.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#311f17"
+ },
+ {
+  "name": "Duke Nukem 64",
+  "logo": "assets/logo-03.png",
+  "art": "assets/art-03.png",
+  "crop": [
+   120,
+   0,
+   370,
+   130
+  ],
+  "background": "#422211"
+ },
+ {
+  "name": "Earthworm Jim 3D",
+  "logo": "assets/usa/logo-892d9e230ab9e139.png",
+  "art": "assets/usa/art-892d9e230ab9e139.jpg",
+  "crop": [
+   12,
+   8,
+   158,
+   67
+  ],
+  "background": "#f2d1c8"
+ },
+ {
+  "name": "ECW Hardcore Revolution",
+  "logo": "assets/usa/logo-162b0598efd56bbb.png",
+  "art": "assets/usa/art-162b0598efd56bbb.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#88898b"
+ },
+ {
+  "name": "Excitebike 64",
+  "logo": "assets/usa/logo-8a48dc8ecf9e563d.png",
+  "art": "assets/usa/art-8a48dc8ecf9e563d.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#212127"
+ },
+ {
+  "name": "Extreme-G",
+  "logo": "assets/usa/logo-635663d9bfa696f6.png",
+  "art": "assets/usa/art-635663d9bfa696f6.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#714054"
+ },
+ {
+  "name": "Extreme-G XG2",
+  "logo": "assets/usa/logo-a947c4d7ac521892.png",
+  "art": "assets/usa/art-a947c4d7ac521892.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#d10305"
+ },
+ {
+  "name": "F-1 World Grand Prix",
+  "logo": "assets/usa/logo-2ec5ae98a59694d5.png",
+  "art": "assets/usa/art-2ec5ae98a59694d5.jpg",
+  "crop": [
+   12,
+   8,
+   177,
+   75
+  ],
+  "background": "#1b1a26"
+ },
+ {
+  "name": "F-Zero X",
+  "logo": "assets/usa/logo-a600ed13e63e1076.png",
+  "art": "assets/usa/art-a600ed13e63e1076.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#0c1b32"
+ },
+ {
+  "name": "F1 Pole Position 64",
+  "logo": "assets/usa/logo-0595ba991e0baf7a.png",
+  "art": "assets/usa/art-0595ba991e0baf7a.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#292c32"
+ },
+ {
+  "name": "FIFA 99",
+  "logo": "assets/usa/logo-be658d25aa192e66.png",
+  "art": "assets/usa/art-be658d25aa192e66.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#e2e6e2"
+ },
+ {
+  "name": "FIFA Soccer 64",
+  "logo": "assets/usa/logo-3a1669f052347efb.png",
+  "art": "assets/usa/art-3a1669f052347efb.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#fffffa"
+ },
+ {
+  "name": "Fighter Destiny 2",
+  "logo": "assets/usa/logo-f53ca08e77aa13af.png",
+  "art": "assets/usa/art-f53ca08e77aa13af.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#e7ecef"
+ },
+ {
+  "name": "Fighters Destiny",
+  "logo": "assets/usa/logo-fc395bc0f08b3ccb.png",
+  "art": "assets/usa/art-fc395bc0f08b3ccb.jpg",
+  "crop": [
+   0,
+   8,
+   165,
+   75
+  ],
+  "background": "#57271c"
+ },
+ {
+  "name": "Fighting Force 64",
+  "logo": "assets/usa/logo-08b14565c814eb45.png",
+  "art": "assets/usa/art-08b14565c814eb45.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#cacbc8"
+ },
+ {
+  "name": "Flying Dragon",
+  "logo": "assets/usa/logo-530766de05443068.png",
+  "art": "assets/usa/art-530766de05443068.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#600b0a"
+ },
+ {
+  "name": "Forsaken 64",
+  "logo": "assets/usa/logo-002f200a202661fc.png",
+  "art": "assets/usa/art-002f200a202661fc.jpg",
+  "crop": [
+   12,
+   8,
+   180,
+   76
+  ],
+  "background": "#763c1f"
+ },
+ {
+  "name": "Fox Sports College Hoops '99",
+  "logo": "assets/usa/logo-3f7573ec296939ba.png",
+  "art": "assets/usa/art-3f7573ec296939ba.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#a26d2b"
+ },
+ {
+  "name": "Gauntlet Legends",
+  "logo": "assets/usa/logo-3b56bfea19ae760d.png",
+  "art": "assets/usa/art-3b56bfea19ae760d.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#5b1f13"
+ },
+ {
+  "name": "Gex 3 - Deep Cover Gecko",
+  "logo": "assets/usa/logo-fea3bb3abdf0231d.png",
+  "art": "assets/usa/art-fea3bb3abdf0231d.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#271a22"
+ },
+ {
+  "name": "Gex 64 - Enter the Gecko",
+  "logo": "assets/usa/logo-80c0b44fd6b26d5a.png",
+  "art": "assets/usa/art-80c0b44fd6b26d5a.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#1c1f25"
+ },
+ {
+  "name": "Glover",
+  "logo": "assets/usa/logo-f8ebca4391691dc2.png",
+  "art": "assets/usa/art-f8ebca4391691dc2.jpg",
+  "crop": [
+   12,
+   8,
+   160,
+   68
+  ],
+  "background": "#4d4444"
+ },
+ {
+  "name": "Goemon's Great Adventure",
+  "logo": "assets/usa/logo-ee5409f734c5e06b.png",
+  "art": "assets/usa/art-ee5409f734c5e06b.jpg",
+  "crop": [
+   12,
+   8,
+   175,
+   74
+  ],
+  "background": "#333116"
+ },
+ {
+  "name": "Golden Nugget 64",
+  "logo": "assets/usa/logo-461017e6d72818cf.png",
+  "art": "assets/usa/art-461017e6d72818cf.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#462d01"
+ },
+ {
+  "name": "GoldenEye 007",
+  "logo": "assets/logo-12.png",
+  "art": "assets/art-12.png",
+  "crop": [
+   200,
+   230,
+   475,
+   470
+  ],
+  "background": "#e9e4d7"
+ },
+ {
+  "name": "GT 64 - Championship Edition",
+  "logo": "assets/usa/logo-4280e08b8ce7852f.png",
+  "art": "assets/usa/art-4280e08b8ce7852f.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#373232"
+ },
+ {
+  "name": "Harvest Moon 64",
+  "logo": "assets/usa/logo-035677911c31c71f.png",
+  "art": "assets/usa/art-035677911c31c71f.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#482f0a"
+ },
+ {
+  "name": "Hercules - The Legendary Journeys",
+  "logo": "assets/usa/logo-4d2494ad09ab0ea9.png",
+  "art": "assets/usa/art-4d2494ad09ab0ea9.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#7c1d04"
+ },
+ {
+  "name": "Hexen",
+  "logo": "assets/usa/logo-22171cf48c3479a1.png",
+  "art": "assets/usa/art-22171cf48c3479a1.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#5a3710"
+ },
+ {
+  "name": "Hey You, Pikachu!",
+  "logo": "assets/usa/logo-3f344c96220c7fe2.png",
+  "art": "assets/usa/art-3f344c96220c7fe2.jpg",
+  "crop": [
+   0,
+   8,
+   212,
+   94
+  ],
+  "background": "#961809"
+ },
+ {
+  "name": "Hot Wheels - Turbo Racing",
+  "logo": "assets/usa/logo-2e09453ae3ad9342.png",
+  "art": "assets/usa/art-2e09453ae3ad9342.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#3d292c"
+ },
+ {
+  "name": "Hybrid Heaven",
+  "logo": "assets/usa/logo-25370df46c1b5b45.png",
+  "art": "assets/usa/art-25370df46c1b5b45.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#13182c"
+ },
+ {
+  "name": "Hydro Thunder",
+  "logo": "assets/usa/logo-cacc33c1df0b6301.png",
+  "art": "assets/usa/art-cacc33c1df0b6301.jpg",
+  "crop": [
+   0,
+   8,
+   166,
+   76
+  ],
+  "background": "#c5b9a7"
+ },
+ {
+  "name": "Iggy's Reckin' Balls",
+  "logo": "assets/usa/logo-959e30a2065fb817.png",
+  "art": "assets/usa/art-959e30a2065fb817.jpg",
+  "crop": [
+   12,
+   8,
+   180,
+   76
+  ],
+  "background": "#294426"
+ },
+ {
+  "name": "In-Fisherman - Bass Hunter 64",
+  "logo": "assets/usa/logo-1e165d539b1c5d3b.png",
+  "art": "assets/usa/art-1e165d539b1c5d3b.jpg",
+  "crop": [
+   12,
+   8,
+   180,
+   76
+  ],
+  "background": "#304c13"
+ },
+ {
+  "name": "Indiana Jones and the Infernal Machine",
+  "logo": "assets/usa/logo-a5c5887a17ab2138.png",
+  "art": "assets/usa/art-a5c5887a17ab2138.jpg",
+  "crop": [
+   12,
+   8,
+   268,
+   113
+  ],
+  "background": "#281809"
+ },
+ {
+  "name": "Indy Racing 2000",
+  "logo": "assets/usa/logo-5cd00fba3ae07640.png",
+  "art": "assets/usa/art-5cd00fba3ae07640.jpg",
+  "crop": [
+   12,
+   8,
+   177,
+   75
+  ],
+  "background": "#35211f"
+ },
+ {
+  "name": "International Superstar Soccer '98",
+  "logo": "assets/usa/logo-531c5e292b929735.png",
+  "art": "assets/usa/art-531c5e292b929735.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#8e331d"
+ },
+ {
+  "name": "International Superstar Soccer 2000",
+  "logo": "assets/usa/logo-da235c7b808e715c.png",
+  "art": "assets/usa/art-da235c7b808e715c.jpg",
+  "crop": [
+   12,
+   0,
+   178,
+   68
+  ],
+  "background": "#0f1010"
+ },
+ {
+  "name": "International Superstar Soccer 64",
+  "logo": "assets/usa/logo-6135d447c289c6e2.png",
+  "art": "assets/usa/art-6135d447c289c6e2.jpg",
+  "crop": [
+   0,
+   8,
+   166,
+   76
+  ],
+  "background": "#204983"
+ },
+ {
+  "name": "International Track & Field 2000",
+  "logo": "assets/usa/logo-b64a723bbc991e66.png",
+  "art": "assets/usa/art-b64a723bbc991e66.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#1e2b16"
+ },
+ {
+  "name": "Jeopardy!",
+  "logo": "assets/usa/logo-7772cb9ead4f311b.png",
+  "art": "assets/usa/art-7772cb9ead4f311b.jpg",
+  "crop": [
+   0,
+   8,
+   169,
+   77
+  ],
+  "background": "#371714"
+ },
+ {
+  "name": "Jeremy McGrath Supercross 2000",
+  "logo": "assets/usa/logo-d8dfd50655257a33.png",
+  "art": "assets/usa/art-d8dfd50655257a33.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#412e1c"
+ },
+ {
+  "name": "Jet Force Gemini",
+  "logo": "assets/usa/logo-8d4814d091d24375.png",
+  "art": "assets/usa/art-8d4814d091d24375.jpg",
+  "crop": [
+   0,
+   8,
+   166,
+   76
+  ],
+  "background": "#b7b7b6"
+ },
+ {
+  "name": "John Romero's Daikatana",
+  "logo": "assets/usa/logo-1405cffa1f198747.png",
+  "art": "assets/usa/art-1405cffa1f198747.jpg",
+  "crop": [
+   12,
+   8,
+   163,
+   69
+  ],
+  "background": "#8a381c"
+ },
+ {
+  "name": "Ken Griffey Jr.'s Slugfest",
+  "logo": "assets/usa/logo-8e45c0c32ffe420b.png",
+  "art": "assets/usa/art-8e45c0c32ffe420b.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#1a1a23"
+ },
+ {
+  "name": "Killer Instinct Gold",
+  "logo": "assets/logo-05.png",
+  "art": "assets/art-05.png",
+  "crop": [
+   70,
+   35,
+   610,
+   300
+  ],
+  "background": "#050504",
+  "art_viewport": [
+   8,
+   0,
+   55,
+   16
+  ],
+  "transition": [
+   8,
+   36
+  ]
+ },
+ {
+  "name": "Kirby 64 - The Crystal Shards",
+  "logo": "assets/usa/logo-8e7a242f3a1fe14f.png",
+  "art": "assets/usa/art-8e7a242f3a1fe14f.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#2b1d1d"
+ },
+ {
+  "name": "Knife Edge - Nose Gunner",
+  "logo": "assets/usa/logo-c8621ddb3ce493e1.png",
+  "art": "assets/usa/art-c8621ddb3ce493e1.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#37343a"
+ },
+ {
+  "name": "Knockout Kings 2000",
+  "logo": "assets/usa/logo-21420be3956d76b2.png",
+  "art": "assets/usa/art-21420be3956d76b2.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#22232c"
+ },
+ {
+  "name": "Kobe Bryant in NBA Courtside",
+  "logo": "assets/logo-02.png",
+  "art": "assets/art-02.png",
+  "crop": [
+   210,
+   0,
+   395,
+   110
+  ],
+  "background": "#d8b57e",
+  "background_style": "court"
+ },
+ {
+  "name": "Legend of Zelda, The - Majora's Mask",
+  "logo": "assets/logo-15.png",
+  "art": "assets/art-15.png",
+  "crop": [
+   70,
+   335,
+   590,
+   560
+  ],
+  "background": "#332939"
+ },
+ {
+  "name": "Legend of Zelda, The - Ocarina of Time",
+  "logo": "assets/logo-14.png",
+  "art": "assets/art-14.png",
+  "crop": [
+   40,
+   0,
+   500,
+   280
+  ],
+  "background": "#b8a566",
+  "logo_crop": [
+   128,
+   62,
+   386,
+   226
+  ],
+  "transition": [
+   24,
+   37
+  ]
+ },
+ {
+  "name": "LEGO Racers",
+  "logo": "assets/usa/logo-a63e03c27ad01b85.png",
+  "art": "assets/usa/art-a63e03c27ad01b85.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#231c2b"
+ },
+ {
+  "name": "Lode Runner 3-D",
+  "logo": "assets/usa/logo-2df45800c6792744.png",
+  "art": "assets/usa/art-2df45800c6792744.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#e5bebc"
+ },
+ {
+  "name": "Mace - The Dark Age",
+  "logo": "assets/usa/logo-42270b3e3c8662e6.png",
+  "art": "assets/usa/art-42270b3e3c8662e6.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#201c10"
+ },
+ {
+  "name": "Madden Football 64",
+  "logo": "assets/usa/logo-edaa92b9e2412a8b.png",
+  "art": "assets/usa/art-edaa92b9e2412a8b.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#88948b"
+ },
+ {
+  "name": "Madden NFL 2000",
+  "logo": "assets/usa/logo-ef452e49afd36790.png",
+  "art": "assets/usa/art-ef452e49afd36790.jpg",
+  "crop": [
+   6,
+   8,
+   172,
+   76
+  ],
+  "background": "#fefefd"
+ },
+ {
+  "name": "Madden NFL 2001",
+  "logo": "assets/usa/logo-1861b5ab937d9bd8.png",
+  "art": "assets/usa/art-1861b5ab937d9bd8.jpg",
+  "crop": [
+   12,
+   8,
+   177,
+   75
+  ],
+  "background": "#233342"
+ },
+ {
+  "name": "Madden NFL 2002",
+  "logo": "assets/usa/logo-b01009d96c17ae20.png",
+  "art": "assets/usa/art-b01009d96c17ae20.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#242244"
+ },
+ {
+  "name": "Madden NFL 99",
+  "logo": "assets/usa/logo-6496bde69b890bb8.png",
+  "art": "assets/usa/art-6496bde69b890bb8.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#311022"
+ },
+ {
+  "name": "Magical Tetris Challenge",
+  "logo": "assets/usa/logo-28713c52075d7af5.png",
+  "art": "assets/usa/art-28713c52075d7af5.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#2b211a"
+ },
+ {
+  "name": "Major League Baseball Featuring Ken Griffey Jr.",
+  "logo": "assets/usa/logo-9f9057141583b95e.png",
+  "art": "assets/usa/art-9f9057141583b95e.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#19171b"
+ },
+ {
+  "name": "Mario Golf",
+  "logo": "assets/usa/logo-291aaa97125469e7.png",
+  "art": "assets/usa/art-291aaa97125469e7.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#e8c8ca"
+ },
+ {
+  "name": "Mario Kart 64",
+  "logo": "assets/logo-00.png",
+  "art": "assets/art-00.png",
+  "crop": [
+   65,
+   150,
+   465,
+   450
+  ],
+  "background": "#306a45"
+ },
+ {
+  "name": "Mario Party",
+  "logo": "assets/usa/logo-3fe621815c7304f1.png",
+  "art": "assets/usa/art-3fe621815c7304f1.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#f1da7c"
+ },
+ {
+  "name": "Mario Party 2",
+  "logo": "assets/usa/logo-a83ce8b72e0536d2.png",
+  "art": "assets/usa/art-a83ce8b72e0536d2.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#dcd1c6"
+ },
+ {
+  "name": "Mario Party 3",
+  "logo": "assets/usa/logo-f1e24901b845cd0a.png",
+  "art": "assets/usa/art-f1e24901b845cd0a.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#f6c3b7"
+ },
+ {
+  "name": "Mario Tennis",
+  "logo": "assets/usa/logo-ccd1816aefb32c89.png",
+  "art": "assets/usa/art-ccd1816aefb32c89.jpg",
+  "crop": [
+   12,
+   8,
+   155,
+   66
+  ],
+  "background": "#7d2614"
+ },
+ {
+  "name": "Mega Man 64",
+  "logo": "assets/usa/logo-150def9b5eac818d.png",
+  "art": "assets/usa/art-150def9b5eac818d.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#2e3221"
+ },
+ {
+  "name": "Mia Hamm Soccer 64",
+  "logo": "assets/usa/logo-6bc4258f3967bca0.png",
+  "art": "assets/usa/art-6bc4258f3967bca0.jpg",
+  "crop": [
+   0,
+   8,
+   164,
+   75
+  ],
+  "background": "#d7b39f"
+ },
+ {
+  "name": "Mickey's Speedway USA",
+  "logo": "assets/usa/logo-f7e587f1caaa7bae.png",
+  "art": "assets/usa/art-f7e587f1caaa7bae.jpg",
+  "crop": [
+   0,
+   8,
+   169,
+   77
+  ],
+  "background": "#483306"
+ },
+ {
+  "name": "Micro Machines 64 Turbo",
+  "logo": "assets/usa/logo-251fdfad585db4a7.png",
+  "art": "assets/usa/art-251fdfad585db4a7.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#312c2a"
+ },
+ {
+  "name": "Midway's Greatest Arcade Hits - Volume 1",
+  "logo": "assets/usa/logo-fe5b09019e542303.png",
+  "art": "assets/usa/art-fe5b09019e542303.jpg",
+  "crop": [
+   12,
+   8,
+   180,
+   76
+  ],
+  "background": "#cacaca"
+ },
+ {
+  "name": "Mike Piazza's Strike Zone",
+  "logo": "assets/usa/logo-674b4f760a323f20.png",
+  "art": "assets/usa/art-674b4f760a323f20.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#0e1914"
+ },
+ {
+  "name": "Milo's Astro Lanes",
+  "logo": "assets/usa/logo-8f3edf41a8bcc07d.png",
+  "art": "assets/usa/art-8f3edf41a8bcc07d.jpg",
+  "crop": [
+   12,
+   8,
+   176,
+   75
+  ],
+  "background": "#2f2b33"
+ },
+ {
+  "name": "Mischief Makers",
+  "logo": "assets/usa/logo-18f47ab69e8ef9ff.png",
+  "art": "assets/usa/art-18f47ab69e8ef9ff.jpg",
+  "crop": [
+   0,
+   8,
+   167,
+   76
+  ],
+  "background": "#332317"
+ },
+ {
+  "name": "Mission - Impossible",
+  "logo": "assets/usa/logo-f7c21f18c79077e9.png",
+  "art": "assets/usa/art-f7c21f18c79077e9.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#61553e"
+ },
+ {
+  "name": "Monaco Grand Prix",
+  "logo": "assets/usa/logo-e704c4e6d96e6ec7.png",
+  "art": "assets/usa/art-e704c4e6d96e6ec7.jpg",
+  "crop": [
+   0,
+   8,
+   128,
+   60
+  ],
+  "background": "#696867"
+ },
+ {
+  "name": "Monopoly",
+  "logo": "assets/usa/logo-7abcc84cdbaf4a41.png",
+  "art": "assets/usa/art-7abcc84cdbaf4a41.jpg",
+  "crop": [
+   12,
+   8,
+   176,
+   75
+  ],
+  "background": "#141614"
+ },
+ {
+  "name": "Monster Truck Madness 64",
+  "logo": "assets/usa/logo-b0772d1f137fa5ba.png",
+  "art": "assets/usa/art-b0772d1f137fa5ba.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#01030b"
+ },
+ {
+  "name": "Mortal Kombat 4",
+  "logo": "assets/usa/logo-408db0aa28864f7d.png",
+  "art": "assets/usa/art-408db0aa28864f7d.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#b5aeae"
+ },
+ {
+  "name": "Mortal Kombat Mythologies - Sub-Zero",
+  "logo": "assets/usa/logo-840064c3341065fd.png",
+  "art": "assets/usa/art-840064c3341065fd.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#0f0600"
+ },
+ {
+  "name": "Mortal Kombat Trilogy",
+  "logo": "assets/usa/logo-10d84859b995427c.png",
+  "art": "assets/usa/art-10d84859b995427c.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#a9a8a8"
+ },
+ {
+  "name": "MRC - Multi-Racing Championship",
+  "logo": "assets/usa/logo-8f9af3639db1d9c0.png",
+  "art": "assets/usa/art-8f9af3639db1d9c0.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#070505"
+ },
+ {
+  "name": "Ms. Pac-Man - Maze Madness",
+  "logo": "assets/usa/logo-62af47a8d0b58fb6.png",
+  "art": "assets/usa/art-62af47a8d0b58fb6.jpg",
+  "crop": [
+   12,
+   8,
+   177,
+   75
+  ],
+  "background": "#263217"
+ },
+ {
+  "name": "Mystical Ninja Starring Goemon",
+  "logo": "assets/usa/logo-87cfdc0fa998e42c.png",
+  "art": "assets/usa/art-87cfdc0fa998e42c.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#e5c9c7"
+ },
+ {
+  "name": "Nagano Winter Olympics '98",
+  "logo": "assets/usa/logo-60876fc151b0c1a4.png",
+  "art": "assets/usa/art-60876fc151b0c1a4.jpg",
+  "crop": [
+   6,
+   8,
+   172,
+   76
+  ],
+  "background": "#404345"
+ },
+ {
+  "name": "Namco Museum 64",
+  "logo": "assets/usa/logo-87b1673e9d074b0b.png",
+  "art": "assets/usa/art-87b1673e9d074b0b.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#372b0f"
+ },
+ {
+  "name": "NASCAR 2000",
+  "logo": "assets/usa/logo-704cce55e0128aff.png",
+  "art": "assets/usa/art-704cce55e0128aff.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#b6b5b5"
+ },
+ {
+  "name": "NASCAR 99",
+  "logo": "assets/usa/logo-cea2028df5a5a5e3.png",
+  "art": "assets/usa/art-cea2028df5a5a5e3.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#363636"
+ },
+ {
+  "name": "NBA Courtside 2 featuring Kobe Bryant",
+  "logo": "assets/usa/logo-f1fa04c19f6c8e17.png",
+  "art": "assets/usa/art-f1fa04c19f6c8e17.jpg",
+  "crop": [
+   0,
+   8,
+   168,
+   76
+  ],
+  "background": "#c4c5c5"
+ },
+ {
+  "name": "NBA Hangtime",
+  "logo": "assets/usa/logo-ff30aaba9e2fd359.png",
+  "art": "assets/usa/art-ff30aaba9e2fd359.jpg",
+  "crop": [
+   12,
+   8,
+   177,
+   75
+  ],
+  "background": "#c8d7e0"
+ },
+ {
+  "name": "NBA in the Zone '98",
+  "logo": "assets/usa/logo-0c46e7394ff9845e.png",
+  "art": "assets/usa/art-0c46e7394ff9845e.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#221c11"
+ },
+ {
+  "name": "NBA in the Zone '99",
+  "logo": "assets/usa/logo-1d78cb256d33190b.png",
+  "art": "assets/usa/art-1d78cb256d33190b.jpg",
+  "crop": [
+   12,
+   8,
+   172,
+   73
+  ],
+  "background": "#8f1828"
+ },
+ {
+  "name": "NBA in the Zone 2000",
+  "logo": "assets/usa/logo-a533227b558dbe2e.png",
+  "art": "assets/usa/art-a533227b558dbe2e.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#ede6e0"
+ },
+ {
+  "name": "NBA Jam 2000",
+  "logo": "assets/usa/logo-c5de020fef94140d.png",
+  "art": "assets/usa/art-c5de020fef94140d.jpg",
+  "crop": [
+   12,
+   8,
+   177,
+   75
+  ],
+  "background": "#2e222d"
+ },
+ {
+  "name": "NBA Jam 99",
+  "logo": "assets/usa/logo-78d6eb11fadfc05e.png",
+  "art": "assets/usa/art-78d6eb11fadfc05e.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#1c141f"
+ },
+ {
+  "name": "NBA Live 2000",
+  "logo": "assets/usa/logo-3a89b7b26b1609f2.png",
+  "art": "assets/usa/art-3a89b7b26b1609f2.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#633528"
+ },
+ {
+  "name": "NBA Live 99",
+  "logo": "assets/usa/logo-cd7d723c922315af.png",
+  "art": "assets/usa/art-cd7d723c922315af.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#c4c4c3"
+ },
+ {
+  "name": "NBA Showtime - NBA on NBC",
+  "logo": "assets/usa/logo-542a07efd935953f.png",
+  "art": "assets/usa/art-542a07efd935953f.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#1a0a14"
+ },
+ {
+  "name": "New Tetris, The",
+  "logo": "assets/usa/logo-3e308050722b0cd3.png",
+  "art": "assets/usa/art-3e308050722b0cd3.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#cacfc4"
+ },
+ {
+  "name": "NFL Blitz",
+  "logo": "assets/usa/logo-06909692474aeb72.png",
+  "art": "assets/usa/art-06909692474aeb72.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#08220b"
+ },
+ {
+  "name": "NFL Blitz - Special Edition",
+  "logo": "assets/usa/logo-216c6b413c1eebbb.png",
+  "art": "assets/usa/art-216c6b413c1eebbb.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#0b2320"
+ },
+ {
+  "name": "NFL Blitz 2000",
+  "logo": "assets/usa/logo-e0a69acdd5a57948.png",
+  "art": "assets/usa/art-e0a69acdd5a57948.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#feeaac"
+ },
+ {
+  "name": "NFL Blitz 2001",
+  "logo": "assets/usa/logo-3173a48314de2a99.png",
+  "art": "assets/usa/art-3173a48314de2a99.jpg",
+  "crop": [
+   0,
+   8,
+   168,
+   76
+  ],
+  "background": "#c2c2c2"
+ },
+ {
+  "name": "NFL QB Club 2001",
+  "logo": "assets/usa/logo-a45b008a523ba060.png",
+  "art": "assets/usa/art-a45b008a523ba060.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#583e3f"
+ },
+ {
+  "name": "NFL Quarterback Club 2000",
+  "logo": "assets/usa/logo-8172544851e17bfa.png",
+  "art": "assets/usa/art-8172544851e17bfa.jpg",
+  "crop": [
+   12,
+   8,
+   220,
+   93
+  ],
+  "background": "#43291a"
+ },
+ {
+  "name": "NFL Quarterback Club 98",
+  "logo": "assets/usa/logo-c26c40084807a935.png",
+  "art": "assets/usa/art-c26c40084807a935.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#af463e"
+ },
+ {
+  "name": "NFL Quarterback Club 99",
+  "logo": "assets/usa/logo-01adaa63a95bbc0c.png",
+  "art": "assets/usa/art-01adaa63a95bbc0c.jpg",
+  "crop": [
+   0,
+   8,
+   128,
+   60
+  ],
+  "background": "#4c633a"
+ },
+ {
+  "name": "NHL 99",
+  "logo": "assets/usa/logo-55ee108d8f6bd3c7.png",
+  "art": "assets/usa/art-55ee108d8f6bd3c7.jpg",
+  "crop": [
+   12,
+   8,
+   180,
+   76
+  ],
+  "background": "#cdcfd0"
+ },
+ {
+  "name": "NHL Blades of Steel '99",
+  "logo": "assets/usa/logo-009123b7f7448176.png",
+  "art": "assets/usa/art-009123b7f7448176.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#2f2f2f"
+ },
+ {
+  "name": "NHL Breakaway 98",
+  "logo": "assets/usa/logo-5b8b3d7c2c132345.png",
+  "art": "assets/usa/art-5b8b3d7c2c132345.jpg",
+  "crop": [
+   6,
+   8,
+   134,
+   60
+  ],
+  "background": "#787878"
+ },
+ {
+  "name": "NHL Breakaway 99",
+  "logo": "assets/usa/logo-5132d8a901239412.png",
+  "art": "assets/usa/art-5132d8a901239412.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#787878"
+ },
+ {
+  "name": "Nightmare Creatures",
+  "logo": "assets/usa/logo-4b7b6fcae405f217.png",
+  "art": "assets/usa/art-4b7b6fcae405f217.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#aeaaaa"
+ },
+ {
+  "name": "Nuclear Strike 64",
+  "logo": "assets/usa/logo-eb335f09ffbf0651.png",
+  "art": "assets/usa/art-eb335f09ffbf0651.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#141413"
+ },
+ {
+  "name": "Off Road Challenge",
+  "logo": "assets/usa/logo-11a48b9f0cea7528.png",
+  "art": "assets/usa/art-11a48b9f0cea7528.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#e1cdc7"
+ },
+ {
+  "name": "Ogre Battle 64 - Person of Lordly Caliber",
+  "logo": "assets/usa/logo-75aa0327dbb7834a.png",
+  "art": "assets/usa/art-75aa0327dbb7834a.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#322069"
+ },
+ {
+  "name": "Olympic Hockey 98",
+  "logo": "assets/usa/logo-d50a2bdead7a9a09.png",
+  "art": "assets/usa/art-d50a2bdead7a9a09.jpg",
+  "crop": [
+   12,
+   8,
+   177,
+   75
+  ],
+  "background": "#eac7d9"
+ },
+ {
+  "name": "Paper Mario",
+  "logo": "assets/logo-08.png",
+  "art": "assets/art-08.png",
+  "crop": [
+   93,
+   250,
+   475,
+   555
+  ],
+  "background": "#eddb80"
+ },
+ {
+  "name": "Paperboy",
+  "logo": "assets/usa/logo-3af18aee79912558.png",
+  "art": "assets/usa/art-3af18aee79912558.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#f8cb9d"
+ },
+ {
+  "name": "Penny Racers",
+  "logo": "assets/usa/logo-5a0c08e3d5cfabb0.png",
+  "art": "assets/usa/art-5a0c08e3d5cfabb0.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#2b293c"
+ },
+ {
+  "name": "Perfect Dark",
+  "logo": "assets/logo-07.png",
+  "art": "assets/art-07.jpg",
+  "crop": [
+   321,
+   228,
+   491,
+   399
+  ],
+  "background": "#080b12",
+  "art_viewport": [
+   24,
+   -5,
+   39,
+   21
+  ]
+ },
+ {
+  "name": "PGA European Tour",
+  "logo": "assets/usa/logo-3a4079921e15978a.png",
+  "art": "assets/usa/art-3a4079921e15978a.jpg",
+  "crop": [
+   12,
+   8,
+   220,
+   93
+  ],
+  "background": "#0f302b"
+ },
+ {
+  "name": "Pilotwings 64",
+  "logo": "assets/usa/logo-b0345000a64df25a.png",
+  "art": "assets/usa/art-b0345000a64df25a.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#292c50"
+ },
+ {
+  "name": "Pokemon Snap",
+  "logo": "assets/usa/logo-bde15eb4f783d9f4.png",
+  "art": "assets/usa/art-bde15eb4f783d9f4.jpg",
+  "crop": [
+   12,
+   8,
+   177,
+   75
+  ],
+  "background": "#f9c9c8"
+ },
+ {
+  "name": "Pokemon Stadium 2",
+  "logo": "assets/usa/logo-19785827f6a3360a.png",
+  "art": "assets/usa/art-19785827f6a3360a.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#cdb99b"
+ },
+ {
+  "name": "Polaris SnoCross",
+  "logo": "assets/usa/logo-0c2ce698d5a5c2cd.png",
+  "art": "assets/usa/art-0c2ce698d5a5c2cd.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#dfb9ad"
+ },
+ {
+  "name": "Power Rangers - Lightspeed Rescue",
+  "logo": "assets/usa/logo-6a65025efb6ea29a.png",
+  "art": "assets/usa/art-6a65025efb6ea29a.jpg",
+  "crop": [
+   12,
+   8,
+   177,
+   75
+  ],
+  "background": "#161117"
+ },
+ {
+  "name": "Powerpuff Girls, The - Chemical X-Traction",
+  "logo": "assets/usa/logo-fd4993ce0e3255d5.png",
+  "art": "assets/usa/art-fd4993ce0e3255d5.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#aacdf1"
+ },
+ {
+  "name": "Quake",
+  "logo": "assets/usa/logo-14c758c93bceb037.png",
+  "art": "assets/usa/art-14c758c93bceb037.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#0f0d11"
+ },
+ {
+  "name": "Quake II",
+  "logo": "assets/usa/logo-3e8bcbd99d01d545.png",
+  "art": "assets/usa/art-3e8bcbd99d01d545.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#200c08"
+ },
+ {
+  "name": "Quest 64",
+  "logo": "assets/usa/logo-4bdb2a98fd3eb6d9.png",
+  "art": "assets/usa/art-4bdb2a98fd3eb6d9.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#b2c592"
+ },
+ {
+  "name": "Rally Challenge 2000",
+  "logo": "assets/usa/logo-21c454be3f72c13d.png",
+  "art": "assets/usa/art-21c454be3f72c13d.jpg",
+  "crop": [
+   12,
+   8,
+   223,
+   94
+  ],
+  "background": "#271811"
+ },
+ {
+  "name": "Rampage - World Tour",
+  "logo": "assets/usa/logo-baec9512276c0f1b.png",
+  "art": "assets/usa/art-baec9512276c0f1b.jpg",
+  "crop": [
+   0,
+   8,
+   166,
+   76
+  ],
+  "background": "#1e491e"
+ },
+ {
+  "name": "Rampage 2 - Universal Tour",
+  "logo": "assets/usa/logo-8dc91d6c5962ce88.png",
+  "art": "assets/usa/art-8dc91d6c5962ce88.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#213129"
+ },
+ {
+  "name": "Rat Attack!",
+  "logo": "assets/usa/logo-174ab9a84ba77070.png",
+  "art": "assets/usa/art-174ab9a84ba77070.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#505150"
+ },
+ {
+  "name": "Rayman 2 - The Great Escape",
+  "logo": "assets/usa/logo-2182e1b9648f6d52.png",
+  "art": "assets/usa/art-2182e1b9648f6d52.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#7f4146"
+ },
+ {
+  "name": "Razor Freestyle Scooter",
+  "logo": "assets/usa/logo-132e9d640ed2f1a2.png",
+  "art": "assets/usa/art-132e9d640ed2f1a2.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#c9c7bc"
+ },
+ {
+  "name": "Re-Volt",
+  "logo": "assets/usa/logo-cfe607f3fef3ffc6.png",
+  "art": "assets/usa/art-cfe607f3fef3ffc6.jpg",
+  "crop": [
+   12,
+   8,
+   176,
+   75
+  ],
+  "background": "#1b1b31"
+ },
+ {
+  "name": "Ready 2 Rumble Boxing",
+  "logo": "assets/usa/logo-780ec695a282e582.png",
+  "art": "assets/usa/art-780ec695a282e582.jpg",
+  "crop": [
+   12,
+   0,
+   180,
+   68
+  ],
+  "background": "#ffffff"
+ },
+ {
+  "name": "Ready 2 Rumble Boxing - Round 2",
+  "logo": "assets/usa/logo-1111e12bf62474e5.png",
+  "art": "assets/usa/art-1111e12bf62474e5.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#e6cfc6"
+ },
+ {
+  "name": "Resident Evil 2",
+  "logo": "assets/logo-16.png",
+  "art": "assets/art-16.png",
+  "crop": [
+   70,
+   45,
+   330,
+   195
+  ],
+  "background": "#090b10",
+  "art_viewport": [
+   24,
+   -6,
+   39,
+   22
+  ]
+ },
+ {
+  "name": "Road Rash 64",
+  "logo": "assets/usa/logo-102ac05a91a5b29c.png",
+  "art": "assets/usa/art-102ac05a91a5b29c.jpg",
+  "crop": [
+   0,
+   0,
+   168,
+   68
+  ],
+  "background": "#cdb9af"
+ },
+ {
+  "name": "Roadsters",
+  "logo": "assets/usa/logo-0b8d562ba0f684c5.png",
+  "art": "assets/usa/art-0b8d562ba0f684c5.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#eabbad"
+ },
+ {
+  "name": "Robotron 64",
+  "logo": "assets/usa/logo-4c7b58b58bc28973.png",
+  "art": "assets/usa/art-4c7b58b58bc28973.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#f2c8ca"
+ },
+ {
+  "name": "Rocket - Robot on Wheels",
+  "logo": "assets/usa/logo-19ed78a04eccdb99.png",
+  "art": "assets/usa/art-19ed78a04eccdb99.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#fce9a4"
+ },
+ {
+  "name": "RR64 - Ridge Racer 64",
+  "logo": "assets/usa/logo-b6457074b7ad1491.png",
+  "art": "assets/usa/art-b6457074b7ad1491.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#d7c6d6"
+ },
+ {
+  "name": "Rugrats - Scavenger Hunt",
+  "logo": "assets/usa/logo-626e4a463ffacf66.png",
+  "art": "assets/usa/art-626e4a463ffacf66.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#61432d"
+ },
+ {
+  "name": "Rugrats in Paris - The Movie",
+  "logo": "assets/usa/logo-f350fe7f21d73799.png",
+  "art": "assets/usa/art-f350fe7f21d73799.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#154543"
+ },
+ {
+  "name": "Rush 2 - Extreme Racing USA",
+  "logo": "assets/usa/logo-e11372accc500bd8.png",
+  "art": "assets/usa/art-e11372accc500bd8.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#c4c7cb"
+ },
+ {
+  "name": "S.C.A.R.S.",
+  "logo": "assets/usa/logo-cce96fcdbe5e0ad9.png",
+  "art": "assets/usa/art-cce96fcdbe5e0ad9.jpg",
+  "crop": [
+   12,
+   8,
+   177,
+   75
+  ],
+  "background": "#262317"
+ },
+ {
+  "name": "San Francisco Rush - Extreme Racing",
+  "logo": "assets/usa/logo-41190fb5ce195e4d.png",
+  "art": "assets/usa/art-41190fb5ce195e4d.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#382742"
+ },
+ {
+  "name": "San Francisco Rush 2049",
+  "logo": "assets/usa/logo-5619a68bde90c0b3.png",
+  "art": "assets/usa/art-5619a68bde90c0b3.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#cfbfbb"
+ },
+ {
+  "name": "Scooby-Doo! - Classic Creep Capers",
+  "logo": "assets/usa/logo-af1c934699ef85eb.png",
+  "art": "assets/usa/art-af1c934699ef85eb.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#dad2c5"
+ },
+ {
+  "name": "Sesame Street - Elmo's Letter Adventure",
+  "logo": "assets/usa/logo-575558eb4b5f3f9c.png",
+  "art": "assets/usa/art-575558eb4b5f3f9c.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#e50b28"
+ },
+ {
+  "name": "Sesame Street - Elmo's Number Journey",
+  "logo": "assets/usa/logo-148c821fa1ba18d1.png",
+  "art": "assets/usa/art-148c821fa1ba18d1.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#1c6c0f"
+ },
+ {
+  "name": "Shadow Man",
+  "logo": "assets/usa/logo-e191694f22d6d63b.png",
+  "art": "assets/usa/art-e191694f22d6d63b.jpg",
+  "crop": [
+   6,
+   8,
+   173,
+   76
+  ],
+  "background": "#151619"
+ },
+ {
+  "name": "Shadowgate 64 - Trials of the Four Towers",
+  "logo": "assets/usa/logo-94412445281445ec.png",
+  "art": "assets/usa/art-94412445281445ec.jpg",
+  "crop": [
+   12,
+   8,
+   176,
+   75
+  ],
+  "background": "#eebeae"
+ },
+ {
+  "name": "Snowboard Kids 2",
+  "logo": "assets/usa/logo-3b28b98040e3abeb.png",
+  "art": "assets/usa/art-3b28b98040e3abeb.jpg",
+  "crop": [
+   12,
+   8,
+   180,
+   76
+  ],
+  "background": "#e5c48d"
+ },
+ {
+  "name": "South Park",
+  "logo": "assets/usa/logo-299e6e49d8fce2ca.png",
+  "art": "assets/usa/art-299e6e49d8fce2ca.jpg",
+  "crop": [
+   0,
+   8,
+   168,
+   76
+  ],
+  "background": "#95caa7"
+ },
+ {
+  "name": "South Park - Chef's Luv Shack",
+  "logo": "assets/usa/logo-0aa647cc55ca226c.png",
+  "art": "assets/usa/art-0aa647cc55ca226c.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#5d3321"
+ },
+ {
+  "name": "South Park Rally",
+  "logo": "assets/usa/logo-eb1e246b6d288565.png",
+  "art": "assets/usa/art-eb1e246b6d288565.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#c0d5aa"
+ },
+ {
+  "name": "Space Invaders",
+  "logo": "assets/usa/logo-a5c98ac840ed7b4b.png",
+  "art": "assets/usa/art-a5c98ac840ed7b4b.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#1f3043"
+ },
+ {
+  "name": "SpaceStation Silicon Valley",
+  "logo": "assets/usa/logo-c5f2b518e20f7348.png",
+  "art": "assets/usa/art-c5f2b518e20f7348.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#bec1e9"
+ },
+ {
+  "name": "Spider-Man",
+  "logo": "assets/usa/logo-945577a18441bf09.png",
+  "art": "assets/usa/art-945577a18441bf09.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#33100a"
+ },
+ {
+  "name": "Star Fox 64",
+  "logo": "assets/logo-06.png",
+  "art": "assets/art-06.jpg",
+  "crop": [
+   30,
+   78,
+   165,
+   165
+  ],
+  "background": "#284858"
+ },
+ {
+  "name": "Star Soldier - Vanishing Earth",
+  "logo": "assets/usa/logo-d41614065dd3bef4.png",
+  "art": "assets/usa/art-d41614065dd3bef4.jpg",
+  "crop": [
+   0,
+   8,
+   168,
+   76
+  ],
+  "background": "#0b0b0a"
+ },
+ {
+  "name": "Star Wars - Rogue Squadron",
+  "logo": "assets/usa/logo-5ea6bd8f08370b01.png",
+  "art": "assets/usa/art-5ea6bd8f08370b01.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#daccab"
+ },
+ {
+  "name": "Star Wars - Shadows of the Empire",
+  "logo": "assets/usa/logo-458c213b7082a648.png",
+  "art": "assets/usa/art-458c213b7082a648.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#181b1c"
+ },
+ {
+  "name": "Star Wars Episode I - Battle for Naboo",
+  "logo": "assets/usa/logo-d1f19c198ef64822.png",
+  "art": "assets/usa/art-d1f19c198ef64822.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#efc471"
+ },
+ {
+  "name": "Star Wars Episode I - Racer",
+  "logo": "assets/usa/logo-beb1a0c6619c6efc.png",
+  "art": "assets/usa/art-beb1a0c6619c6efc.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#101010"
+ },
+ {
+  "name": "StarCraft 64",
+  "logo": "assets/usa/logo-a67e8a331f98402d.png",
+  "art": "assets/usa/art-a67e8a331f98402d.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#b9b5c3"
+ },
+ {
+  "name": "Starshot - Space Circus Fever",
+  "logo": "assets/usa/logo-fa957a7d0e682ffd.png",
+  "art": "assets/usa/art-fa957a7d0e682ffd.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#1d1518"
+ },
+ {
+  "name": "Stunt Racer 64",
+  "logo": "assets/usa/logo-953518534d329e74.png",
+  "art": "assets/usa/art-953518534d329e74.jpg",
+  "crop": [
+   6,
+   8,
+   171,
+   75
+  ],
+  "background": "#23272c"
+ },
+ {
+  "name": "Super Bowling",
+  "logo": "assets/usa/logo-e52c36445c562b19.png",
+  "art": "assets/usa/art-e52c36445c562b19.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#2b2725"
+ },
+ {
+  "name": "Super Mario 64",
+  "logo": "assets/logo-04.png",
+  "art": "assets/art-04.png",
+  "crop": [
+   70,
+   230,
+   490,
+   510
+  ],
+  "background": "#69a957"
+ },
+ {
+  "name": "Super Smash Bros.",
+  "logo": "assets/logo-11.png",
+  "art": "assets/art-11.png",
+  "crop": [
+   60,
+   235,
+   470,
+   490
+  ],
+  "background": "#9c93b8"
+ },
+ {
+  "name": "Supercross 2000",
+  "logo": "assets/usa/logo-2ebc23ce5b02fb56.png",
+  "art": "assets/usa/art-2ebc23ce5b02fb56.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#3c4141"
+ },
+ {
+  "name": "Superman - The New Superman Aventures",
+  "logo": "assets/usa/logo-bc444c26887e5607.png",
+  "art": "assets/usa/art-bc444c26887e5607.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#171815"
+ },
+ {
+  "name": "Tarzan",
+  "logo": "assets/usa/logo-3d5956fb3c65e7fe.png",
+  "art": "assets/usa/art-3d5956fb3c65e7fe.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#e2c0a6"
+ },
+ {
+  "name": "Tetrisphere",
+  "logo": "assets/usa/logo-8504313c9f346079.png",
+  "art": "assets/usa/art-8504313c9f346079.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#1d191a"
+ },
+ {
+  "name": "Tigger's Honey Hunt",
+  "logo": "assets/usa/logo-1f560990647e088f.png",
+  "art": "assets/usa/art-1f560990647e088f.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#fefd32"
+ },
+ {
+  "name": "Tom and Jerry in Fists of Furry",
+  "logo": "assets/usa/logo-5a6fdf65603d847b.png",
+  "art": "assets/usa/art-5a6fdf65603d847b.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#e0f1f0"
+ },
+ {
+  "name": "Tom Clancy's Rainbow Six",
+  "logo": "assets/usa/logo-24375a3406118442.png",
+  "art": "assets/usa/art-24375a3406118442.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#192520"
+ },
+ {
+  "name": "Tonic Trouble",
+  "logo": "assets/usa/logo-5ed3785cd39e3d34.png",
+  "art": "assets/usa/art-5ed3785cd39e3d34.jpg",
+  "crop": [
+   0,
+   8,
+   168,
+   76
+  ],
+  "background": "#99d190"
+ },
+ {
+  "name": "Tony Hawk's Pro Skater",
+  "logo": "assets/usa/logo-16f4c1f833b9a2bf.png",
+  "art": "assets/usa/art-16f4c1f833b9a2bf.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#041e3a"
+ },
+ {
+  "name": "Tony Hawk's Pro Skater 2",
+  "logo": "assets/usa/logo-fa57fa5d31f235c0.png",
+  "art": "assets/usa/art-fa57fa5d31f235c0.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#202228"
+ },
+ {
+  "name": "Tony Hawk's Pro Skater 3",
+  "logo": "assets/usa/logo-ea140e8f07deadb0.png",
+  "art": "assets/usa/art-ea140e8f07deadb0.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#232122"
+ },
+ {
+  "name": "Top Gear Hyper-Bike",
+  "logo": "assets/usa/logo-decd4252815525c7.png",
+  "art": "assets/usa/art-decd4252815525c7.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#484117"
+ },
+ {
+  "name": "Top Gear Overdrive",
+  "logo": "assets/usa/logo-1d786fd5c268a201.png",
+  "art": "assets/usa/art-1d786fd5c268a201.jpg",
+  "crop": [
+   12,
+   8,
+   176,
+   75
+  ],
+  "background": "#4d473c"
+ },
+ {
+  "name": "Top Gear Rally",
+  "logo": "assets/usa/logo-6951b912af5e8e00.png",
+  "art": "assets/usa/art-6951b912af5e8e00.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#3a2b17"
+ },
+ {
+  "name": "Top Gear Rally 2",
+  "logo": "assets/usa/logo-997904478a26de15.png",
+  "art": "assets/usa/art-997904478a26de15.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#40171a"
+ },
+ {
+  "name": "Toy Story 2 - Buzz Lightyear to the Rescue!",
+  "logo": "assets/usa/logo-48a9b8b66e27800d.png",
+  "art": "assets/usa/art-48a9b8b66e27800d.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#243902"
+ },
+ {
+  "name": "Transformers - Beast Wars Transmetals",
+  "logo": "assets/usa/logo-b0b73ff7e7587f09.png",
+  "art": "assets/usa/art-b0b73ff7e7587f09.jpg",
+  "crop": [
+   12,
+   8,
+   177,
+   75
+  ],
+  "background": "#a8abb7"
+ },
+ {
+  "name": "Triple Play 2000",
+  "logo": "assets/usa/logo-6c1eef9a9f60af25.png",
+  "art": "assets/usa/art-6c1eef9a9f60af25.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#ccccd9"
+ },
+ {
+  "name": "Turok - Dinosaur Hunter",
+  "logo": "assets/usa/logo-1ea46dd903ba5eb7.png",
+  "art": "assets/usa/art-1ea46dd903ba5eb7.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#d3d4d0"
+ },
+ {
+  "name": "Turok - Rage Wars",
+  "logo": "assets/usa/logo-9b1d2c237bd9ad70.png",
+  "art": "assets/usa/art-9b1d2c237bd9ad70.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#aaaaac"
+ },
+ {
+  "name": "Turok 2 - Seeds of Evil",
+  "logo": "assets/usa/logo-1200dc9fd761db32.png",
+  "art": "assets/usa/art-1200dc9fd761db32.jpg",
+  "crop": [
+   12,
+   8,
+   180,
+   76
+  ],
+  "background": "#b9c0c4"
+ },
+ {
+  "name": "Turok 3 - Shadow of Oblivion",
+  "logo": "assets/usa/logo-ba8d5d0b269d73fa.png",
+  "art": "assets/usa/art-ba8d5d0b269d73fa.jpg",
+  "crop": [
+   0,
+   8,
+   166,
+   76
+  ],
+  "background": "#d2ccc8"
+ },
+ {
+  "name": "Twisted Edge - Extreme Snowboarding",
+  "logo": "assets/usa/logo-9246bc239db7a37b.png",
+  "art": "assets/usa/art-9246bc239db7a37b.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#babbc8"
+ },
+ {
+  "name": "V-Rally Edition 99",
+  "logo": "assets/usa/logo-e15bc5d9b60a8a19.png",
+  "art": "assets/usa/art-e15bc5d9b60a8a19.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#392a20"
+ },
+ {
+  "name": "Vigilante 8",
+  "logo": "assets/usa/logo-7ea63fd56ec6d16a.png",
+  "art": "assets/usa/art-7ea63fd56ec6d16a.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#dcc8ac"
+ },
+ {
+  "name": "Vigilante 8 - 2nd Offense",
+  "logo": "assets/usa/logo-e810e07dd39d77e8.png",
+  "art": "assets/usa/art-e810e07dd39d77e8.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#d9cdc0"
+ },
+ {
+  "name": "Virtual Chess 64",
+  "logo": "assets/usa/logo-bdede30f58b57bdf.png",
+  "art": "assets/usa/art-bdede30f58b57bdf.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#292010"
+ },
+ {
+  "name": "Virtual Pool 64",
+  "logo": "assets/usa/logo-c8b904d0481387b4.png",
+  "art": "assets/usa/art-c8b904d0481387b4.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#b9bbb8"
+ },
+ {
+  "name": "Waialae Country Club - True Golf Classics",
+  "logo": "assets/usa/logo-d891b65bce5549df.png",
+  "art": "assets/usa/art-d891b65bce5549df.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#26272a"
+ },
+ {
+  "name": "War Gods",
+  "logo": "assets/usa/logo-be3ce753d53c0ed5.png",
+  "art": "assets/usa/art-be3ce753d53c0ed5.jpg",
+  "crop": [
+   12,
+   8,
+   176,
+   75
+  ],
+  "background": "#b9d9e5"
+ },
+ {
+  "name": "Wave Race 64 - Kawasaki Jet Ski",
+  "logo": "assets/usa/logo-ead02675b0e42c16.png",
+  "art": "assets/usa/art-ead02675b0e42c16.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#21242c"
+ },
+ {
+  "name": "Wayne Gretzky's 3D Hockey",
+  "logo": "assets/usa/logo-1adc24d4bf88cb6b.png",
+  "art": "assets/usa/art-1adc24d4bf88cb6b.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#c8c4bf"
+ },
+ {
+  "name": "Wayne Gretzky's 3D Hockey '98",
+  "logo": "assets/usa/logo-05c77566d9a27846.png",
+  "art": "assets/usa/art-05c77566d9a27846.jpg",
+  "crop": [
+   12,
+   8,
+   176,
+   75
+  ],
+  "background": "#dbdcd9"
+ },
+ {
+  "name": "WCW Backstage Assault",
+  "logo": "assets/usa/logo-7d92559ad2e23b6c.png",
+  "art": "assets/usa/art-7d92559ad2e23b6c.jpg",
+  "crop": [
+   12,
+   8,
+   219,
+   92
+  ],
+  "background": "#dcc8a7"
+ },
+ {
+  "name": "WCW Mayhem",
+  "logo": "assets/usa/logo-b68a1266da38f5a0.png",
+  "art": "assets/usa/art-b68a1266da38f5a0.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#bbbdc3"
+ },
+ {
+  "name": "WCW Nitro",
+  "logo": "assets/usa/logo-270cd501247fe064.png",
+  "art": "assets/usa/art-270cd501247fe064.jpg",
+  "crop": [
+   12,
+   8,
+   176,
+   75
+  ],
+  "background": "#2f1d11"
+ },
+ {
+  "name": "WCW vs. nWo - World Tour",
+  "logo": "assets/usa/logo-92f5c0c526e863ef.png",
+  "art": "assets/usa/art-92f5c0c526e863ef.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#192b36"
+ },
+ {
+  "name": "WCW-nWo Revenge",
+  "logo": "assets/usa/logo-9ac77d1edc40bf05.png",
+  "art": "assets/usa/art-9ac77d1edc40bf05.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#29282c"
+ },
+ {
+  "name": "Wetrix",
+  "logo": "assets/usa/logo-c6f388197a9c4714.png",
+  "art": "assets/usa/art-c6f388197a9c4714.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#21202d"
+ },
+ {
+  "name": "Wheel of Fortune",
+  "logo": "assets/usa/logo-8ed07442bf9b6ca8.png",
+  "art": "assets/usa/art-8ed07442bf9b6ca8.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#540700"
+ },
+ {
+  "name": "WinBack - Covert Operations",
+  "logo": "assets/usa/logo-32b8e4ec22de2ae5.png",
+  "art": "assets/usa/art-32b8e4ec22de2ae5.jpg",
+  "crop": [
+   6,
+   8,
+   175,
+   77
+  ],
+  "background": "#1a1e1e"
+ },
+ {
+  "name": "Wipeout 64",
+  "logo": "assets/usa/logo-d53094a94b6b9734.png",
+  "art": "assets/usa/art-d53094a94b6b9734.jpg",
+  "crop": [
+   12,
+   8,
+   181,
+   77
+  ],
+  "background": "#282e34"
+ },
+ {
+  "name": "World Cup 98",
+  "logo": "assets/usa/logo-e83ce6835dca350f.png",
+  "art": "assets/usa/art-e83ce6835dca350f.jpg",
+  "crop": [
+   0,
+   8,
+   165,
+   75
+  ],
+  "background": "#f4ebc3"
+ },
+ {
+  "name": "World Driver Championship",
+  "logo": "assets/usa/logo-ec25f45ee3564af7.png",
+  "art": "assets/usa/art-ec25f45ee3564af7.jpg",
+  "crop": [
+   12,
+   8,
+   180,
+   76
+  ],
+  "background": "#351b0c"
+ },
+ {
+  "name": "Worms Armageddon",
+  "logo": "assets/usa/logo-30d70a18101c8800.png",
+  "art": "assets/usa/art-30d70a18101c8800.jpg",
+  "crop": [
+   12,
+   8,
+   178,
+   76
+  ],
+  "background": "#feb490"
+ },
+ {
+  "name": "WWF Attitude",
+  "logo": "assets/usa/logo-cdf20f7b8053bde1.png",
+  "art": "assets/usa/art-cdf20f7b8053bde1.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#212426"
+ },
+ {
+  "name": "WWF No Mercy",
+  "logo": "assets/usa/logo-41c311490810eda1.png",
+  "art": "assets/usa/art-41c311490810eda1.jpg",
+  "crop": [
+   0,
+   8,
+   166,
+   76
+  ],
+  "background": "#c6c7cc"
+ },
+ {
+  "name": "WWF War Zone",
+  "logo": "assets/usa/logo-f6957655059277ac.png",
+  "art": "assets/usa/art-f6957655059277ac.jpg",
+  "crop": [
+   12,
+   8,
+   140,
+   60
+  ],
+  "background": "#897a67"
+ },
+ {
+  "name": "WWF WrestleMania 2000",
+  "logo": "assets/usa/logo-f1e26a39f4ef6b27.png",
+  "art": "assets/usa/art-f1e26a39f4ef6b27.jpg",
+  "crop": [
+   6,
+   8,
+   172,
+   76
+  ],
+  "background": "#303033"
+ },
+ {
+  "name": "Xena - Warrior Princess - The Talisman of Fate",
+  "logo": "assets/usa/logo-a1e2cd90ebd31aea.png",
+  "art": "assets/usa/art-a1e2cd90ebd31aea.jpg",
+  "crop": [
+   12,
+   8,
+   179,
+   76
+  ],
+  "background": "#0d0d13"
+ },
+ {
+  "name": "Yoshi's Story",
+  "logo": "assets/usa/logo-0e63118915d4b6de.png",
+  "art": "assets/usa/art-0e63118915d4b6de.jpg",
+  "crop": [
+   0,
+   8,
+   168,
+   76
+  ],
+  "background": "#1d3828"
+ }
+]

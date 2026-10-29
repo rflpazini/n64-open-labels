@@ -1,0 +1,106 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Iggy's Reckin' Balls",
+    "file": "01-iggy-s-reckin-balls.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "aa2174344e529e74635e6e8e4370c955028b2abb2a9116c96c5ad9957b1856aa"
+  },
+  {
+    "recipe_index": 1,
+    "name": "In-Fisherman - Bass Hunter 64",
+    "file": "02-in-fisherman-bass-hunter-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ce6db400f0c84d0bf1392e10c71fe15df24627ed84d35dd6227496b695c90682"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Indiana Jones and the Infernal Machine",
+    "file": "03-indiana-jones-and-the-infernal-machine.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "b50f1f0b19439c835a97d9e5c7af1072856625e7572bdbb18f272a3cb2ea8a14"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Indy Racing 2000",
+    "file": "04-indy-racing-2000.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "f1089bc9bf6057708dfe29f58871a223b9e66cccfebc7a2b1f1fc973373b46bd"
+  },
+  {
+    "recipe_index": 4,
+    "name": "International Superstar Soccer '98",
+    "file": "05-international-superstar-soccer-98.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "dede2ffa9854e703f01f2c2e8b5c419b4068554246728b6b2044ce1503aa788d"
+  },
+  {
+    "recipe_index": 5,
+    "name": "International Superstar Soccer 2000",
+    "file": "06-international-superstar-soccer-2000.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "270e21594b853b8085dbbf707eea7784a9a2c6de97cedc7dc3ac5b4d76df8924"
+  },
+  {
+    "recipe_index": 6,
+    "name": "International Superstar Soccer 64",
+    "file": "07-international-superstar-soccer-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "1c447057108b75959873818c85377d385309bbe71224e9e7caf4e9329327235e"
+  },
+  {
+    "recipe_index": 7,
+    "name": "International Track & Field 2000",
+    "file": "08-international-track-field-2000.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "4c470b05f565894501cc7f7dc3f32715d6e02752fe8380acb4bda237cea9b9cb"
+  }
+]

@@ -22,7 +22,6 @@ import build
 
 ROOT = Path(__file__).resolve().parent
 DPI = 600
-PIXELS = (round(63 / 25.4 * DPI), round(16 / 25.4 * DPI))
 
 
 def slug(name):
@@ -30,7 +29,8 @@ def slug(name):
     return re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
 
 
-def export(config, output, asset_pack=None):
+def export(config, output, asset_pack=None, dpi=DPI):
+    pixels = (round(63 / 25.4 * dpi), round(16 / 25.4 * dpi))
     poppler = shutil.which('pdftoppm')
     if not poppler:
         raise ValueError('Install Poppler first: apt install poppler-utils, or brew install poppler.')
@@ -80,19 +80,19 @@ def export(config, output, asset_pack=None):
                 c.showPage()
                 c.save()
                 target = scratch / stem
-                subprocess.run([poppler, '-singlefile', '-png', '-r', str(DPI),
-                                '-scale-to-x', str(PIXELS[0]), '-scale-to-y', str(PIXELS[1]),
+                subprocess.run([poppler, '-singlefile', '-png', '-r', str(dpi),
+                                '-scale-to-x', str(pixels[0]), '-scale-to-y', str(pixels[1]),
                                 str(single_pdf), str(target)], check=True, capture_output=True)
                 png = output / f'{stem}.png'
                 with Image.open(target.with_suffix('.png')) as source:
                     im = source.convert('RGB')
-                im.save(png, dpi=(DPI, DPI))
+                im.save(png, dpi=(dpi, dpi))
                 x, y = 30 + (index % 2) * 660, 80 + (index // 2) * 212
                 draw.text((x, y), item['name'], font=font, fill='#243038')
                 preview.paste(im.resize((630, 160), Image.Resampling.LANCZOS), (x, y + 28))
                 manifest.append({'recipe_index': index, 'name': item['name'], 'file': png.name,
-                                 'width_mm': 63, 'height_mm': 16, 'dpi': DPI,
-                                 'pixels': list(PIXELS), 'sha256': hashlib.sha256(png.read_bytes()).hexdigest()})
+                                 'width_mm': 63, 'height_mm': 16, 'dpi': dpi,
+                                 'pixels': list(pixels), 'sha256': hashlib.sha256(png.read_bytes()).hexdigest()})
             preview.save(output / 'preview.jpg', quality=94)
             (output / 'manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
             print(f'Exported {len(manifest)} PNGs, A4 PDF, preview and manifest to {output}')
@@ -105,8 +105,9 @@ if __name__ == '__main__':
     parser.add_argument('--config', type=Path, default=ROOT / 'examples/demo.json')
     parser.add_argument('--output', type=Path, default=ROOT / 'rendered/export')
     parser.add_argument('--asset-pack', type=Path)
+    parser.add_argument('--dpi', type=int, default=DPI, help='PNG resolution (default 600)')
     args = parser.parse_args()
     try:
-        export(args.config, args.output, args.asset_pack)
+        export(args.config, args.output, args.asset_pack, args.dpi)
     except (ValueError, KeyError, FileNotFoundError, zipfile.BadZipFile) as exc:
         parser.exit(2, f'Error: {exc}\n')

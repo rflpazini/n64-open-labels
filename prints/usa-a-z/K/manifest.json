@@ -1,0 +1,80 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Ken Griffey Jr.'s Slugfest",
+    "file": "01-ken-griffey-jr-s-slugfest.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "23fc85411bbb6498a2ebe559ded42aba87b0e8e4d9b24438014e79c059623710"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Killer Instinct Gold",
+    "file": "02-killer-instinct-gold.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "70b6bb2dfcece56449057887864985d9a41c5acb7e4e092685b7f31919c96e08"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Kirby 64 - The Crystal Shards",
+    "file": "03-kirby-64-the-crystal-shards.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "b3875d667e7b907abd0843192dc4a6e9fcfe24d14feb126ea97dcbb4dc063253"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Knife Edge - Nose Gunner",
+    "file": "04-knife-edge-nose-gunner.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "792be4b8d159b5309379fae1f0a4a8149d18eb1ea8483625e98111c5dd4cf6cb"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Knockout Kings 2000",
+    "file": "05-knockout-kings-2000.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "945d59a6219ad39a5746cd8fa5fb1eb9d545bd9ab11709732581b703bac8f251"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Kobe Bryant in NBA Courtside",
+    "file": "06-kobe-bryant-in-nba-courtside.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ebb8f82fcdcc3912e7a9673084cc903daaf61e067d22f2af3b250109af327781"
+  }
+]

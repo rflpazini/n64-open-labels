@@ -1,0 +1,106 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Gauntlet Legends",
+    "file": "01-gauntlet-legends.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "44aad0b3100a7d37c724664c0d6bca299d85ece36bbde49dd730ae8338f6a6b3"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Gex 3 - Deep Cover Gecko",
+    "file": "02-gex-3-deep-cover-gecko.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "352912327155c982a10d6dcdeef73b40641b53609d786c59f3ca74c4afa79827"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Gex 64 - Enter the Gecko",
+    "file": "03-gex-64-enter-the-gecko.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "8d82ff70f5f175f14df6a9e63894eec53f3cd1fbcd7b7eed4d81988e7183b2f7"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Glover",
+    "file": "04-glover.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "69dba32f64acd40b69364efb2aeaf4a561ad357bd512b092def2f985867d3eb5"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Goemon's Great Adventure",
+    "file": "05-goemon-s-great-adventure.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "0cc8b8564f4dfde1e9e942664f63bb8ce353ba8f44c8480938e182d55e96f633"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Golden Nugget 64",
+    "file": "06-golden-nugget-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a40f1e32433afc6ac941d9e6343f4db96d767cd2c052e650400099fbbe034f06"
+  },
+  {
+    "recipe_index": 6,
+    "name": "GoldenEye 007",
+    "file": "07-goldeneye-007.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "c675f1c726c961b9c1b1e4df972bca43463aa52e26fe43b287d9b38fc2be419b"
+  },
+  {
+    "recipe_index": 7,
+    "name": "GT 64 - Championship Edition",
+    "file": "08-gt-64-championship-edition.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "baa532869a71170e68b696d56d065ecf0824d42cc3b2c97bd41e5a198e43aea9"
+  }
+]

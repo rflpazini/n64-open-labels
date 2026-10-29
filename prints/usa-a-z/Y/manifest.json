@@ -1,0 +1,15 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Yoshi's Story",
+    "file": "01-yoshi-s-story.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "dcc301ba95f8bffb8c8d43eb5bb792aa0d5fbe0c72d8bcb32c673744db573467"
+  }
+]

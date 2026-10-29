@@ -1,0 +1,28 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "007 - The World Is Not Enough",
+    "file": "01-007-the-world-is-not-enough.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "55691f40a43255a981590eff3354a7246f85431f49a490855af12e4a8b6960f1"
+  },
+  {
+    "recipe_index": 1,
+    "name": "1080 Snowboarding",
+    "file": "02-1080-snowboarding.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ae7ebe15ed516aece5e8eddc5823944459b0f2a1f5da54d0953e71b8b022b140"
+  }
+]

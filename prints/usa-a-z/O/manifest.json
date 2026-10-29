@@ -1,0 +1,41 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Off Road Challenge",
+    "file": "01-off-road-challenge.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "60dc2674ad4cd814a6a04ddca7b41073394c2ce0566e082e8aa251385400fc5f"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Ogre Battle 64 - Person of Lordly Caliber",
+    "file": "02-ogre-battle-64-person-of-lordly-caliber.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "e967ca6b3a68d3b0f6e0610d564902d307cdeab89afe7ac467fa261f7792d6eb"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Olympic Hockey 98",
+    "file": "03-olympic-hockey-98.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "279d41040d8c529e8576c4dfffeaff33b4831c960ef82a90bf8120c57412404f"
+  }
+]

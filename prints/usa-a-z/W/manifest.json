@@ -1,0 +1,275 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Waialae Country Club - True Golf Classics",
+    "file": "01-waialae-country-club-true-golf-classics.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "51032069e5ee7145221f0d47ee01865d9dcd8fd7d75c5074932856793cbcf40a"
+  },
+  {
+    "recipe_index": 1,
+    "name": "War Gods",
+    "file": "02-war-gods.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "0e190189be24d9c979fe2f5821872a90b4f84f4798c217c37a1a21e36862b91f"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Wave Race 64 - Kawasaki Jet Ski",
+    "file": "03-wave-race-64-kawasaki-jet-ski.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "99ce5e68d8a3232c39f3f4775ba97e01b81bf1ac94af9310a4937c378aaba41f"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Wayne Gretzky's 3D Hockey",
+    "file": "04-wayne-gretzky-s-3d-hockey.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "0a75a0dc9a1cebf171f62ca42b1aa2c2baf62b10d668aaaa4a674c175f34e433"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Wayne Gretzky's 3D Hockey '98",
+    "file": "05-wayne-gretzky-s-3d-hockey-98.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "6ebfcfe4db89da7308559095f1bb909c16905ca83c16aac5c618b93b1d7cf0e0"
+  },
+  {
+    "recipe_index": 5,
+    "name": "WCW Backstage Assault",
+    "file": "06-wcw-backstage-assault.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "0fc24b5def0b30f805640420884b64789f1da3de10541252eab0c4a0020dcbc3"
+  },
+  {
+    "recipe_index": 6,
+    "name": "WCW Mayhem",
+    "file": "07-wcw-mayhem.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "d512eb999bda172b2bc098675fc375c42caae435a3e187f2b207160caa72865c"
+  },
+  {
+    "recipe_index": 7,
+    "name": "WCW Nitro",
+    "file": "08-wcw-nitro.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "f1903dff66cc30ef699f532204b299d5546146c98260d59da8316c7020ddb383"
+  },
+  {
+    "recipe_index": 8,
+    "name": "WCW vs. nWo - World Tour",
+    "file": "09-wcw-vs-nwo-world-tour.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "94c82d442306f57d8afb8902cee9c2fbd9abc0543eac5e75b73080ed8415be46"
+  },
+  {
+    "recipe_index": 9,
+    "name": "WCW-nWo Revenge",
+    "file": "10-wcw-nwo-revenge.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "bd2c86af6eac015e771d7e078d48e35011b9b209f3c94ced2b366d11b631e729"
+  },
+  {
+    "recipe_index": 10,
+    "name": "Wetrix",
+    "file": "11-wetrix.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "69aa430dec490a5f8d7413e25c00a3f5b682fd5b559c47aa9fc953ed3baf5d08"
+  },
+  {
+    "recipe_index": 11,
+    "name": "Wheel of Fortune",
+    "file": "12-wheel-of-fortune.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "fcfa7a833093344b6b130282b9524d43ac195fbff35610047273151db5b9f01c"
+  },
+  {
+    "recipe_index": 12,
+    "name": "WinBack - Covert Operations",
+    "file": "13-winback-covert-operations.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "654f3eda87b4e8e2dbcb0c23626a341616e174eafbb3a67964716ba19089c804"
+  },
+  {
+    "recipe_index": 13,
+    "name": "Wipeout 64",
+    "file": "14-wipeout-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "6815102e364ecf71d8e654f38681f093ee80300a72bf56cb8091234531744c09"
+  },
+  {
+    "recipe_index": 14,
+    "name": "World Cup 98",
+    "file": "15-world-cup-98.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "7c36134a80ab2cabff65e5a941bd4f1022d920eb34320f93b6cde614977fe7a0"
+  },
+  {
+    "recipe_index": 15,
+    "name": "World Driver Championship",
+    "file": "16-world-driver-championship.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "d5035f253fbacb3558c0b374628cfe3234bfe306c5771284c752d410656ff619"
+  },
+  {
+    "recipe_index": 16,
+    "name": "Worms Armageddon",
+    "file": "17-worms-armageddon.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "fa20f41bb51e351b8388de55446f45bbc1aefe87086f5e15235aef5b4d7f1968"
+  },
+  {
+    "recipe_index": 17,
+    "name": "WWF Attitude",
+    "file": "18-wwf-attitude.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "63c582b973596c1e631e295df9d15ca47be51c0e603cf95b0d5369e76fa36f3b"
+  },
+  {
+    "recipe_index": 18,
+    "name": "WWF No Mercy",
+    "file": "19-wwf-no-mercy.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "24ec374db9cae4c9724b2a8de5499002cff147bbdb73c52a0c8a2e28795706c2"
+  },
+  {
+    "recipe_index": 19,
+    "name": "WWF War Zone",
+    "file": "20-wwf-war-zone.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "5e30d71f53da82e398a90fe3e518b25befbfc8995967829c16b87895bdd241d5"
+  },
+  {
+    "recipe_index": 20,
+    "name": "WWF WrestleMania 2000",
+    "file": "21-wwf-wrestlemania-2000.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "5b6c7337200a97ca06bf280a23710d2a0e947163f365306d3fb003f3fcdb58c4"
+  }
+]

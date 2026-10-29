@@ -2,11 +2,13 @@
 
 Printable Nintendo 64 end labels with original-era visual references and a shared, integrated layout. Community project initiated by Rafa.
 
-**Status: 18 printable labels available; worldwide set still in progress.** The initial 18 label compositions were visually approved by the project owner. The worldwide coverage file currently contains **867 candidate regional/language entries requiring review**, not 867 distinct games. No physical fit or print-color validation has been recorded yet.
+**Status: 18 approved labels plus a 291-label USA A-Z draft set; worldwide set still in progress.** The initial 18 label compositions were visually approved by the project owner. The worldwide coverage file currently contains **867 candidate regional/language entries requiring review**, not 867 distinct games. No physical fit or print-color validation has been recorded yet.
 
 ## Download and print
 
 [**Printable A4 PDF (18 labels)**](prints/collection-18/labels-A4.pdf) | [**Individual PNGs and gallery**](prints/collection-18/)
+
+**New: [USA set, A to Z (291 labels)](prints/usa-a-z/)**, one folder per letter with its own A4 PDF and PNGs. 16 of them reuse the approved recipes above; the other 275 are automatic drafts built from libretro-thumbnails logos and box art and still need individual review. See that folder's README for status and the 5 titles not yet covered.
 
 ![Initial collection preview](prints/collection-18/preview.jpg)
 

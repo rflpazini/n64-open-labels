@@ -1,0 +1,158 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Dark Rift",
+    "file": "01-dark-rift.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ab0ef178da6ec74aaffb3b36c9ccf74831dccdf6f783211b0ecd2717578e6027"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Deadly Arts",
+    "file": "02-deadly-arts.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "1cf9eb084467e25cc058ce573c59e7c166bd8d35a306532843a6c57cb8901039"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Destruction Derby 64",
+    "file": "03-destruction-derby-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "c47f4888911d60cc5cc2f9352b8b226a324d26c1da7c697e67a96e0febb1a573"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Diddy Kong Racing",
+    "file": "04-diddy-kong-racing.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "586dee70d329e4f3f9a3a801850c590049bc83cb9c7fcfb5b905d2e6a1d4c602"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Donald Duck - Goin' Quackers",
+    "file": "05-donald-duck-goin-quackers.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "6f10b489ff43f073caa2dbcba3542970ca5bc74bf21469907232014f3066ca49"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Donkey Kong 64",
+    "file": "06-donkey-kong-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ee2321d43ec2b444020e2e9ffc0e37ac2f62b8d1e4940dce2aee9328c467e077"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Doom 64",
+    "file": "07-doom-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ba1fe27c3cd246c691134ae2fa561c6619bf8671a51eb69e65bd49eef732fb42"
+  },
+  {
+    "recipe_index": 7,
+    "name": "Dr. Mario 64",
+    "file": "08-dr-mario-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ab901703e319c495a05cfea39ad228d51914a5a168008ac0aa3ca290e6f9cfe7"
+  },
+  {
+    "recipe_index": 8,
+    "name": "Dual Heroes",
+    "file": "09-dual-heroes.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "5184a19c3209a38aaef66c13b1d05bda55e81a8da9a6ef0fb98aa632e1730586"
+  },
+  {
+    "recipe_index": 9,
+    "name": "Duck Dodgers Starring Daffy Duck",
+    "file": "10-duck-dodgers-starring-daffy-duck.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "4075410067b6c14e74a02de41cce756f55e05f2a956a17143bf38533f2ca502a"
+  },
+  {
+    "recipe_index": 10,
+    "name": "Duke Nukem - Zero Hour",
+    "file": "11-duke-nukem-zero-hour.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "5b1466e914020086a1d98e6202d80204dfdfcf1e818ca40d1aba4007bc0c661e"
+  },
+  {
+    "recipe_index": 11,
+    "name": "Duke Nukem 64",
+    "file": "12-duke-nukem-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "05cef165029c3329a8cf280c4043a2f789301b17e1d13f51fbbb4f05b0f4bafb"
+  }
+]
