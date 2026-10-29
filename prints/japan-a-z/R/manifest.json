@@ -1,0 +1,54 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Rakugakids",
+    "file": "01-rakugakids.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "b3cc060cdc4e7fa8c7430402263d1e6eee4ab4d9d3e46cc15747125bf375f836"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Rally '99",
+    "file": "02-rally-99.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "26145951b3f109a9a04761ff34e886fbd003a61df303d94ce55956946962cb62"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Robot Poncots 64 - 7tsu no Umi no Caramel",
+    "file": "03-robot-poncots-64-7tsu-no-umi-no-caramel.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "e7459f059156a9e7b922be9e5c41c879421fc30dcedd474da049e7b6142839db"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Rockman Dash - Hagane no Boukenshin",
+    "file": "04-rockman-dash-hagane-no-boukenshin.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "f0328fc2b41458c4ef09197664447b43df6980a40c31c00c0f8c70346939dbb8"
+  }
+]

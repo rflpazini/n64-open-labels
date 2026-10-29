@@ -1,16 +1,13 @@
 # USA set, A to Z: printable N64 end labels
 
-**291 labels** for the USA retail cartridges in `catalog/coverage.csv`, one folder per initial letter. Each folder has its own A4 PDF (print at **100% / actual size**), individual PNGs (300 DPI, 744 × 189 px), a preview and a manifest.
+**296 labels** for the USA retail cartridges in `catalog/coverage.csv`, one folder per initial letter. Each folder has an A4 PDF (print at **100% / actual size**), 300 DPI PNGs, a preview and a manifest. The easiest way to print is the site: https://rflpazini.com/n64-open-labels/
 
-## Status: read before printing
+## Status
 
-- **16 labels** reuse the visually approved recipes from [collection-18](../collection-18/).
-- **275 labels are machine drafts** (`stage: draft`) made by `scripts/auto_recipes.py`: the clean title logo comes from libretro-thumbnails `Named_Logos`, the artwork is an automatic crop of the US box art (`Named_Boxarts`) chosen to avoid the box's own printed title, spine and rating marks. For 37 titles whose box is mostly text, the artwork is a gameplay screenshot (`Named_Snaps`, list in `catalog/usa-snap-art.txt`).
-- Drafts have **not** been individually reviewed against the project's visual rule. Expect some weak crops, leftover box text or in-game HUD, and background colours that need tuning. Issues and per-title fixes are welcome.
-- No physical fit test or print-colour check has been recorded. Test one label on plain paper first.
-- Artwork and logos belong to Nintendo and the respective publishers; `rights_status` stays `not_reviewed`. See [ASSETS.md](../../ASSETS.md). Unofficial fan project.
-
-**Not yet included (5):** Conker's Bad Fur Day, FIFA - Road to World Cup 98, Pokemon Puzzle League, Pokemon Stadium, Snowboard Kids (no clean logo available upstream yet). GameShark Pro is excluded as an accessory.
+- **16** reuse the hand-tuned recipes from [collection-18](../collection-18/).
+- **280** are machine drafts (`stage: draft`) from `scripts/auto_recipes.py`: libretro-thumbnails logo over an automatic box-art crop. 37 use a gameplay screenshot because the box is mostly text; 5 have no clean logo upstream and use a hand-picked crop that already shows the printed title (`catalog/title-art.json`).
+- Drafts are not individually reviewed or print-tested. Report problems with an issue.
+- Logos and artwork belong to Nintendo and the publishers (`rights_status: not_reviewed`). Unofficial, non-commercial fan project.
 
 ## Jump to
 
@@ -76,7 +73,7 @@
 
 ## C
 
-[A4 PDF](C/labels-A4.pdf) · [Preview](C/preview.jpg) · 15 labels
+[A4 PDF](C/labels-A4.pdf) · [Preview](C/preview.jpg) · 16 labels
 
 | Game | PNG | Stage |
 | --- | --- | --- |
@@ -91,10 +88,11 @@
 | Clay Fighter - Sculptor's Cut | [PNG](C/09-clay-fighter-sculptor-s-cut.png) | draft |
 | Clay Fighter 63 1-3 | [PNG](C/10-clay-fighter-63-1-3.png) | visual reviewed |
 | Command & Conquer | [PNG](C/11-command-conquer.png) | draft |
-| Cruis'n Exotica | [PNG](C/12-cruis-n-exotica.png) | draft |
-| Cruis'n USA | [PNG](C/13-cruis-n-usa.png) | draft |
-| Cruis'n World | [PNG](C/14-cruis-n-world.png) | draft |
-| CyberTiger | [PNG](C/15-cybertiger.png) | draft |
+| Conker's Bad Fur Day | [PNG](C/12-conker-s-bad-fur-day.png) | draft |
+| Cruis'n Exotica | [PNG](C/13-cruis-n-exotica.png) | draft |
+| Cruis'n USA | [PNG](C/14-cruis-n-usa.png) | draft |
+| Cruis'n World | [PNG](C/15-cruis-n-world.png) | draft |
+| CyberTiger | [PNG](C/16-cybertiger.png) | draft |
 
 ## D
 
@@ -129,21 +127,22 @@
 
 ## F
 
-[A4 PDF](F/labels-A4.pdf) · [Preview](F/preview.jpg) · 11 labels
+[A4 PDF](F/labels-A4.pdf) · [Preview](F/preview.jpg) · 12 labels
 
 | Game | PNG | Stage |
 | --- | --- | --- |
 | F-1 World Grand Prix | [PNG](F/01-f-1-world-grand-prix.png) | draft |
 | F-Zero X | [PNG](F/02-f-zero-x.png) | draft |
 | F1 Pole Position 64 | [PNG](F/03-f1-pole-position-64.png) | draft |
-| FIFA 99 | [PNG](F/04-fifa-99.png) | draft |
-| FIFA Soccer 64 | [PNG](F/05-fifa-soccer-64.png) | draft |
-| Fighter Destiny 2 | [PNG](F/06-fighter-destiny-2.png) | draft |
-| Fighters Destiny | [PNG](F/07-fighters-destiny.png) | draft |
-| Fighting Force 64 | [PNG](F/08-fighting-force-64.png) | draft |
-| Flying Dragon | [PNG](F/09-flying-dragon.png) | draft |
-| Forsaken 64 | [PNG](F/10-forsaken-64.png) | draft |
-| Fox Sports College Hoops '99 | [PNG](F/11-fox-sports-college-hoops-99.png) | draft |
+| FIFA - Road to World Cup 98 | [PNG](F/04-fifa-road-to-world-cup-98.png) | draft |
+| FIFA 99 | [PNG](F/05-fifa-99.png) | draft |
+| FIFA Soccer 64 | [PNG](F/06-fifa-soccer-64.png) | draft |
+| Fighter Destiny 2 | [PNG](F/07-fighter-destiny-2.png) | draft |
+| Fighters Destiny | [PNG](F/08-fighters-destiny.png) | draft |
+| Fighting Force 64 | [PNG](F/09-fighting-force-64.png) | draft |
+| Flying Dragon | [PNG](F/10-flying-dragon.png) | draft |
+| Forsaken 64 | [PNG](F/11-forsaken-64.png) | draft |
+| Fox Sports College Hoops '99 | [PNG](F/12-fox-sports-college-hoops-99.png) | draft |
 
 ## G
 
@@ -311,7 +310,7 @@
 
 ## P
 
-[A4 PDF](P/labels-A4.pdf) · [Preview](P/preview.jpg) · 11 labels
+[A4 PDF](P/labels-A4.pdf) · [Preview](P/preview.jpg) · 13 labels
 
 | Game | PNG | Stage |
 | --- | --- | --- |
@@ -321,11 +320,13 @@
 | Perfect Dark | [PNG](P/04-perfect-dark.png) | visual reviewed |
 | PGA European Tour | [PNG](P/05-pga-european-tour.png) | draft |
 | Pilotwings 64 | [PNG](P/06-pilotwings-64.png) | draft |
-| Pokemon Snap | [PNG](P/07-pokemon-snap.png) | draft |
-| Pokemon Stadium 2 | [PNG](P/08-pokemon-stadium-2.png) | draft |
-| Polaris SnoCross | [PNG](P/09-polaris-snocross.png) | draft |
-| Power Rangers - Lightspeed Rescue | [PNG](P/10-power-rangers-lightspeed-rescue.png) | draft |
-| Powerpuff Girls, The - Chemical X-Traction | [PNG](P/11-powerpuff-girls-the-chemical-x-traction.png) | draft |
+| Pokemon Puzzle League | [PNG](P/07-pokemon-puzzle-league.png) | draft |
+| Pokemon Snap | [PNG](P/08-pokemon-snap.png) | draft |
+| Pokemon Stadium | [PNG](P/09-pokemon-stadium.png) | draft |
+| Pokemon Stadium 2 | [PNG](P/10-pokemon-stadium-2.png) | draft |
+| Polaris SnoCross | [PNG](P/11-polaris-snocross.png) | draft |
+| Power Rangers - Lightspeed Rescue | [PNG](P/12-power-rangers-lightspeed-rescue.png) | draft |
+| Powerpuff Girls, The - Chemical X-Traction | [PNG](P/13-powerpuff-girls-the-chemical-x-traction.png) | draft |
 
 ## Q
 
@@ -364,7 +365,7 @@
 
 ## S
 
-[A4 PDF](S/labels-A4.pdf) · [Preview](S/preview.jpg) · 29 labels
+[A4 PDF](S/labels-A4.pdf) · [Preview](S/preview.jpg) · 30 labels
 
 | Game | PNG | Stage |
 | --- | --- | --- |
@@ -376,27 +377,28 @@
 | Sesame Street - Elmo's Number Journey | [PNG](S/06-sesame-street-elmo-s-number-journey.png) | draft |
 | Shadow Man | [PNG](S/07-shadow-man.png) | draft |
 | Shadowgate 64 - Trials of the Four Towers | [PNG](S/08-shadowgate-64-trials-of-the-four-towers.png) | draft |
-| Snowboard Kids 2 | [PNG](S/09-snowboard-kids-2.png) | draft |
-| South Park | [PNG](S/10-south-park.png) | draft |
-| South Park - Chef's Luv Shack | [PNG](S/11-south-park-chef-s-luv-shack.png) | draft |
-| South Park Rally | [PNG](S/12-south-park-rally.png) | draft |
-| Space Invaders | [PNG](S/13-space-invaders.png) | draft |
-| SpaceStation Silicon Valley | [PNG](S/14-spacestation-silicon-valley.png) | draft |
-| Spider-Man | [PNG](S/15-spider-man.png) | draft |
-| Star Fox 64 | [PNG](S/16-star-fox-64.png) | visual reviewed |
-| Star Soldier - Vanishing Earth | [PNG](S/17-star-soldier-vanishing-earth.png) | draft |
-| Star Wars - Rogue Squadron | [PNG](S/18-star-wars-rogue-squadron.png) | draft |
-| Star Wars - Shadows of the Empire | [PNG](S/19-star-wars-shadows-of-the-empire.png) | draft |
-| Star Wars Episode I - Battle for Naboo | [PNG](S/20-star-wars-episode-i-battle-for-naboo.png) | draft |
-| Star Wars Episode I - Racer | [PNG](S/21-star-wars-episode-i-racer.png) | draft |
-| StarCraft 64 | [PNG](S/22-starcraft-64.png) | draft |
-| Starshot - Space Circus Fever | [PNG](S/23-starshot-space-circus-fever.png) | draft |
-| Stunt Racer 64 | [PNG](S/24-stunt-racer-64.png) | draft |
-| Super Bowling | [PNG](S/25-super-bowling.png) | draft |
-| Super Mario 64 | [PNG](S/26-super-mario-64.png) | visual reviewed |
-| Super Smash Bros. | [PNG](S/27-super-smash-bros.png) | visual reviewed |
-| Supercross 2000 | [PNG](S/28-supercross-2000.png) | draft |
-| Superman - The New Superman Aventures | [PNG](S/29-superman-the-new-superman-aventures.png) | draft |
+| Snowboard Kids | [PNG](S/09-snowboard-kids.png) | draft |
+| Snowboard Kids 2 | [PNG](S/10-snowboard-kids-2.png) | draft |
+| South Park | [PNG](S/11-south-park.png) | draft |
+| South Park - Chef's Luv Shack | [PNG](S/12-south-park-chef-s-luv-shack.png) | draft |
+| South Park Rally | [PNG](S/13-south-park-rally.png) | draft |
+| Space Invaders | [PNG](S/14-space-invaders.png) | draft |
+| SpaceStation Silicon Valley | [PNG](S/15-spacestation-silicon-valley.png) | draft |
+| Spider-Man | [PNG](S/16-spider-man.png) | draft |
+| Star Fox 64 | [PNG](S/17-star-fox-64.png) | visual reviewed |
+| Star Soldier - Vanishing Earth | [PNG](S/18-star-soldier-vanishing-earth.png) | draft |
+| Star Wars - Rogue Squadron | [PNG](S/19-star-wars-rogue-squadron.png) | draft |
+| Star Wars - Shadows of the Empire | [PNG](S/20-star-wars-shadows-of-the-empire.png) | draft |
+| Star Wars Episode I - Battle for Naboo | [PNG](S/21-star-wars-episode-i-battle-for-naboo.png) | draft |
+| Star Wars Episode I - Racer | [PNG](S/22-star-wars-episode-i-racer.png) | draft |
+| StarCraft 64 | [PNG](S/23-starcraft-64.png) | draft |
+| Starshot - Space Circus Fever | [PNG](S/24-starshot-space-circus-fever.png) | draft |
+| Stunt Racer 64 | [PNG](S/25-stunt-racer-64.png) | draft |
+| Super Bowling | [PNG](S/26-super-bowling.png) | draft |
+| Super Mario 64 | [PNG](S/27-super-mario-64.png) | visual reviewed |
+| Super Smash Bros. | [PNG](S/28-super-smash-bros.png) | visual reviewed |
+| Supercross 2000 | [PNG](S/29-supercross-2000.png) | draft |
+| Superman - The New Superman Aventures | [PNG](S/30-superman-the-new-superman-aventures.png) | draft |
 
 ## T
 
@@ -482,16 +484,3 @@
 | --- | --- | --- |
 | Yoshi's Story | [PNG](Y/01-yoshi-s-story.png) | draft |
 
-## Regenerate
-
-Recipes: `examples/usa.json`; per-label status and sources: `examples/usa-status.json`. With `requirements.txt` and Poppler installed, from the repository root:
-
-```sh
-python scripts/export_a_to_z.py --config examples/usa.json --status examples/usa-status.json --asset-pack prints/usa-a-z/usa-assets.zip --output rendered/usa-a-z --dpi 300
-```
-
-To rebuild the drafts from scratch, check out [libretro-thumbnails/Nintendo_-_Nintendo_64](https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_64), install `numpy` and `opencv-python-headless`, then:
-
-```sh
-python scripts/auto_recipes.py --thumbs path/to/Nintendo_-_Nintendo_64 --region USA --snap-art catalog/usa-snap-art.txt --out build/usa
-```

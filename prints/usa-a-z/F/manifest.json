@@ -40,8 +40,21 @@
   },
   {
     "recipe_index": 3,
+    "name": "FIFA - Road to World Cup 98",
+    "file": "04-fifa-road-to-world-cup-98.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "714a4299b80f2781781503202bd91c21e0f8359db083679404c376e42b5130a0"
+  },
+  {
+    "recipe_index": 4,
     "name": "FIFA 99",
-    "file": "04-fifa-99.png",
+    "file": "05-fifa-99.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,
@@ -52,9 +65,9 @@
     "sha256": "0b5f062e02c1715af3f42242d2e7bc66ab553eefae954e495c5de7f3def35bdb"
   },
   {
-    "recipe_index": 4,
+    "recipe_index": 5,
     "name": "FIFA Soccer 64",
-    "file": "05-fifa-soccer-64.png",
+    "file": "06-fifa-soccer-64.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,
@@ -65,9 +78,9 @@
     "sha256": "041b8ca8d7672c77acb0ce960dbf5a23f78df86d45e86bedf90ca901cf62832f"
   },
   {
-    "recipe_index": 5,
+    "recipe_index": 6,
     "name": "Fighter Destiny 2",
-    "file": "06-fighter-destiny-2.png",
+    "file": "07-fighter-destiny-2.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,
@@ -78,9 +91,9 @@
     "sha256": "071b234ab52bcf44415e4a1de100166649222a365208646ba4279ca94b23ee91"
   },
   {
-    "recipe_index": 6,
+    "recipe_index": 7,
     "name": "Fighters Destiny",
-    "file": "07-fighters-destiny.png",
+    "file": "08-fighters-destiny.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,
@@ -91,9 +104,9 @@
     "sha256": "4f0ab09594e6bac794c183922afca0f6c4e6bc6f8b72cf76548214bb10659eb2"
   },
   {
-    "recipe_index": 7,
+    "recipe_index": 8,
     "name": "Fighting Force 64",
-    "file": "08-fighting-force-64.png",
+    "file": "09-fighting-force-64.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,
@@ -104,9 +117,9 @@
     "sha256": "5d8137987be44f192d6faa3f348604cc0bf26729a877dc1c9f7d5ac53b984a01"
   },
   {
-    "recipe_index": 8,
+    "recipe_index": 9,
     "name": "Flying Dragon",
-    "file": "09-flying-dragon.png",
+    "file": "10-flying-dragon.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,
@@ -117,9 +130,9 @@
     "sha256": "116b9d4306301d9fc4b52a39453b67f5cb09255a43b05fae7b3fcff94ef3bf70"
   },
   {
-    "recipe_index": 9,
+    "recipe_index": 10,
     "name": "Forsaken 64",
-    "file": "10-forsaken-64.png",
+    "file": "11-forsaken-64.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,
@@ -130,9 +143,9 @@
     "sha256": "8a560cac9d35981beba979a62f2199d49b8955484e7c1ac8eb2c584bbad1c67b"
   },
   {
-    "recipe_index": 10,
+    "recipe_index": 11,
     "name": "Fox Sports College Hoops '99",
-    "file": "11-fox-sports-college-hoops-99.png",
+    "file": "12-fox-sports-college-hoops-99.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,

@@ -1,0 +1,41 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Zelda no Densetsu - Mujura no Kamen",
+    "file": "01-zelda-no-densetsu-mujura-no-kamen.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "038f9bda364657a45c93903258da817ea6c96850246cbf46a95687747863b5cf"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Zelda no Densetsu - Toki no Ocarina",
+    "file": "02-zelda-no-densetsu-toki-no-ocarina.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "92fc58e5d30f9bd1a27a630c4fe64e267a4cc0069e598f998d37e5dd293c7d88"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Zool - Majuu Tsukai Densetsu",
+    "file": "03-zool-majuu-tsukai-densetsu.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "7e5e8deae2979533ab4696e5058d9fa54c2481eb761d74b910754d831e065822"
+  }
+]

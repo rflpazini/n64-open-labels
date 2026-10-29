@@ -1,0 +1,197 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Magical Tetris Challenge featuring Mickey",
+    "file": "01-magical-tetris-challenge-featuring-mickey.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "99099ff74982f5ac59b8c620e74c5747eb21744938374af354f52dcca4d9b040"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Mahjong 64",
+    "file": "02-mahjong-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "2aa5a5d80625a40ccb949cf382d0f92654da08198da073e98620e99003f86f7a"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Mahjong Hourouki Classic",
+    "file": "03-mahjong-hourouki-classic.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "fd60efb668337ddc71bcaefadf15d86869f5e6e100ecd1c993fe49c6518e4ae6"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Mahjong Master",
+    "file": "04-mahjong-master.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "132e78bf7a8a4ab150171d04fa0432f534bc6961023fdd46e7e10da18645ca6e"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Mario Golf 64",
+    "file": "05-mario-golf-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "6cc5a75601270f75dfe166e80b4af8d2c0636ad9d0d0c1ecd31bf6b2b3f0f730"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Mario Kart 64",
+    "file": "06-mario-kart-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "4b0e5bf05bdf1116b3643624a0b3dd44e3722a25d9e2887874488b1e1f0c8e0d"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Mario no Photopie",
+    "file": "07-mario-no-photopie.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "2afa4db6f4d756a6f88d95c0f260933031bb45e415f9a1e7105a72d37c8c8e65"
+  },
+  {
+    "recipe_index": 7,
+    "name": "Mario Party",
+    "file": "08-mario-party.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "3877cb8a7567e9349067a6f79a59afb357d444f601a5cebbaba99b127cab7d18"
+  },
+  {
+    "recipe_index": 8,
+    "name": "Mario Party 2",
+    "file": "09-mario-party-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "9028989e689657f6b517c844b5231735f13a288b3ba58e14b7046bbe69f2d1f6"
+  },
+  {
+    "recipe_index": 9,
+    "name": "Mario Party 3",
+    "file": "10-mario-party-3.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "537f7b0eec0adff23d55d0e757fbadf6196e6ccfecb6b4b2ff380e5d8e6e8443"
+  },
+  {
+    "recipe_index": 10,
+    "name": "Mario Story",
+    "file": "11-mario-story.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a9d4ebda4e8054bcc87a6373170797aa538276997c24b29bc7ee196286761e39"
+  },
+  {
+    "recipe_index": 11,
+    "name": "Mario Tennis 64",
+    "file": "12-mario-tennis-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "688098d2b1a3a86b7d07d510c8d7b3daf707837fdccf7dcab832f966dbb14903"
+  },
+  {
+    "recipe_index": 12,
+    "name": "Mickey no Racing Challenge USA",
+    "file": "13-mickey-no-racing-challenge-usa.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "2e767acef30340967b17a8b312a50cbf70b5e6cb00050808c0c5a00646538a2d"
+  },
+  {
+    "recipe_index": 13,
+    "name": "Morita Shougi 64",
+    "file": "14-morita-shougi-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "d43e572b25296e535f0b4b5aa19bd364064924a10b97bebc7b9efa5f647c467e"
+  },
+  {
+    "recipe_index": 14,
+    "name": "MRC - Multi-Racing Championship",
+    "file": "15-mrc-multi-racing-championship.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "b91fed0d6dae9242281b23322a280d4a1bad10422c064fd8f754bb5b271269eb"
+  }
+]

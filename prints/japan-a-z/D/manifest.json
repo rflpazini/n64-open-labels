@@ -1,0 +1,158 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Dance Dance Revolution - Disney Dancing Museum",
+    "file": "01-dance-dance-revolution-disney-dancing-museum.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "e80f26e1660bd03b7b9fd6751054c3845b3440d893a5e59c5c83083f6cdaa510"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Densha de Go! 64",
+    "file": "02-densha-de-go-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "b8284d691530931569eb1a07d4e399d2f3b7e7ff9234ee746f80caa7d693ca2d"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Derby Stallion 64",
+    "file": "03-derby-stallion-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "9d1a809d477d07f84a6a0bcf60fdf5d0d6b3624a22d29bde20c0b8c83406a224"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Dezaemon 3D",
+    "file": "04-dezaemon-3d.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "9d49542f17c44c35e4f45799c932abec456669bfc363b4b34e3e9041e2873824"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Diddy Kong Racing",
+    "file": "05-diddy-kong-racing.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "5ee612efe9f2ec83641e5d9d006e15857ffaae8f4338e86c98355185da25849e"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Donkey Kong 64",
+    "file": "06-donkey-kong-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "9952439861a2cd03cb85929e74fe318a7bef6aa7861b546c57bdf72a892febc3"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Doom 64",
+    "file": "07-doom-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "bf4a34015f157e925c769139668889189a8dd055f0f02cfd9747ef29743e6bc5"
+  },
+  {
+    "recipe_index": 7,
+    "name": "Doraemon - Nobita to 3tsu no Seireiseki",
+    "file": "08-doraemon-nobita-to-3tsu-no-seireiseki.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "bb8c564dbaefdfd7d4480c8cf07a401b246f959e023238cda399f4ac185ef0b5"
+  },
+  {
+    "recipe_index": 8,
+    "name": "Doraemon 2 - Nobita to Hikari no Shinden",
+    "file": "09-doraemon-2-nobita-to-hikari-no-shinden.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "f25bcc06c5e1a1721b0f9ca9cbd692f420baea7bf97d95092d5184a6838343f3"
+  },
+  {
+    "recipe_index": 9,
+    "name": "Doraemon 3 - Nobita no Machi SOS!",
+    "file": "10-doraemon-3-nobita-no-machi-sos.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "850c9d681567e5ef1fb5c1a4acfbfe1ef14bf9536cc4a5fdf577a99f8c8df037"
+  },
+  {
+    "recipe_index": 10,
+    "name": "Doubutsu no Mori",
+    "file": "11-doubutsu-no-mori.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ee63b72059e8b6135b642fe151cb7925c8eafd4ec7b7c04d9347e4586b07c955"
+  },
+  {
+    "recipe_index": 11,
+    "name": "Dual Heroes",
+    "file": "12-dual-heroes.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "f6f4831f3599662f45fe1332e17760d2f9ae73838af6d4066761150936798850"
+  }
+]

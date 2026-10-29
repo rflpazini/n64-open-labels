@@ -1,0 +1,119 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Hamster Monogatari 64",
+    "file": "01-hamster-monogatari-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "56f6eed55bfd899e575a5dec1142d791ac979aedc48c31c3f0a759c9223186e1"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Harukanaru Augusta - Masters '98",
+    "file": "02-harukanaru-augusta-masters-98.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "2786bf5f537d2fcaf81d9468e89bbca72ce99953bd65fb27aa7697a22fff006f"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Heiwa Pachinko World 64",
+    "file": "03-heiwa-pachinko-world-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a331ed9c16d3dcbfaaae522d3c5460b5d8638e85d633ca2f4ab379e7977d8a1e"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Hexen",
+    "file": "04-hexen.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "280c4cf28ff102539c37eaa1afc5a3f52f8c1a4ba4f92fbb5a3986022b566d48"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Hiryuu no Ken Twin",
+    "file": "05-hiryuu-no-ken-twin.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ec363cc50dfc7f8c2e2d4ad9c3796b30dd19e63cfb2eb29b34dd2466de658a30"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Hoshi no Kirby 64",
+    "file": "06-hoshi-no-kirby-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a690b3c770981d0b0b3378aabbdef831952178a0e1f1073e238c38d3233cf29e"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Human Grand Prix - The New Generation",
+    "file": "07-human-grand-prix-the-new-generation.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "d745711c4193b2f97ef3d06f52ffa4392ae854b9049da8c94852647b6ca4a925"
+  },
+  {
+    "recipe_index": 7,
+    "name": "Hybrid Heaven",
+    "file": "08-hybrid-heaven.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "23995ac1f5c51e68d7766d7fac99d1eaaebc3d4152b3a58c4399a130f9e88b31"
+  },
+  {
+    "recipe_index": 8,
+    "name": "Hyper Olympics in Nagano 64",
+    "file": "09-hyper-olympics-in-nagano-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "f5c8a4d3e08e772839f4cb3336ddc8e2864d6e4a7dfd2394c515e6a798548e93"
+  }
+]

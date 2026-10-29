@@ -79,8 +79,21 @@
   },
   {
     "recipe_index": 6,
+    "name": "Pokemon Puzzle League",
+    "file": "07-pokemon-puzzle-league.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "27761dc96900b7492ac04ab0a819ab1876b58dd7c7854c5b794e7a485ad64256"
+  },
+  {
+    "recipe_index": 7,
     "name": "Pokemon Snap",
-    "file": "07-pokemon-snap.png",
+    "file": "08-pokemon-snap.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,
@@ -91,9 +104,22 @@
     "sha256": "c0077cdda509250353dc7a516141a246c25a199f1adb3dcf96f7860c2ff742cf"
   },
   {
-    "recipe_index": 7,
+    "recipe_index": 8,
+    "name": "Pokemon Stadium",
+    "file": "09-pokemon-stadium.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "3ecdf2d70be2f9d52bc4ba6fcaec7fc303b2c013b88c72e4ddbe4d58af9e2e7a"
+  },
+  {
+    "recipe_index": 9,
     "name": "Pokemon Stadium 2",
-    "file": "08-pokemon-stadium-2.png",
+    "file": "10-pokemon-stadium-2.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,
@@ -104,9 +130,9 @@
     "sha256": "78342f01a9ea6bb6941a5073942e581f2722d1fb607687ec33efcf4cb432c257"
   },
   {
-    "recipe_index": 8,
+    "recipe_index": 10,
     "name": "Polaris SnoCross",
-    "file": "09-polaris-snocross.png",
+    "file": "11-polaris-snocross.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,
@@ -117,9 +143,9 @@
     "sha256": "6d47882ef811e7d26b3d3045e0af133707775d6550fc84684251bc084617425e"
   },
   {
-    "recipe_index": 9,
+    "recipe_index": 11,
     "name": "Power Rangers - Lightspeed Rescue",
-    "file": "10-power-rangers-lightspeed-rescue.png",
+    "file": "12-power-rangers-lightspeed-rescue.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,
@@ -130,9 +156,9 @@
     "sha256": "dfde60becd775f51f65893873147c4130992424e1bbf642f5d9662fe36889584"
   },
   {
-    "recipe_index": 10,
+    "recipe_index": 12,
     "name": "Powerpuff Girls, The - Chemical X-Traction",
-    "file": "11-powerpuff-girls-the-chemical-x-traction.png",
+    "file": "13-powerpuff-girls-the-chemical-x-traction.png",
     "width_mm": 63,
     "height_mm": 16,
     "dpi": 300,

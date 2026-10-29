@@ -1,0 +1,41 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Ide Yosuke no Mahjong Juku",
+    "file": "01-ide-yosuke-no-mahjong-juku.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "671f41e52c436b1a2edcb02d7455de55940fe64029451b602d526f131b64488e"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Iggy-kun no Bura Bura Poyon",
+    "file": "02-iggy-kun-no-bura-bura-poyon.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "7a9c4bb15fb9f4e38705a366d9e88aa55a0e1e6f2559b8645c8b1489509cca1c"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban!",
+    "file": "03-itoi-shigesato-no-bass-tsuri-no-1-kettei-ban.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "5720fa75934ed6134a287697e7b7af1c3009fe350e88dc4c416db332e9e74ebc"
+  }
+]

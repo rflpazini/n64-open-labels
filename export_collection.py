@@ -42,7 +42,7 @@ def export(config, output, asset_pack=None, dpi=DPI):
             if asset_pack:
                 # Copy only referenced files. Never extract arbitrary ZIP paths.
                 with zipfile.ZipFile(asset_pack) as archive:
-                    for name in sorted({row[key] for row in records for key in ('art', 'logo')}):
+                    for name in sorted({row[key] for row in records for key in ('art', 'logo') if row[key]}):
                         path = Path(name)
                         if path.is_absolute() or '..' in path.parts or path.parts[0] != 'assets':
                             raise ValueError(f'Unsafe asset path: {name}')
@@ -54,7 +54,7 @@ def export(config, output, asset_pack=None, dpi=DPI):
             allow_truncated = ImageFile.LOAD_TRUNCATED_IMAGES
             try:
                 ImageFile.LOAD_TRUNCATED_IMAGES = False
-                for name in sorted({row[key] for row in build.items for key in ('art', 'logo')}):
+                for name in sorted({row[key] for row in build.items for key in ('art', 'logo') if row[key]}):
                     try:
                         with Image.open(build.ROOT / name) as source:
                             source.load()

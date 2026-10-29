@@ -1,0 +1,106 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Wave Race 64 - Kawasaki Jet Ski",
+    "file": "01-wave-race-64-kawasaki-jet-ski.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "5647f83fa4baa2211429c93e2765847575c0ee44d7bb32a76634548c6c48c843"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Wave Race 64 - Kawasaki Jet Ski (Shindou Edition)",
+    "file": "02-wave-race-64-kawasaki-jet-ski-shindou-edition.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "9a20d28a975c2c524b409190b4050370ead7b1c784df272391245685b5aa1488"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Wayne Gretzky's 3D Hockey",
+    "file": "03-wayne-gretzky-s-3d-hockey.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "74e54e2165ce1bd5231393cf8d2dacb5cdd15fe5a4b3c132a417ca45e0a01c33"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Wetrix",
+    "file": "04-wetrix.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ae653146d2da035fda6659cc831819873fd0ad3c976e6a3c416e012869f05dad"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Wild Choppers",
+    "file": "05-wild-choppers.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "334887b4b75ba5a2b3b8442900ecfcaae9da6101b8a08c69fd1c24dab534a560"
+  },
+  {
+    "recipe_index": 5,
+    "name": "WinBack",
+    "file": "06-winback.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "52db0e17ec101d2ec953bd7e9efe9430ad0262a2914c7eee056df4040cd30ca2"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Wonder Project J2 - Koruro no Mori no Jozet",
+    "file": "07-wonder-project-j2-koruro-no-mori-no-jozet.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "48a316726abacf5f0fdfd9afbb3ccb4c4bd86f868bee33b4408b10a9c8a10a70"
+  },
+  {
+    "recipe_index": 7,
+    "name": "WWF WrestleMania 2000",
+    "file": "08-wwf-wrestlemania-2000.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "bf728e31cfd7a33d68b691209547ab37256dff9f4c086c0fcb30875a08d2c6b7"
+  }
+]

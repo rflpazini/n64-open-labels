@@ -1,0 +1,80 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "1080 Snowboarding",
+    "file": "01-1080-snowboarding.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "b3f3e2bf074337dd2ba2c46a7917345dee2987ac1dc0836bea831408f56e2da0"
+  },
+  {
+    "recipe_index": 1,
+    "name": "64 de Hakken!! Tamagotchi - Minna de Tamagotchi World",
+    "file": "02-64-de-hakken-tamagotchi-minna-de-tamagotchi-world.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a40fc062a9134f9de9a46175567b72ac7a10cd49e5f375ef0663208ad909d563"
+  },
+  {
+    "recipe_index": 2,
+    "name": "64 Hanafuda - Tenshi no Yakusoku",
+    "file": "03-64-hanafuda-tenshi-no-yakusoku.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "6325248725f9f097a9a482bd7c7a6783e7e933f93fdbc9601610322b0dd318c9"
+  },
+  {
+    "recipe_index": 3,
+    "name": "64 Oozumou",
+    "file": "04-64-oozumou.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "9a0da057916ac03310cb04e7ecf8cfc645c13aa0308cf22096afc006bb49142c"
+  },
+  {
+    "recipe_index": 4,
+    "name": "64 Oozumou 2",
+    "file": "05-64-oozumou-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "728a9606e3ae1af0521a3dadeba844a0323c9ba0f11d76b9a37c3516fa0f1f29"
+  },
+  {
+    "recipe_index": 5,
+    "name": "64 Trump Collection - Alice no Wakuwaku Trump World",
+    "file": "06-64-trump-collection-alice-no-wakuwaku-trump-world.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "996eb104c93e2beb9d448a646bd65bde8b94f05559f94c49a17736447104f29d"
+  }
+]

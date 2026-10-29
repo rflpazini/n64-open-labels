@@ -1,0 +1,80 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "F-1 World Grand Prix",
+    "file": "01-f-1-world-grand-prix.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "eb2ee57179a463f6cf37bd257c0d640b80b69013abcc00cc9461c3bf2a095f5e"
+  },
+  {
+    "recipe_index": 1,
+    "name": "F-Zero X",
+    "file": "02-f-zero-x.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "86ba42ce0c114c90579518d01a85f754d09f79317c0c87d34c85375fefe7772b"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Famista 64",
+    "file": "03-famista-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "f9a6af918bd5e823caf4039f61a05f63a1d078096a8c5d1fdca015a1b49ed33a"
+  },
+  {
+    "recipe_index": 3,
+    "name": "FIFA - Road to World Cup 98 - World Cup e no Michi",
+    "file": "04-fifa-road-to-world-cup-98-world-cup-e-no-michi.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "4727226954b86d819a543dc004a3a4995a0c00a6d26a3b7d4d23df7fc6e12004"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Fighting Cup",
+    "file": "05-fighting-cup.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "7b8e0101fbdfa063e1f93357ea7ac82472e84f7fa90514e9e8e01be3df4ecb1f"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou!",
+    "file": "06-fushigi-no-dungeon-fuurai-no-shiren-2-oni-shuurai-shiren-jou.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "905ca02c48d3cfcd6614e897b0d2b181dde2742a33ee666e72fb5e956245d1f5"
+  }
+]

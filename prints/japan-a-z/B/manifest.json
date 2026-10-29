@@ -1,0 +1,184 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Baku Bomberman",
+    "file": "01-baku-bomberman.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "0168b9dc28ab6724a95b1f217f24ab6877194f0b1c9bd94126ad53432af64275"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Baku Bomberman 2",
+    "file": "02-baku-bomberman-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "828c9bc3d7a72d97d8031af8cd1d63cde2b8e670f5055273bb931540fa6d8eb0"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Bakuretsu Muteki Bangaioh",
+    "file": "03-bakuretsu-muteki-bangaioh.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "9b250b5992c8cfe1294e5806462c300b507397fec23bb586f0558f2f594eaa6a"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Bakushou Jinsei 64 - Mezase! Resort Ou",
+    "file": "04-bakushou-jinsei-64-mezase-resort-ou.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "3101685c2f3f166bdd7ed660520fbd301c146bfbe23a73e528ce731191ff9c82"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Banjo to Kazooie no Daibouken",
+    "file": "05-banjo-to-kazooie-no-daibouken.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ad377a1023a720eaa0bd814b5e8547ad534513ff078ab310084ba18deb17909c"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Banjo to Kazooie no Daibouken 2",
+    "file": "06-banjo-to-kazooie-no-daibouken-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "3a257fe761d9d48333b31b0984f182e152da06ca4fcd045bbefe2ae937c9ea7e"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Bass Rush - ECOGEAR PowerWorm Championship",
+    "file": "07-bass-rush-ecogear-powerworm-championship.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "44bf180e2d9fc08fdbd127c3c5495bf500954b1084fc3cd2b8ee8d0d5835c0b2"
+  },
+  {
+    "recipe_index": 7,
+    "name": "Beetle Adventure Racing!",
+    "file": "08-beetle-adventure-racing.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "9a47cd6087bfc40294e16eb842b00558800677903ddd36440134dfe8d3366a40"
+  },
+  {
+    "recipe_index": 8,
+    "name": "Biohazard 2",
+    "file": "09-biohazard-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "477981ec6624ec290c5c7ceee8f9e6e4ee728b8bcfe9b736129a36878f9addca"
+  },
+  {
+    "recipe_index": 9,
+    "name": "Blastdozer",
+    "file": "10-blastdozer.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ad667eee82073d44b55d668d068e5be9dc5332e198767e34705f345219d4278f"
+  },
+  {
+    "recipe_index": 10,
+    "name": "Bokujou Monogatari 2",
+    "file": "11-bokujou-monogatari-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "4f07ac8caeb475d2b3f3a41d3053710399abf9ccbb84e1a94278ae10d9e283d2"
+  },
+  {
+    "recipe_index": 11,
+    "name": "Bomberman 64",
+    "file": "12-bomberman-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "b8c7c1e32f52c83dbec0cbd5cf79039f153d88367250fb10f3599a55b7995387"
+  },
+  {
+    "recipe_index": 12,
+    "name": "Bomberman Hero - Mirian Oujo o Sukue!",
+    "file": "13-bomberman-hero-mirian-oujo-o-sukue.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "c4ee2c1c55e6c6be46691bf7dc26551cc8c468705a07c234b2c88d757f2e8b41"
+  },
+  {
+    "recipe_index": 13,
+    "name": "Buck Bumble",
+    "file": "14-buck-bumble.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "109ca27932cc1211a249659910cf7392dcaf71df8bc0b7d00d76031289de24ed"
+  }
+]

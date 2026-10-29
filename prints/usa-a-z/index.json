@@ -247,23 +247,28 @@
    "stage": "draft"
   },
   {
+   "name": "Conker's Bad Fur Day",
+   "file": "C/12-conker-s-bad-fur-day.png",
+   "stage": "draft"
+  },
+  {
    "name": "Cruis'n Exotica",
-   "file": "C/12-cruis-n-exotica.png",
+   "file": "C/13-cruis-n-exotica.png",
    "stage": "draft"
   },
   {
    "name": "Cruis'n USA",
-   "file": "C/13-cruis-n-usa.png",
+   "file": "C/14-cruis-n-usa.png",
    "stage": "draft"
   },
   {
    "name": "Cruis'n World",
-   "file": "C/14-cruis-n-world.png",
+   "file": "C/15-cruis-n-world.png",
    "stage": "draft"
   },
   {
    "name": "CyberTiger",
-   "file": "C/15-cybertiger.png",
+   "file": "C/16-cybertiger.png",
    "stage": "draft"
   }
  ],
@@ -373,43 +378,48 @@
    "stage": "draft"
   },
   {
+   "name": "FIFA - Road to World Cup 98",
+   "file": "F/04-fifa-road-to-world-cup-98.png",
+   "stage": "draft"
+  },
+  {
    "name": "FIFA 99",
-   "file": "F/04-fifa-99.png",
+   "file": "F/05-fifa-99.png",
    "stage": "draft"
   },
   {
    "name": "FIFA Soccer 64",
-   "file": "F/05-fifa-soccer-64.png",
+   "file": "F/06-fifa-soccer-64.png",
    "stage": "draft"
   },
   {
    "name": "Fighter Destiny 2",
-   "file": "F/06-fighter-destiny-2.png",
+   "file": "F/07-fighter-destiny-2.png",
    "stage": "draft"
   },
   {
    "name": "Fighters Destiny",
-   "file": "F/07-fighters-destiny.png",
+   "file": "F/08-fighters-destiny.png",
    "stage": "draft"
   },
   {
    "name": "Fighting Force 64",
-   "file": "F/08-fighting-force-64.png",
+   "file": "F/09-fighting-force-64.png",
    "stage": "draft"
   },
   {
    "name": "Flying Dragon",
-   "file": "F/09-flying-dragon.png",
+   "file": "F/10-flying-dragon.png",
    "stage": "draft"
   },
   {
    "name": "Forsaken 64",
-   "file": "F/10-forsaken-64.png",
+   "file": "F/11-forsaken-64.png",
    "stage": "draft"
   },
   {
    "name": "Fox Sports College Hoops '99",
-   "file": "F/11-fox-sports-college-hoops-99.png",
+   "file": "F/12-fox-sports-college-hoops-99.png",
    "stage": "draft"
   }
  ],
@@ -968,28 +978,38 @@
    "stage": "draft"
   },
   {
+   "name": "Pokemon Puzzle League",
+   "file": "P/07-pokemon-puzzle-league.png",
+   "stage": "draft"
+  },
+  {
    "name": "Pokemon Snap",
-   "file": "P/07-pokemon-snap.png",
+   "file": "P/08-pokemon-snap.png",
+   "stage": "draft"
+  },
+  {
+   "name": "Pokemon Stadium",
+   "file": "P/09-pokemon-stadium.png",
    "stage": "draft"
   },
   {
    "name": "Pokemon Stadium 2",
-   "file": "P/08-pokemon-stadium-2.png",
+   "file": "P/10-pokemon-stadium-2.png",
    "stage": "draft"
   },
   {
    "name": "Polaris SnoCross",
-   "file": "P/09-polaris-snocross.png",
+   "file": "P/11-polaris-snocross.png",
    "stage": "draft"
   },
   {
    "name": "Power Rangers - Lightspeed Rescue",
-   "file": "P/10-power-rangers-lightspeed-rescue.png",
+   "file": "P/12-power-rangers-lightspeed-rescue.png",
    "stage": "draft"
   },
   {
    "name": "Powerpuff Girls, The - Chemical X-Traction",
-   "file": "P/11-powerpuff-girls-the-chemical-x-traction.png",
+   "file": "P/13-powerpuff-girls-the-chemical-x-traction.png",
    "stage": "draft"
   }
  ],
@@ -1144,108 +1164,113 @@
    "stage": "draft"
   },
   {
+   "name": "Snowboard Kids",
+   "file": "S/09-snowboard-kids.png",
+   "stage": "draft"
+  },
+  {
    "name": "Snowboard Kids 2",
-   "file": "S/09-snowboard-kids-2.png",
+   "file": "S/10-snowboard-kids-2.png",
    "stage": "draft"
   },
   {
    "name": "South Park",
-   "file": "S/10-south-park.png",
+   "file": "S/11-south-park.png",
    "stage": "draft"
   },
   {
    "name": "South Park - Chef's Luv Shack",
-   "file": "S/11-south-park-chef-s-luv-shack.png",
+   "file": "S/12-south-park-chef-s-luv-shack.png",
    "stage": "draft"
   },
   {
    "name": "South Park Rally",
-   "file": "S/12-south-park-rally.png",
+   "file": "S/13-south-park-rally.png",
    "stage": "draft"
   },
   {
    "name": "Space Invaders",
-   "file": "S/13-space-invaders.png",
+   "file": "S/14-space-invaders.png",
    "stage": "draft"
   },
   {
    "name": "SpaceStation Silicon Valley",
-   "file": "S/14-spacestation-silicon-valley.png",
+   "file": "S/15-spacestation-silicon-valley.png",
    "stage": "draft"
   },
   {
    "name": "Spider-Man",
-   "file": "S/15-spider-man.png",
+   "file": "S/16-spider-man.png",
    "stage": "draft"
   },
   {
    "name": "Star Fox 64",
-   "file": "S/16-star-fox-64.png",
+   "file": "S/17-star-fox-64.png",
    "stage": "visual_reviewed"
   },
   {
    "name": "Star Soldier - Vanishing Earth",
-   "file": "S/17-star-soldier-vanishing-earth.png",
+   "file": "S/18-star-soldier-vanishing-earth.png",
    "stage": "draft"
   },
   {
    "name": "Star Wars - Rogue Squadron",
-   "file": "S/18-star-wars-rogue-squadron.png",
+   "file": "S/19-star-wars-rogue-squadron.png",
    "stage": "draft"
   },
   {
    "name": "Star Wars - Shadows of the Empire",
-   "file": "S/19-star-wars-shadows-of-the-empire.png",
+   "file": "S/20-star-wars-shadows-of-the-empire.png",
    "stage": "draft"
   },
   {
    "name": "Star Wars Episode I - Battle for Naboo",
-   "file": "S/20-star-wars-episode-i-battle-for-naboo.png",
+   "file": "S/21-star-wars-episode-i-battle-for-naboo.png",
    "stage": "draft"
   },
   {
    "name": "Star Wars Episode I - Racer",
-   "file": "S/21-star-wars-episode-i-racer.png",
+   "file": "S/22-star-wars-episode-i-racer.png",
    "stage": "draft"
   },
   {
    "name": "StarCraft 64",
-   "file": "S/22-starcraft-64.png",
+   "file": "S/23-starcraft-64.png",
    "stage": "draft"
   },
   {
    "name": "Starshot - Space Circus Fever",
-   "file": "S/23-starshot-space-circus-fever.png",
+   "file": "S/24-starshot-space-circus-fever.png",
    "stage": "draft"
   },
   {
    "name": "Stunt Racer 64",
-   "file": "S/24-stunt-racer-64.png",
+   "file": "S/25-stunt-racer-64.png",
    "stage": "draft"
   },
   {
    "name": "Super Bowling",
-   "file": "S/25-super-bowling.png",
+   "file": "S/26-super-bowling.png",
    "stage": "draft"
   },
   {
    "name": "Super Mario 64",
-   "file": "S/26-super-mario-64.png",
+   "file": "S/27-super-mario-64.png",
    "stage": "visual_reviewed"
   },
   {
    "name": "Super Smash Bros.",
-   "file": "S/27-super-smash-bros.png",
+   "file": "S/28-super-smash-bros.png",
    "stage": "visual_reviewed"
   },
   {
    "name": "Supercross 2000",
-   "file": "S/28-supercross-2000.png",
+   "file": "S/29-supercross-2000.png",
    "stage": "draft"
   },
   {
    "name": "Superman - The New Superman Aventures",
-   "file": "S/29-superman-the-new-superman-aventures.png",
+   "file": "S/30-superman-the-new-superman-aventures.png",
    "stage": "draft"
   }
  ],

@@ -1,0 +1,41 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Last Legion UX",
+    "file": "01-last-legion-ux.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "a9800081247d96fc9bd65033d941bd9ea8ff1ca83716c853a3aeeb73f6cf1c1c"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Let's Smash",
+    "file": "02-let-s-smash.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "e8f9ba00549e2ace884bab69189f46b24d00d78369ad3b80dd91e92b40429516"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Lode Runner 3-D",
+    "file": "03-lode-runner-3-d.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ecb85b0d4aebf129899a944508d21c4d69ccd699d2eb897157af44b603f2bb38"
+  }
+]

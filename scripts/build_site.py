@@ -12,8 +12,8 @@ from pathlib import Path
 from PIL import Image
 ROOT=Path(__file__).resolve().parents[1]
 REPO='rflpazini/n64-open-labels'
-# collection-18 recipes that are not part of the USA set.
-EXTRA={'02-smash-bros-japao.png':('Nintendo All-Star! Dairantou Smash Brothers','Japan'),'10-donkey-kong-64-japao.png':('Donkey Kong 64','Japan')}
+# Published A-Z sets: (region shown on the site, folder key under prints/ and examples/).
+SETS=[('USA','usa'),('Japan','japan')]
 
 def display(title):
  """No-Intro sort titles to box titles: 'Legend of Zelda, The - X' -> 'The Legend of Zelda: X'."""
@@ -53,23 +53,23 @@ def main():
  out=a.out
  if out.exists():shutil.rmtree(out)
  shutil.copytree(ROOT/'site',out)
- status={s['title']:s for s in json.loads((ROOT/'examples/usa-status.json').read_text(encoding='utf-8'))['labels']}
- labels=[]
- for letter,rows in json.loads((ROOT/'prints/usa-a-z/index.json').read_text(encoding='utf-8')).items():
-  for r in rows:
-   s=status.get(r['name'],{})
-   labels.append({'id':s.get('catalog_id') or slug(r['name']),'title':display(r['name']),'sort':r['name'].lower(),'letter':letter,'region':'USA',
-                  'stage':'approved' if r['stage']=='visual_reviewed' else 'draft','png':f'labels/usa/{r["file"]}','thumb':f'thumbs/usa/{Path(r["file"]).with_suffix(".jpg")}','sheet':f'labels/usa/{letter}/labels-A4.pdf'})
- for file,(title,region) in EXTRA.items():
-  labels.append({'id':slug(title+'-'+region),'title':title,'sort':title.lower(),'letter':title[0].upper(),'region':region,'stage':'approved',
-                 'png':f'labels/collection-18/{file}','thumb':f'thumbs/collection-18/{Path(file).with_suffix(".jpg")}','sheet':'labels/collection-18/labels-A4.pdf'})
+ labels=[];missing=[]
+ for region,key in SETS:
+  status=json.loads((ROOT/f'examples/{key}-status.json').read_text(encoding='utf-8'))
+  by_title={s['title']:s for s in status['labels']}
+  missing+=[f"{display(p['title'])} ({region})" for p in status['pending']]
+  for letter,rows in json.loads((ROOT/f'prints/{key}-a-z/index.json').read_text(encoding='utf-8')).items():
+   for r in rows:
+    s=by_title.get(r['name'],{})
+    # USA ids stay bare so earlier shared ?sheet= links keep working; other sets are suffixed (a joint release can be in both).
+    cid=s.get('catalog_id') or slug(r['name'])
+    labels.append({'id':cid if key=='usa' else f'{cid}-{key}','title':display(r['name']),'sort':r['name'].lower(),'letter':letter,'region':region,
+                   'stage':'approved' if r['stage']=='visual_reviewed' else 'draft','png':f'labels/{key}/{r["file"]}','thumb':f'thumbs/{key}/{Path(r["file"]).with_suffix(".jpg")}','sheet':f'labels/{key}/{letter}/labels-A4.pdf'})
+  shutil.copytree(ROOT/f'prints/{key}-a-z',out/f'labels/{key}',ignore=shutil.ignore_patterns('*.zip','*.md','preview.jpg','manifest.json','index.json'))
  labels.sort(key=lambda l:(l['sort'],l['region']))
- shutil.copytree(ROOT/'prints/usa-a-z',out/'labels/usa',ignore=shutil.ignore_patterns('*.zip','*.md','preview.jpg','manifest.json','index.json'))
- shutil.copytree(ROOT/'prints/collection-18',out/'labels/collection-18',ignore=shutil.ignore_patterns('*.zip','*.md','preview.jpg','manifest.json'))
  for l in labels:thumb(out/l['png'],out/l['thumb'])
  og(out,[l for l in labels if l['stage']=='approved'])
- pending=[s['title'] for s in json.loads((ROOT/'examples/usa-status.json').read_text(encoding='utf-8'))['pending']]
- (out/'labels.json').write_text(json.dumps({'repo':REPO,'labels':labels,'missing':[display(t) for t in pending]},ensure_ascii=False,separators=(',',':')),encoding='utf-8')
+ (out/'labels.json').write_text(json.dumps({'repo':REPO,'regions':[r for r,_ in SETS],'labels':labels,'missing':missing},ensure_ascii=False,separators=(',',':')),encoding='utf-8')
  fingerprint(out)
  print(f'Site with {len(labels)} labels in {out}')
 

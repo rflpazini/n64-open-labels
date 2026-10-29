@@ -1,0 +1,106 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "G.A.S.P!! Fighters' NEXTream",
+    "file": "01-g-a-s-p-fighters-nextream.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "947076352b2c195e0f57379711dd4b45f7de95c0d9d59a93d66a1dcc34b10a46"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori",
+    "file": "02-ganbare-goemon-dero-dero-douchuu-obake-tenkomori.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "52c041facab9f46bdab651112d0b520472ee200c55cbd5da3b0e6e1f23ca4d47"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Ganbare Goemon - Neo Momoyama Bakufu no Odori",
+    "file": "03-ganbare-goemon-neo-momoyama-bakufu-no-odori.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "66e08f8527b0f57abff18ae04deb84a55e6e1f03f2eccbb8d2bf968d35f880b1"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Ganbare! Nippon! Olympics 2000",
+    "file": "04-ganbare-nippon-olympics-2000.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "ea2a3461fefbf538ed954dae0e63bf40d91fc056f9cf10320f421b027e2dad61"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Gauntlet Legends",
+    "file": "05-gauntlet-legends.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "3556db1ead1d5296026bd27d36f7af4efd77d6f3eb792df3d8f5a2c41a74607a"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Getter Love!! - Cho Renai Party Game Tanjou",
+    "file": "06-getter-love-cho-renai-party-game-tanjou.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "73d9d17053c1d02dfc868cab022c19bde084853d838fcd155765fba810fccd6a"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Goemon - Mononoke Sugoroku",
+    "file": "07-goemon-mononoke-sugoroku.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "7cb6ef0cbb85840985752fd626b8692f364c630e95b0356832e2ce13345fdc2b"
+  },
+  {
+    "recipe_index": 7,
+    "name": "GoldenEye 007",
+    "file": "08-goldeneye-007.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 300,
+    "pixels": [
+      744,
+      189
+    ],
+    "sha256": "2846af2582117a9b2660e3bc1e6e0115ae72df9f61380b4ddbd0ae8157162949"
+  }
+]
