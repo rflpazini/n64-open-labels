@@ -33,7 +33,7 @@ def thumb(src,dst):
 
 def og(out,labels):
  """1200x630 link preview: a wall of hand-tuned labels."""
- card=Image.new('RGB',(1200,630),'#141518')
+ card=Image.new('RGB',(1200,630),'#f8fafc')
  for i,l in enumerate(labels[:16]):
   with Image.open(out/l['thumb']) as im:
    card.paste(im.resize((560,142)),(26+(i%2)*588,18+(i//2)*76))
