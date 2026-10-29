@@ -7,7 +7,7 @@ the Pages workflow runs it on every push to main.
   python scripts/build_site.py --out _site
   python -m http.server -d _site 8000
 """
-import argparse,json,re,shutil
+import argparse,hashlib,json,re,shutil
 from pathlib import Path
 from PIL import Image
 ROOT=Path(__file__).resolve().parents[1]
@@ -39,6 +39,15 @@ def og(out,labels):
    card.paste(im.resize((560,142)),(26+(i%2)*588,18+(i//2)*76))
  card.save(out/'og.jpg',quality=86)
 
+def fingerprint(out):
+ """Version asset URLs by content so a cached old app.js never runs against new HTML or data."""
+ def tag(path):return hashlib.sha256(path.read_bytes()).hexdigest()[:10]
+ app=out/'app.js'
+ app.write_text(app.read_text(encoding='utf-8').replace("fetch('labels.json')",f"fetch('labels.json?v={tag(out/'labels.json')}')"),encoding='utf-8')
+ page=out/'index.html';html=page.read_text(encoding='utf-8')
+ for name in ('app.js','style.css'):html=html.replace(f'"{name}"',f'"{name}?v={tag(out/name)}"')
+ page.write_text(html,encoding='utf-8')
+
 def main():
  p=argparse.ArgumentParser(description=__doc__.split('\n')[0]);p.add_argument('--out',type=Path,default=ROOT/'_site');a=p.parse_args()
  out=a.out
@@ -61,6 +70,7 @@ def main():
  og(out,[l for l in labels if l['stage']=='approved'])
  pending=[s['title'] for s in json.loads((ROOT/'examples/usa-status.json').read_text(encoding='utf-8'))['pending']]
  (out/'labels.json').write_text(json.dumps({'repo':REPO,'labels':labels,'missing':[display(t) for t in pending]},ensure_ascii=False,separators=(',',':')),encoding='utf-8')
+ fingerprint(out)
  print(f'Site with {len(labels)} labels in {out}')
 
 if __name__=='__main__':main()

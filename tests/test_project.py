@@ -40,4 +40,16 @@ class SiteTests(unittest.TestCase):
   self.assertEqual(m.display('Legend of Zelda, The - Ocarina of Time'),'The Legend of Zelda: Ocarina of Time')
   self.assertEqual(m.display("Bug's Life, A"),"A Bug's Life")
   self.assertEqual(m.display('Super Mario 64'),'Super Mario 64')
+class FingerprintTests(unittest.TestCase):
+ def test_asset_urls_change_with_content(self):
+  m=module('site_fp',ROOT/'scripts/build_site.py')
+  with tempfile.TemporaryDirectory() as t:
+   out=Path(t)
+   (out/'index.html').write_text('<link href="style.css"><script src="app.js"></script>')
+   (out/'style.css').write_text('a{}');(out/'labels.json').write_text('{}')
+   (out/'app.js').write_text("fetch('labels.json')")
+   m.fingerprint(out)
+   html=(out/'index.html').read_text()
+   self.assertRegex(html,r'style\.css\?v=[0-9a-f]{10}');self.assertRegex(html,r'app\.js\?v=[0-9a-f]{10}')
+   self.assertRegex((out/'app.js').read_text(),r"labels\.json\?v=[0-9a-f]{10}")
 if __name__=='__main__':unittest.main()
