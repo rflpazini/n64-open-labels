@@ -2,9 +2,9 @@
 
 The MIT license covers only original project materials. It does not grant rights to Nintendo or publisher logos, characters, packaging scans, photographs or other third-party images. A source URL is attribution, not a redistribution license. A noncommercial notice also does not by itself supply permission.
 
-The source distribution includes original demo graphics and the separately licensed DejaVu font. The 18 existing label recipes reference filenames from the owner's earlier personal collection pack; these game image files are deliberately not bundled in this public-source candidate. The generator works with locally supplied images.
+The source distribution includes original demo graphics and the separately licensed DejaVu font. At the project owner's request, the initial 18-label fan-art pack is now published in `prints/collection-18/`: rendered PNGs, an A4 PDF, a gallery, and `collection-18-assets.zip` containing the 36 source images referenced by the recipes. These third-party images and embedded artwork are excluded from the project's MIT license. Their rights status remains `not_reviewed`; publishing the pack does not change that status or claim publisher authorization.
 
-Before adding a public artwork pack or printable game-art PDF, record each asset's exact source, creator or rights holder when known, license or permission evidence, and transformations. Mark unresolved items `not_reviewed`; do not present them as freely licensed. Artwork availability on a thumbnail server does not establish redistribution permission.
+The historical research sources below are recorded at collection level. Exact per-file provenance and permission evidence are still incomplete and must not be invented. Keep unresolved fields marked `not_reviewed`. The open-source renderer and printable game artwork have different licensing scopes.
 
 Suggested asset record:
 
