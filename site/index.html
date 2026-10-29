@@ -4,78 +4,133 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>N64 Open Labels</title>
-<meta name="description" content="Free printable Nintendo 64 end labels. Pick your games, build an A4 or US Letter sheet at actual size, or grab single PNGs.">
-<meta property="og:title" content="N64 Open Labels">
-<meta property="og:description" content="Free printable N64 end labels for every US game, A to Z. Build your own print sheet in the browser.">
+<meta name="description" content="Free printable Nintendo 64 end labels. Find your games, tap to add them, download a PDF and print at actual size.">
+<meta property="og:title" content="N64 Open Labels: free printable N64 end labels">
+<meta property="og:description" content="Every US N64 game, A to Z. Pick yours, download one PDF, print it at home.">
 <meta property="og:image" content="og.jpg">
+<meta name="theme-color" content="#f8fafc" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0f1115" media="(prefers-color-scheme: dark)">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Crect x='1' y='1' width='8' height='8' rx='1.5' fill='%23e4202a'/%3E%3Crect x='11' y='1' width='8' height='8' rx='1.5' fill='%2300a651'/%3E%3Crect x='1' y='11' width='8' height='8' rx='1.5' fill='%231f5fd0'/%3E%3Crect x='11' y='11' width='8' height='8' rx='1.5' fill='%23ffc20e'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Russo+One&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header class="hero">
- <div class="wrap">
-  <a class="brand" href="./" aria-label="N64 Open Labels home">
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+ <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></symbol>
+ <symbol id="i-check" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></symbol>
+ <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+ <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 3v12m0 0-4-4m4 4 4-4M4 19h16"/></symbol>
+ <symbol id="i-link" viewBox="0 0 24 24"><path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1"/><path d="M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/></symbol>
+ <symbol id="i-x" viewBox="0 0 24 24"><path d="M18 6 6 18M6 6l12 12"/></symbol>
+ <symbol id="i-printer" viewBox="0 0 24 24"><path d="M6 9V3h12v6"/><rect x="3" y="9" width="18" height="8" rx="2"/><path d="M6 14h12v7H6z"/></symbol>
+ <symbol id="i-ruler" viewBox="0 0 24 24"><rect x="2" y="8" width="20" height="8" rx="1.5"/><path d="M6 8v3M10 8v4M14 8v3M18 8v4"/></symbol>
+ <symbol id="i-scissors" viewBox="0 0 24 24"><circle cx="6" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><path d="M8.1 8.1 20 20M8.1 15.9 20 4"/></symbol>
+</svg>
+
+<header class="top">
+ <div class="wrap top-in">
+  <a class="brand" href="./">
    <span class="mark" aria-hidden="true"><i></i><i></i><i></i><i></i></span>
-   <span class="word">N64 <b>Open Labels</b></span>
+   N64 Open Labels
   </a>
-  <nav class="top-links">
-   <a href="#how">How to print</a>
+  <nav class="top-links" aria-label="Site">
+   <a href="#faq">Help</a>
    <a id="repo-link" href="https://github.com/rflpazini/n64-open-labels">GitHub</a>
   </nav>
  </div>
- <div class="wrap hero-copy">
-  <h1>End labels for your <span class="c-red">N</span><span class="c-green">6</span><span class="c-blue">4</span> shelf</h1>
-  <p>Free, printable top labels in one consistent style. Pick the games you own, build a sheet at <strong>actual size (63 × 16 mm)</strong> and print it at home.</p>
-  <p class="stats" id="stats"></p>
- </div>
 </header>
 
-<main class="wrap">
- <section class="controls" aria-label="Filter labels">
+<main>
+ <section class="hero wrap">
+  <h1>Free end labels for your N64 games</h1>
+  <p class="lead">Every US cartridge, in one clean style. Pick yours and print them at home. No sign-up, no cost.</p>
+  <ol class="steps">
+   <li><span class="num">1</span><span><strong>Find</strong> your games</span></li>
+   <li><span class="num">2</span><span><strong>Tap</strong> to add them</span></li>
+   <li><span class="num">3</span><span><strong>Download</strong> and print</span></li>
+  </ol>
+ </section>
+
+ <section class="finder wrap" aria-label="Find games">
   <label class="search">
-   <span class="sr">Search games</span>
-   <input id="q" type="search" placeholder="Search 290+ games…" autocomplete="off">
+    <svg class="ico" aria-hidden="true"><use href="#i-search"/></svg>
+    <span class="sr">Search for a game</span>
+    <input id="q" type="search" placeholder="Search a game, e.g. Mario Kart" autocomplete="off" enterkeyhint="search">
   </label>
-  <div class="chips" role="group" aria-label="Region" id="region"></div>
-  <div class="chips" role="group" aria-label="Stage" id="stage"></div>
   <nav class="letters" id="letters" aria-label="Jump to letter"></nav>
  </section>
 
- <p class="note">Labels marked <span class="badge draft">draft</span> were generated automatically and haven't been hand-reviewed yet. If one looks off, use <em>Report</em> on its card.</p>
+ <section class="wrap">
+  <p class="result-line" id="result-line" aria-live="polite"></p>
+  <div id="grid" class="grid"></div>
+  <div id="empty" class="empty" hidden>
+   <p class="empty-title">No games match “<span id="empty-q"></span>”.</p>
+   <p>Try a shorter word (for example “zelda” or “kart”), or browse by letter above. Still missing? <a id="empty-issue" href="#">Ask for it</a>.</p>
+   <button type="button" class="btn quiet" id="empty-clear">Show all games</button>
+  </div>
+ </section>
 
- <section id="grid" class="grid" aria-live="polite"></section>
- <p id="empty" class="empty" hidden>No games match. The game may be on the <a href="#missing">missing list</a>.</p>
-
- <section id="how" class="how">
-  <h2>How to print</h2>
-  <ol>
-   <li><strong>Pick your games</strong> with <em>Add to sheet</em>, or download a whole letter's PDF from its heading.</li>
-   <li><strong>Download the PDF</strong> from the tray at the bottom. Choose A4 or US Letter.</li>
-   <li><strong>Print at 100% / actual size.</strong> Turn off "fit to page". The 50 mm ruler on the page must measure exactly 50 mm.</li>
-   <li><strong>Test on plain paper first</strong> against a real cart, then print on sticker paper and cut along the corner marks.</li>
-  </ol>
-  <p>Single PNGs are 300 DPI (600 DPI for the hand-tuned set). Print the PDF when you can; it keeps the exact size.</p>
-  <h3 id="missing">Not covered yet</h3>
-  <p id="missing-list"></p>
-  <p>Missing a game, or want PAL and Japanese sets sooner? <a id="issue-link" href="https://github.com/rflpazini/n64-open-labels/issues">Open an issue</a>.</p>
-  <p class="legal">Unofficial fan project, not affiliated with Nintendo or any publisher. Logos and artwork belong to their owners and are shared for personal, non-commercial use only. Please don't sell prints. The generator code is MIT licensed.</p>
+ <section class="faq wrap" id="faq" aria-labelledby="faq-title">
+  <h2 id="faq-title">Help</h2>
+  <details open>
+   <summary>How do I print the labels?</summary>
+   <p>Add your games, press <strong>Download PDF</strong> and open the file. In the print window choose <strong>Actual size</strong> or <strong>100%</strong>. Never “Fit to page”. Each label is 63 × 16 mm.</p>
+  </details>
+  <details>
+   <summary>How do I know the size is right?</summary>
+   <p>Every page has a ruler at the bottom. Measure it: it must be exactly 50 mm. If it isn't, your printer scaled the page. Turn off scaling and print again.</p>
+  </details>
+  <details>
+   <summary>What paper should I use?</summary>
+   <p>Print one page on plain paper first and hold a label against a cartridge. When it fits, use matte sticker paper (A4 or US Letter) and cut along the small corner marks.</p>
+  </details>
+  <details>
+   <summary>A label looks wrong. What can I do?</summary>
+   <p>Most labels were made automatically from box art, so a few crops are off. Use <strong>Report</strong> under the label and say what's wrong. Fixes show up here automatically.</p>
+  </details>
+  <details id="missing">
+   <summary>Which games are missing?</summary>
+   <p id="missing-list"></p>
+  </details>
+  <details>
+   <summary>Can I sell prints of these?</summary>
+   <p>No. This is an unofficial fan project for personal use. Logos and artwork belong to Nintendo and the game publishers. The site's code is open source (MIT).</p>
+  </details>
  </section>
 </main>
 
-<aside class="tray" id="tray" aria-label="Print sheet" hidden>
+<footer class="foot wrap">
+ <p>Unofficial fan project, not affiliated with Nintendo. Made with care for the N64 community. <a id="foot-repo" href="https://github.com/rflpazini/n64-open-labels">Source on GitHub</a>.</p>
+</footer>
+
+<aside class="tray" id="tray" aria-label="Your print sheet" hidden>
  <div class="wrap tray-in">
-  <div class="tray-count"><strong id="count">0</strong> <span id="count-word">labels</span> on your sheet</div>
-  <label class="paper"><span class="sr">Paper size</span>
-   <select id="paper"><option value="a4">A4</option><option value="letter">US Letter</option></select>
-  </label>
-  <button class="btn ghost" id="share" type="button">Copy link</button>
-  <button class="btn ghost" id="clear" type="button">Clear</button>
-  <button class="btn primary" id="pdf" type="button">Download PDF</button>
+  <p class="tray-count"><strong id="count">0</strong> <span id="count-word">labels</span> selected</p>
+  <div class="tray-actions">
+   <label class="paper"><span class="sr">Paper size</span>
+    <select id="paper"><option value="letter">US Letter</option><option value="a4">A4</option></select>
+   </label>
+   <button class="btn quiet icon-only" id="share" type="button" title="Copy a link to this selection" aria-label="Copy a link to this selection"><svg class="ico" aria-hidden="true"><use href="#i-link"/></svg></button>
+   <button class="btn quiet icon-only" id="clear" type="button" title="Clear selection" aria-label="Clear selection"><svg class="ico" aria-hidden="true"><use href="#i-x"/></svg></button>
+   <button class="btn primary" id="pdf" type="button"><svg class="ico" aria-hidden="true"><use href="#i-download"/></svg><span>Download PDF</span></button>
+  </div>
  </div>
 </aside>
+
+<dialog id="tips" aria-labelledby="tips-title">
+ <h2 id="tips-title">Your PDF is ready. Before you print:</h2>
+ <ul class="tips">
+  <li><svg class="ico" aria-hidden="true"><use href="#i-printer"/></svg><span>Print at <strong>Actual size / 100%</strong>. Turn off “Fit to page”.</span></li>
+  <li><svg class="ico" aria-hidden="true"><use href="#i-ruler"/></svg><span>Check the ruler at the bottom measures <strong>50 mm</strong>.</span></li>
+  <li><svg class="ico" aria-hidden="true"><use href="#i-scissors"/></svg><span>Test on <strong>plain paper</strong> first, then use sticker paper and cut along the corner marks.</span></li>
+ </ul>
+ <form method="dialog" class="tips-foot">
+  <label class="check"><input type="checkbox" id="tips-off"> Don't show again</label>
+  <button class="btn primary" value="ok">Got it</button>
+ </form>
+</dialog>
 
 <div class="toast" id="toast" role="status" hidden></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
