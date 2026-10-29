@@ -1,0 +1,236 @@
+[
+  {
+    "recipe_index": 0,
+    "name": "Mario Kart 64",
+    "file": "01-mario-kart-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "edf2d798a6ef763fd13c6d20c66a7045853b2e0ad89d2652de579dbef391edb2"
+  },
+  {
+    "recipe_index": 1,
+    "name": "Smash Bros. / Japão",
+    "file": "02-smash-bros-japao.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "a3e3d4fa562ab263fd9d85895e16a5aa7b646d797511c62f73af12cc50b08b7d"
+  },
+  {
+    "recipe_index": 2,
+    "name": "Kobe Bryant in NBA Courtside",
+    "file": "03-kobe-bryant-in-nba-courtside.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "1388a4d32293e8e638bc2c056b09b23345f354485d4a6e8a428ff0587629b46b"
+  },
+  {
+    "recipe_index": 3,
+    "name": "Duke Nukem 64",
+    "file": "04-duke-nukem-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "168b046fd50769dbbc22f803e392eba47ef8be30bf40cf71f3a7343ce81dc68b"
+  },
+  {
+    "recipe_index": 4,
+    "name": "Super Mario 64",
+    "file": "05-super-mario-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "253e7d1b52007ebb6372708bb48aac4eb34ef9722feb2736dae0db63e8a670a0"
+  },
+  {
+    "recipe_index": 5,
+    "name": "Killer Instinct Gold",
+    "file": "06-killer-instinct-gold.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "3e1d6fd4eec3d3fff983f5c69cf13e636d680df83bddf5cb6f0dea91c0f0b39b"
+  },
+  {
+    "recipe_index": 6,
+    "name": "Star Fox 64",
+    "file": "07-star-fox-64.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "7bd4e6ef6333ffc5caacadd38b5f999ac688889a01b66427310ae6c16de9bd01"
+  },
+  {
+    "recipe_index": 7,
+    "name": "Perfect Dark",
+    "file": "08-perfect-dark.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "99bda53c898ddc740c286f55f63389ddc854b60fc5e85aa0181d3e82c4d1e53d"
+  },
+  {
+    "recipe_index": 8,
+    "name": "Paper Mario",
+    "file": "09-paper-mario.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "7ae623ba2210c8d8a3a77cacb85cf01c18328e4eb226b27be064e2c239cccc61"
+  },
+  {
+    "recipe_index": 9,
+    "name": "Donkey Kong 64 / Japão",
+    "file": "10-donkey-kong-64-japao.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "dd2286f5fdf9e49976380508f1bbe58961feaf45f3b791bd795e6dfc391c37fb"
+  },
+  {
+    "recipe_index": 10,
+    "name": "Donkey Kong 64 / EUA",
+    "file": "11-donkey-kong-64-eua.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "ff0a9b5e71604974bbb569a24813692e332cb6f911950ebea480082e38c07e76"
+  },
+  {
+    "recipe_index": 11,
+    "name": "Super Smash Bros. / EUA",
+    "file": "12-super-smash-bros-eua.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "31bcbbf48a750bbdcfd0c84f672517aed7d42a62924bfa348ecbcae710f1947e"
+  },
+  {
+    "recipe_index": 12,
+    "name": "GoldenEye 007",
+    "file": "13-goldeneye-007.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "6e4bbb11755fd7a86e45fc07e7eda58369a3802da0d6a0bd5e65cc52a2dfacda"
+  },
+  {
+    "recipe_index": 13,
+    "name": "Banjo-Kazooie",
+    "file": "14-banjo-kazooie.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "7a0d579f3ced738eb2b910766ffa21f3606c37d0417a7742aa56534b28d25c8a"
+  },
+  {
+    "recipe_index": 14,
+    "name": "Zelda: Ocarina of Time",
+    "file": "15-zelda-ocarina-of-time.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "621f76c0a93330a533c87365b875d2579fbbe1ba0606d3187a2e41c950b5e8c3"
+  },
+  {
+    "recipe_index": 15,
+    "name": "Zelda: Majora’s Mask",
+    "file": "16-zelda-majoras-mask.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "e55761003faa941a74b3a39a9e40c6acc9e10e4854acaba4a2ad7c71481396b8"
+  },
+  {
+    "recipe_index": 16,
+    "name": "Resident Evil 2",
+    "file": "17-resident-evil-2.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "bfca0996a7c32544f51be8705abd04d94d7dd375e270b7730108db9d5ecdd677"
+  },
+  {
+    "recipe_index": 17,
+    "name": "ClayFighter 63⅓",
+    "file": "18-clayfighter-6313.png",
+    "width_mm": 63,
+    "height_mm": 16,
+    "dpi": 600,
+    "pixels": [
+      1488,
+      378
+    ],
+    "sha256": "b204ebf76121d2ff46b55b35a95c7059da36ad7939788e416ba93f504493490a"
+  }
+]
