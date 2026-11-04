@@ -101,11 +101,40 @@
   }
  }
 
+ function pickedItems(){return [...state.picked].map(id=>state.byId[id]).filter(Boolean).sort((a,b)=>a.sort.localeCompare(b.sort))}
+
+ // The selection can span regions, so list it here: the grid only shows one region at a time.
+ function trayList(){
+  const list=$('#tray-list'),items=pickedItems(),mixed=new Set(items.map(l=>l.region)).size>1;
+  list.innerHTML='';
+  for(const l of items){
+   const li=document.createElement('li');
+   li.innerHTML=`<img loading="lazy" decoding="async" width="126" height="32" alt=""><span class="t"></span><button type="button" class="rm"><svg class="ico" aria-hidden="true"><use href="#i-x"/></svg></button>`;
+   li.querySelector('img').src=l.thumb;
+   const t=li.querySelector('.t');t.textContent=l.title;t.title=l.title;
+   if(mixed){const r=document.createElement('span');r.className='r';r.textContent=REGION_LABEL[l.region]||l.region;t.after(r)}
+   const rm=li.querySelector('.rm');rm.setAttribute('aria-label',`Remove ${l.title}`);
+   rm.onclick=()=>{
+    const i=[...list.children].indexOf(li);toggle(l.id);
+    // Keep keyboard focus in the list: the item that moved into this slot, else the toggle.
+    const rows=list.children,row=rows[Math.min(i,rows.length-1)];
+    (row?row.querySelector('.rm'):$('#tray-toggle')).focus();
+   };
+   list.appendChild(li);
+  }
+ }
+
+ function setTray(open){
+  $('#tray-panel').hidden=!open;$('#tray-toggle').setAttribute('aria-expanded',String(open));
+  if(open)trayList();
+ }
+
  function save(){
   store.set('n64ol.picked',[...state.picked].join(','));
   const n=state.picked.size;
   $('#tray').hidden=n===0;document.body.classList.toggle('has-tray',n>0);
   $('#count').textContent=n;$('#count-word').textContent=n===1?'label':'labels';
+  if(n===0)setTray(false);else if(!$('#tray-panel').hidden)trayList();
  }
 
  async function dataUrl(src){
@@ -142,7 +171,7 @@
  async function buildPdf(){
   const btn=$('#pdf'),label=btn.querySelector('span');
   if(!window.jspdf){toast('The PDF tool did not load. Check your connection and reload.');return}
-  const items=[...state.picked].map(id=>state.byId[id]).filter(Boolean).sort((a,b)=>a.sort.localeCompare(b.sort));
+  const items=pickedItems();
   if(!items.length)return;
   const key=$('#paper').value,paper=PAPER[key],L=layout(paper),per=L.cols*L.rows,pages=Math.ceil(items.length/per);
   btn.disabled=true;
@@ -185,6 +214,8 @@
   let t;$('#q').oninput=e=>{state.q=e.target.value;clearTimeout(t);t=setTimeout(render,120)};
   $('#empty-clear').onclick=()=>{state.q='';$('#q').value='';render();$('#q').focus()};
   $('#pdf').onclick=buildPdf;
+  $('#tray-toggle').onclick=()=>setTray($('#tray-panel').hidden);
+  document.addEventListener('keydown',e=>{if(e.key==='Escape'&&!$('#tray-panel').hidden){setTray(false);$('#tray-toggle').focus()}});
   $('#clear').onclick=()=>{state.picked.clear();save();render()};
   $('#tips').addEventListener('close',()=>{if($('#tips-off').checked)store.set('n64ol.tips','off')});
   $('#share').onclick=async()=>{
