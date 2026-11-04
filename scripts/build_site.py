@@ -39,6 +39,10 @@ def og(out,labels):
    card.paste(im.resize((560,142)),(26+(i%2)*588,18+(i//2)*76))
  card.save(out/'og.jpg',quality=86)
 
+def versioned(out,rel):
+ """Append a content hash so a changed label gets a new URL and stale browser caches are bypassed."""
+ return f"{rel}?v={hashlib.sha256((out/rel).read_bytes()).hexdigest()[:10]}"
+
 def fingerprint(out):
  """Version asset URLs by content so a cached old app.js never runs against new HTML or data."""
  def tag(path):return hashlib.sha256(path.read_bytes()).hexdigest()[:10]
@@ -69,6 +73,9 @@ def main():
  labels.sort(key=lambda l:(l['sort'],l['region']))
  for l in labels:thumb(out/l['png'],out/l['thumb'])
  og(out,[l for l in labels if l['stage']=='approved'])
+ # Label files keep their names across fixes and are cached for hours; version their URLs by content.
+ for l in labels:
+  for k in ('png','thumb','sheet'):l[k]=versioned(out,l[k])
  (out/'labels.json').write_text(json.dumps({'repo':REPO,'regions':[r for r,_ in SETS],'labels':labels,'missing':missing},ensure_ascii=False,separators=(',',':')),encoding='utf-8')
  fingerprint(out)
  print(f'Site with {len(labels)} labels in {out}')
