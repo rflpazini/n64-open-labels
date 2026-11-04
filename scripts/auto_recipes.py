@@ -10,6 +10,8 @@ those recipes. Requires numpy and opencv-python-headless.
 
   python scripts/auto_recipes.py --thumbs path/to/Nintendo_-_Nintendo_64 \
       --region USA --snap-art catalog/usa-snap-art.txt --title-art catalog/title-art.json --out build/usa
+
+Then apply the hand corrections in catalog/label-fixes.json with scripts/fix_labels.py.
 """
 import argparse,csv,json,re
 from pathlib import Path

@@ -433,9 +433,8 @@
    "stage": "draft",
    "logo_source": "libretro-thumbnails Named_Logos/Castlevania (USA).png",
    "art_source": "libretro-thumbnails Named_Boxarts/Castlevania (USA).png",
-   "box_title_inliers": 3,
-   "crop_check": "box title not located; check the crop for a repeated title",
-   "rights_status": "not_reviewed"
+   "rights_status": "not_reviewed",
+   "hand_fix": "Crop repeated part of the box title. Window moved down to Reinhardt and the castle."
   },
   {
    "catalog_id": "7649cfde21273975",
@@ -527,8 +526,10 @@
    "title": "Conker's Bad Fur Day",
    "region": "USA",
    "stage": "draft",
-   "art_source": "libretro-thumbnails Named_Titles/Conker's Bad Fur Day (USA).png (hand-picked crop with printed title)",
-   "rights_status": "not_reviewed"
+   "art_source": "libretro-thumbnails Named_Boxarts/Conker's Bad Fur Day (USA).png",
+   "rights_status": "not_reviewed",
+   "logo_source": "libretro-thumbnails Named_Titles/Conker's Bad Fur Day (USA).png (conker)",
+   "hand_fix": "No upstream logo; the label was a small boxed title screen on black. Logo rebuilt from the title screen, BAD FUR DAY set on one line under the Conker's script; art is Conker with his beer from the box."
   },
   {
    "catalog_id": "89f97ad7479a24e4",
@@ -614,9 +615,8 @@
    "stage": "draft",
    "logo_source": "libretro-thumbnails Named_Logos/Diddy Kong Racing (USA) (En,Fr).png",
    "art_source": "libretro-thumbnails Named_Boxarts/Diddy Kong Racing (USA) (En,Fr).png",
-   "box_title_inliers": 124,
-   "crop_check": "",
-   "rights_status": "not_reviewed"
+   "rights_status": "not_reviewed",
+   "hand_fix": "Automatic crop showed only Diddy's belly and the kart nose. Window moved up to his face, with Pipsy fading in behind the title."
   },
   {
    "catalog_id": "94299216fcad9e6a",
@@ -729,9 +729,8 @@
    "stage": "draft",
    "logo_source": "libretro-thumbnails Named_Logos/Excitebike 64 (USA).png",
    "art_source": "libretro-thumbnails Named_Boxarts/Excitebike 64 (USA).png",
-   "box_title_inliers": 54,
-   "crop_check": "",
-   "rights_status": "not_reviewed"
+   "rights_status": "not_reviewed",
+   "hand_fix": "Crop was mostly sponsor logos. Window moved to the bike."
   },
   {
    "catalog_id": "635663d9bfa696f6",
@@ -793,8 +792,10 @@
    "title": "FIFA - Road to World Cup 98",
    "region": "USA",
    "stage": "draft",
-   "art_source": "libretro-thumbnails Named_Titles/FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).png (hand-picked crop with printed title)",
-   "rights_status": "not_reviewed"
+   "art_source": "libretro-thumbnails Named_Boxarts/FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).png",
+   "rights_status": "not_reviewed",
+   "logo_source": "libretro-thumbnails Named_Boxarts/FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).png (ink)",
+   "hand_fix": "No upstream logo; the label was a blurry title screen with no art. Logo keyed from the box (black ink on white); art is the player from the box."
   },
   {
    "catalog_id": "be658d25aa192e66",
@@ -1555,9 +1556,8 @@
    "stage": "draft",
    "logo_source": "libretro-thumbnails Named_Logos/Monster Truck Madness 64 (USA).png",
    "art_source": "libretro-thumbnails Named_Boxarts/Monster Truck Madness 64 (USA).png",
-   "box_title_inliers": 4,
-   "crop_check": "box title not located; check the crop for a repeated title",
-   "rights_status": "not_reviewed"
+   "rights_status": "not_reviewed",
+   "hand_fix": "Dark 'Madness 64' disappeared on the near-black background. Background is the box's grey and art is the truck."
   },
   {
    "catalog_id": "408db0aa28864f7d",
@@ -1642,10 +1642,9 @@
    "region": "USA",
    "stage": "draft",
    "logo_source": "libretro-thumbnails Named_Logos/Namco Museum 64 (USA).png",
-   "art_source": "libretro-thumbnails Named_Snaps/Namco Museum 64 (USA).png",
-   "box_title_inliers": 0,
-   "crop_check": "",
-   "rights_status": "not_reviewed"
+   "art_source": "libretro-thumbnails Named_Boxarts/Namco Museum 64 (USA).png",
+   "rights_status": "not_reviewed",
+   "hand_fix": "Art was the box's game list (text). Window moved to Pac-Man."
   },
   {
    "catalog_id": "704cce55e0128aff",
@@ -1916,11 +1915,10 @@
    "title": "NHL Breakaway 99",
    "region": "USA",
    "stage": "draft",
-   "logo_source": "libretro-thumbnails Named_Logos/NHL Breakaway 99 (USA).png",
-   "art_source": "libretro-thumbnails Named_Snaps/NHL Breakaway 99 (USA).png",
-   "box_title_inliers": 0,
-   "crop_check": "",
-   "rights_status": "not_reviewed"
+   "logo_source": "libretro-thumbnails Named_Logos/NHL Breakaway 99 (Europe).png (file)",
+   "art_source": "libretro-thumbnails Named_Boxarts/NHL Breakaway 99 (USA).png",
+   "rights_status": "not_reviewed",
+   "hand_fix": "Upstream 'NHL Breakaway 99 (USA)' logo is a symlink to the 98 logo, so the label said 98. Uses the real 99 logo (Europe file) and Yzerman from the box instead of a gameplay snap."
   },
   {
    "catalog_id": "4b7b6fcae405f217",
@@ -2042,8 +2040,10 @@
    "title": "Pokemon Puzzle League",
    "region": "USA",
    "stage": "draft",
-   "art_source": "libretro-thumbnails Named_Titles/Pokemon Puzzle League (USA).png (hand-picked crop with printed title)",
-   "rights_status": "not_reviewed"
+   "art_source": "libretro-thumbnails Named_Boxarts/Pokemon Puzzle League (USA).png",
+   "rights_status": "not_reviewed",
+   "logo_source": "libretro-thumbnails Named_Boxarts/Pokemon Puzzle League (USA).png (grabcut)",
+   "hand_fix": "No upstream logo; the label was a boxed title screen on grey. Logo cut from the box; art is Bulbasaur, Pikachu and Squirtle."
   },
   {
    "catalog_id": "bde15eb4f783d9f4",
@@ -2061,8 +2061,10 @@
    "title": "Pokemon Stadium",
    "region": "USA",
    "stage": "draft",
-   "art_source": "libretro-thumbnails Named_Titles/Pokemon Stadium (USA).png (hand-picked crop with printed title)",
-   "rights_status": "not_reviewed"
+   "art_source": "libretro-thumbnails Named_Boxarts/Pokemon Stadium (USA).png",
+   "rights_status": "not_reviewed",
+   "logo_source": "libretro-thumbnails Named_Boxarts/Pokemon Stadium (USA).png (grabcut)",
+   "hand_fix": "No upstream logo; the label was a title-screen strip with no fade. Logo cut from the box; art is Charizard and Blastoise."
   },
   {
    "catalog_id": "19785827f6a3360a",
@@ -2429,8 +2431,10 @@
    "title": "Snowboard Kids",
    "region": "USA",
    "stage": "draft",
-   "art_source": "libretro-thumbnails Named_Titles/Snowboard Kids (USA).png (hand-picked crop with printed title)",
-   "rights_status": "not_reviewed"
+   "art_source": "libretro-thumbnails Named_Boxarts/Snowboard Kids (USA).png",
+   "rights_status": "not_reviewed",
+   "logo_source": "libretro-thumbnails Named_Titles/Snowboard Kids (USA).png (sky)",
+   "hand_fix": "No upstream logo; the label was a boxed title screen on black. Logo keyed off the title-screen sky; art is the box characters."
   },
   {
    "catalog_id": "3b28b98040e3abeb",
@@ -2727,9 +2731,8 @@
    "stage": "draft",
    "logo_source": "libretro-thumbnails Named_Logos/Tony Hawk's Pro Skater (USA).png",
    "art_source": "libretro-thumbnails Named_Boxarts/Tony Hawk's Pro Skater (USA).png",
-   "box_title_inliers": 63,
-   "crop_check": "",
-   "rights_status": "not_reviewed"
+   "rights_status": "not_reviewed",
+   "hand_fix": "Automatic crop showed hands and a board with no skater. Window moved to Tony mid-air from the top of the box."
   },
   {
    "catalog_id": "fa57fa5d31f235c0",
@@ -2847,10 +2850,9 @@
    "region": "USA",
    "stage": "draft",
    "logo_source": "libretro-thumbnails Named_Logos/Turok - Rage Wars (USA).png",
-   "art_source": "libretro-thumbnails Named_Snaps/Turok - Rage Wars (USA).png",
-   "box_title_inliers": 0,
-   "crop_check": "",
-   "rights_status": "not_reviewed"
+   "art_source": "libretro-thumbnails Named_Boxarts/Turok - Rage Wars (USA).png",
+   "rights_status": "not_reviewed",
+   "hand_fix": "Gameplay snap printed 'ASSAULT RIFLE' HUD text. Uses the box creature above the title instead."
   },
   {
    "catalog_id": "1200dc9fd761db32",

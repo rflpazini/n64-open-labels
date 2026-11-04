@@ -6,10 +6,10 @@
   "crop": [
    12,
    8,
-   216,
-   91
+   272,
+   115
   ],
-  "background": "#171b23"
+  "background": "#1d1a1b"
  },
  {
   "name": "64 de Hakken!! Tamagotchi - Minna de Tamagotchi World",
@@ -661,23 +661,15 @@
  },
  {
   "name": "FIFA - Road to World Cup 98 - World Cup e no Michi",
-  "logo": null,
+  "logo": "assets/japan/logo-c22f3fbe3a0b207e.png",
   "art": "assets/japan/art-c22f3fbe3a0b207e.jpg",
   "crop": [
    0,
-   0,
-   308,
-   110
+   8,
+   240,
+   106
   ],
-  "background": "#f8f7fc",
-  "art_viewport": [
-   0,
-   0,
-   63,
-   16
-  ],
-  "art_fit": "contain",
-  "transition": null
+  "background": "#ffffff"
  },
  {
   "name": "Fighting Cup",
@@ -705,23 +697,15 @@
  },
  {
   "name": "G.A.S.P!! Fighters' NEXTream",
-  "logo": null,
+  "logo": "assets/japan/logo-9733405c19587974.png",
   "art": "assets/japan/art-9733405c19587974.jpg",
   "crop": [
-   0,
-   0,
-   380,
-   188
+   12,
+   8,
+   379,
+   159
   ],
-  "background": "#663431",
-  "art_viewport": [
-   0,
-   0,
-   63,
-   16
-  ],
-  "art_fit": "contain",
-  "transition": null
+  "background": "#000000"
  },
  {
   "name": "Ganbare Goemon - Dero Dero Douchuu Obake Tenkomori",
@@ -1064,12 +1048,12 @@
   "logo": "assets/japan/logo-387dbaa74ef96cd8.png",
   "art": "assets/japan/art-387dbaa74ef96cd8.jpg",
   "crop": [
-   0,
+   12,
    8,
-   198,
-   89
+   312,
+   131
   ],
-  "background": "#fefefa"
+  "background": "#f9e998"
  },
  {
   "name": "Jikkyou Powerful Pro Yakyuu 4",
@@ -1078,10 +1062,10 @@
   "crop": [
    12,
    8,
-   210,
-   89
+   322,
+   135
   ],
-  "background": "#e9ebe5"
+  "background": "#fefefe"
  },
  {
   "name": "Jikkyou Powerful Pro Yakyuu 5",
@@ -1090,22 +1074,22 @@
   "crop": [
    12,
    8,
-   210,
-   89
+   312,
+   131
   ],
-  "background": "#242628"
+  "background": "#251f23"
  },
  {
   "name": "Jikkyou Powerful Pro Yakyuu 6",
   "logo": "assets/japan/logo-86053876344f395e.png",
   "art": "assets/japan/art-86053876344f395e.jpg",
   "crop": [
-   12,
+   0,
    8,
-   210,
-   89
+   300,
+   131
   ],
-  "background": "#26281e"
+  "background": "#fefefc"
  },
  {
   "name": "Jikkyou World Soccer - World Cup France '98",
@@ -1865,23 +1849,15 @@
  },
  {
   "name": "Snobo Kids",
-  "logo": null,
+  "logo": "assets/japan/logo-0d82028807ef742e.png",
   "art": "assets/japan/art-0d82028807ef742e.jpg",
   "crop": [
-   0,
-   0,
-   320,
-   120
+   12,
+   8,
+   379,
+   159
   ],
-  "background": "#000000",
-  "art_viewport": [
-   0,
-   0,
-   63,
-   16
-  ],
-  "art_fit": "contain",
-  "transition": null
+  "background": "#322714"
  },
  {
   "name": "Snow Speeder",
@@ -2382,10 +2358,10 @@
   "crop": [
    12,
    8,
-   158,
-   67
+   282,
+   119
   ],
-  "background": "#b8b7b6"
+  "background": "#c7c7c7"
  },
  {
   "name": "Zool - Majuu Tsukai Densetsu",

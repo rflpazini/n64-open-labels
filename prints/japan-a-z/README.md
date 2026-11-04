@@ -5,7 +5,8 @@
 ## Status
 
 - **2** reuse the hand-tuned recipes from [collection-18](../collection-18/).
-- **196** are machine drafts (`stage: draft`) from `scripts/auto_recipes.py`: libretro-thumbnails logo over an automatic box-art crop. 40 use a gameplay screenshot because the box is mostly text; 3 have no clean logo upstream and use a hand-picked crop that already shows the printed title (`catalog/title-art.json`).
+- **196** are machine drafts (`stage: draft`) from `scripts/auto_recipes.py`: libretro-thumbnails logo over an automatic box-art crop. 40 use a gameplay screenshot because the box is mostly text.
+- **9** drafts carry a hand correction from `scripts/fix_labels.py` ([`catalog/label-fixes.json`](../../catalog/label-fixes.json)): a logo rebuilt where upstream has none or the wrong one, or an art window moved off box text and onto the characters.
 - Drafts are not individually reviewed or print-tested. Report problems with an issue.
 - Logos and artwork belong to Nintendo and the publishers (`rights_status: not_reviewed`). Unofficial, non-commercial fan project.
 
