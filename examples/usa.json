@@ -474,10 +474,10 @@
   "crop": [
    12,
    8,
-   181,
-   77
+   272,
+   115
   ],
-  "background": "#efc1a0"
+  "background": "#c2c0c1"
  },
  {
   "name": "Castlevania - Legacy of Darkness",
@@ -577,23 +577,15 @@
  },
  {
   "name": "Conker's Bad Fur Day",
-  "logo": null,
+  "logo": "assets/usa/logo-2f415fb39623fbe1.png",
   "art": "assets/usa/art-2f415fb39623fbe1.jpg",
   "crop": [
    0,
-   0,
-   165,
-   234
+   8,
+   150,
+   70
   ],
-  "background": "#160d0f",
-  "art_viewport": [
-   0,
-   0,
-   63,
-   16
-  ],
-  "art_fit": "contain",
-  "transition": null
+  "background": "#050405"
  },
  {
   "name": "Cruis'n Exotica",
@@ -686,10 +678,10 @@
   "crop": [
    12,
    8,
-   181,
-   77
+   162,
+   70
   ],
-  "background": "#2f160a"
+  "background": "#1c2006"
  },
  {
   "name": "Donald Duck - Goin' Quackers",
@@ -816,12 +808,12 @@
   "logo": "assets/usa/logo-8a48dc8ecf9e563d.png",
   "art": "assets/usa/art-8a48dc8ecf9e563d.jpg",
   "crop": [
-   12,
+   0,
    8,
-   179,
-   76
+   310,
+   135
   ],
-  "background": "#212127"
+  "background": "#111e2d"
  },
  {
   "name": "Extreme-G",
@@ -885,23 +877,15 @@
  },
  {
   "name": "FIFA - Road to World Cup 98",
-  "logo": null,
+  "logo": "assets/usa/logo-e4a6186131568d2a.png",
   "art": "assets/usa/art-e4a6186131568d2a.jpg",
   "crop": [
    0,
-   0,
-   308,
-   110
+   8,
+   230,
+   102
   ],
-  "background": "#f7f6f9",
-  "art_viewport": [
-   0,
-   0,
-   63,
-   16
-  ],
-  "art_fit": "contain",
-  "transition": null
+  "background": "#ffffff"
  },
  {
   "name": "FIFA 99",
@@ -1771,10 +1755,10 @@
   "crop": [
    12,
    8,
-   179,
-   76
+   392,
+   164
   ],
-  "background": "#01030b"
+  "background": "#8e98a6"
  },
  {
   "name": "Mortal Kombat 4",
@@ -1865,12 +1849,12 @@
   "logo": "assets/usa/logo-87b1673e9d074b0b.png",
   "art": "assets/usa/art-87b1673e9d074b0b.jpg",
   "crop": [
-   12,
+   0,
    8,
-   140,
-   60
+   165,
+   76
   ],
-  "background": "#372b0f"
+  "background": "#010101"
  },
  {
   "name": "NASCAR 2000",
@@ -2167,10 +2151,10 @@
   "crop": [
    12,
    8,
-   140,
-   60
+   237,
+   100
   ],
-  "background": "#787878"
+  "background": "#4e2a20"
  },
  {
   "name": "Nightmare Creatures",
@@ -2312,23 +2296,15 @@
  },
  {
   "name": "Pokemon Puzzle League",
-  "logo": null,
+  "logo": "assets/usa/logo-fb2c35ec336b8fc0.png",
   "art": "assets/usa/art-fb2c35ec336b8fc0.jpg",
   "crop": [
-   0,
-   0,
-   210,
-   150
+   12,
+   8,
+   277,
+   117
   ],
-  "background": "#5d687b",
-  "art_viewport": [
-   0,
-   0,
-   63,
-   16
-  ],
-  "art_fit": "contain",
-  "transition": null
+  "background": "#45413a"
  },
  {
   "name": "Pokemon Snap",
@@ -2344,23 +2320,15 @@
  },
  {
   "name": "Pokemon Stadium",
-  "logo": null,
+  "logo": "assets/usa/logo-e0b376d8600870bf.png",
   "art": "assets/usa/art-e0b376d8600870bf.jpg",
   "crop": [
-   0,
-   0,
-   320,
-   82
+   12,
+   8,
+   364,
+   152
   ],
-  "background": "#6a6f63",
-  "art_viewport": [
-   0,
-   0,
-   63,
-   16
-  ],
-  "art_fit": "contain",
-  "transition": null
+  "background": "#d8c3c3"
  },
  {
   "name": "Pokemon Stadium 2",
@@ -2766,23 +2734,15 @@
  },
  {
   "name": "Snowboard Kids",
-  "logo": null,
+  "logo": "assets/usa/logo-c1ae7eea9fd058bb.png",
   "art": "assets/usa/art-c1ae7eea9fd058bb.jpg",
   "crop": [
-   0,
-   0,
-   320,
-   108
+   12,
+   8,
+   364,
+   152
   ],
-  "background": "#000000",
-  "art_viewport": [
-   0,
-   0,
-   63,
-   16
-  ],
-  "art_fit": "contain",
-  "transition": null
+  "background": "#50391e"
  },
  {
   "name": "Snowboard Kids 2",
@@ -3115,10 +3075,10 @@
   "crop": [
    12,
    8,
-   178,
-   76
+   272,
+   115
   ],
-  "background": "#041e3a"
+  "background": "#0b1e38"
  },
  {
   "name": "Tony Hawk's Pro Skater 2",
@@ -3247,10 +3207,10 @@
   "crop": [
    12,
    8,
-   140,
-   60
+   262,
+   111
   ],
-  "background": "#aaaaac"
+  "background": "#c7b6d0"
  },
  {
   "name": "Turok 2 - Seeds of Evil",

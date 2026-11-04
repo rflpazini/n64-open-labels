@@ -1,0 +1,420 @@
+{
+ "_comment": "Hand corrections applied after scripts/auto_recipes.py by scripts/fix_labels.py. Sources are libretro-thumbnails paths. art.window is the visible 39:16 art window in source pixels (left, top, right, bottom); it is widened or narrowed vertically to the exact aspect around its centre. logo.method builds a transparent logo where upstream has none or the wrong one; see fix_labels.py for each method.",
+ "fixes": [
+  {
+   "region": "USA",
+   "title": "Conker's Bad Fur Day",
+   "reason": "No upstream logo; the label was a small boxed title screen on black. Logo rebuilt from the title screen, BAD FUR DAY set on one line under the Conker's script; art is Conker with his beer from the box.",
+   "logo": {
+    "source": "Named_Titles/Conker's Bad Fur Day (USA).png",
+    "method": "conker",
+    "rows": [
+     82,
+     140
+    ]
+   },
+   "art": {
+    "source": "Named_Boxarts/Conker's Bad Fur Day (USA).png",
+    "window": [
+     0,
+     168,
+     150,
+     230
+    ]
+   },
+   "background": "#050405"
+  },
+  {
+   "region": "USA",
+   "title": "Diddy Kong Racing",
+   "reason": "Automatic crop showed only Diddy's belly and the kart nose. Window moved up to his face, with Pipsy fading in behind the title.",
+   "art": {
+    "source": "Named_Boxarts/Diddy Kong Racing (USA) (En,Fr).png",
+    "window": [
+     262,
+     130,
+     412,
+     192
+    ]
+   }
+  },
+  {
+   "region": "USA",
+   "title": "Tony Hawk's Pro Skater",
+   "reason": "Automatic crop showed hands and a board with no skater. Window moved to Tony mid-air from the top of the box.",
+   "art": {
+    "source": "Named_Boxarts/Tony Hawk's Pro Skater (USA).png",
+    "window": [
+     40,
+     10,
+     300,
+     117
+    ]
+   }
+  },
+  {
+   "region": "USA",
+   "title": "FIFA - Road to World Cup 98",
+   "reason": "No upstream logo; the label was a blurry title screen with no art. Logo keyed from the box (black ink on white); art is the player from the box.",
+   "logo": {
+    "source": "Named_Boxarts/FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).png",
+    "method": "ink",
+    "region": [
+     156,
+     8,
+     400,
+     168
+    ],
+    "threshold": [
+     235,
+     60
+    ],
+    "color": "#141414",
+    "erase": [
+     [
+      0,
+      118,
+      30,
+      160
+     ]
+    ]
+   },
+   "art": {
+    "source": "Named_Boxarts/FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).png",
+    "window": [
+     0,
+     118,
+     230,
+     212
+    ]
+   },
+   "background": "#ffffff"
+  },
+  {
+   "region": "USA",
+   "title": "Pokemon Puzzle League",
+   "reason": "No upstream logo; the label was a boxed title screen on grey. Logo cut from the box; art is Bulbasaur, Pikachu and Squirtle.",
+   "logo": {
+    "source": "Named_Boxarts/Pokemon Puzzle League (USA).png",
+    "method": "grabcut",
+    "rect": [
+     2,
+     12,
+     275,
+     160
+    ]
+   },
+   "art": {
+    "source": "Named_Boxarts/Pokemon Puzzle League (USA).png",
+    "window": [
+     150,
+     175,
+     415,
+     284
+    ]
+   }
+  },
+  {
+   "region": "USA",
+   "title": "Pokemon Stadium",
+   "reason": "No upstream logo; the label was a title-screen strip with no fade. Logo cut from the box; art is Charizard and Blastoise.",
+   "logo": {
+    "source": "Named_Boxarts/Pokemon Stadium (USA).png",
+    "method": "grabcut",
+    "rect": [
+     88,
+     4,
+     425,
+     182
+    ],
+    "drop_grey": true,
+    "drop_orange": true
+   },
+   "art": {
+    "source": "Named_Boxarts/Pokemon Stadium (USA).png",
+    "window": [
+     60,
+     160,
+     412,
+     304
+    ]
+   }
+  },
+  {
+   "region": "USA",
+   "title": "Snowboard Kids",
+   "reason": "No upstream logo; the label was a boxed title screen on black. Logo keyed off the title-screen sky; art is the box characters.",
+   "logo": {
+    "source": "Named_Titles/Snowboard Kids (USA).png",
+    "method": "sky",
+    "region": [
+     40,
+     22,
+     300,
+     108
+    ]
+   },
+   "art": {
+    "source": "Named_Boxarts/Snowboard Kids (USA).png",
+    "window": [
+     60,
+     150,
+     412,
+     289
+    ]
+   }
+  },
+  {
+   "region": "USA",
+   "title": "NHL Breakaway 99",
+   "reason": "Upstream 'NHL Breakaway 99 (USA)' logo is a symlink to the 98 logo, so the label said 98. Uses the real 99 logo (Europe file) and Yzerman from the box instead of a gameplay snap.",
+   "logo": {
+    "source": "Named_Logos/NHL Breakaway 99 (Europe).png",
+    "method": "file"
+   },
+   "art": {
+    "source": "Named_Boxarts/NHL Breakaway 99 (USA).png",
+    "window": [
+     190,
+     10,
+     415,
+     102
+    ]
+   }
+  },
+  {
+   "region": "USA",
+   "title": "Monster Truck Madness 64",
+   "reason": "Dark 'Madness 64' disappeared on the near-black background. Background is the box's grey and art is the truck.",
+   "art": {
+    "source": "Named_Boxarts/Monster Truck Madness 64 (USA).png",
+    "window": [
+     20,
+     196,
+     400,
+     352
+    ]
+   },
+   "background": "#8e98a6"
+  },
+  {
+   "region": "USA",
+   "title": "Castlevania",
+   "reason": "Crop repeated part of the box title. Window moved down to Reinhardt and the castle.",
+   "art": {
+    "source": "Named_Boxarts/Castlevania (USA).png",
+    "window": [
+     150,
+     140,
+     410,
+     247
+    ]
+   }
+  },
+  {
+   "region": "USA",
+   "title": "Excitebike 64",
+   "reason": "Crop was mostly sponsor logos. Window moved to the bike.",
+   "art": {
+    "source": "Named_Boxarts/Excitebike 64 (USA).png",
+    "window": [
+     0,
+     150,
+     310,
+     277
+    ]
+   }
+  },
+  {
+   "region": "USA",
+   "title": "Namco Museum 64",
+   "reason": "Art was the box's game list (text). Window moved to Pac-Man.",
+   "art": {
+    "source": "Named_Boxarts/Namco Museum 64 (USA).png",
+    "window": [
+     0,
+     80,
+     165,
+     148
+    ]
+   }
+  },
+  {
+   "region": "USA",
+   "title": "Turok - Rage Wars",
+   "reason": "Gameplay snap printed 'ASSAULT RIFLE' HUD text. Uses the box creature above the title instead.",
+   "art": {
+    "source": "Named_Boxarts/Turok - Rage Wars (USA).png",
+    "window": [
+     140,
+     25,
+     390,
+     127
+    ]
+   }
+  },
+  {
+   "region": "Japan",
+   "title": "FIFA - Road to World Cup 98 - World Cup e no Michi",
+   "reason": "No upstream logo; the label was a blurry title screen with no art. Logo keyed from the Japanese box (blue ink on white); art is the box flames.",
+   "logo": {
+    "source": "Named_Boxarts/FIFA - Road to World Cup 98 - World Cup e no Michi (Japan).png",
+    "method": "ink",
+    "region": [
+     236,
+     320,
+     490,
+     505
+    ],
+    "threshold": [
+     230,
+     80
+    ],
+    "keep_color": true
+   },
+   "art": {
+    "source": "Named_Boxarts/FIFA - Road to World Cup 98 - World Cup e no Michi (Japan).png",
+    "window": [
+     0,
+     150,
+     240,
+     248
+    ]
+   },
+   "background": "#ffffff"
+  },
+  {
+   "region": "Japan",
+   "title": "Snobo Kids",
+   "reason": "No upstream logo; the label was a boxed title screen on black. Logo keyed off the title-screen sky; art is the box characters.",
+   "logo": {
+    "source": "Named_Titles/Snobo Kids (Japan).png",
+    "method": "sky",
+    "region": [
+     28,
+     15,
+     290,
+     112
+    ]
+   },
+   "art": {
+    "source": "Named_Boxarts/Snobo Kids (Japan).png",
+    "window": [
+     130,
+     400,
+     497,
+     550
+    ]
+   }
+  },
+  {
+   "region": "Japan",
+   "title": "G.A.S.P!! Fighters' NEXTream",
+   "reason": "No upstream logo; the label was a boxed crop on maroon. Logo keyed from the title screen (red on black); art is the box fighters.",
+   "logo": {
+    "source": "Named_Titles/G.A.S.P!! Fighters' NEXTream (Japan).png",
+    "method": "red_on_black",
+    "region": [
+     0,
+     0,
+     320,
+     140
+    ]
+   },
+   "art": {
+    "source": "Named_Boxarts/G.A.S.P!! Fighters' NEXTream (Japan).png",
+    "window": [
+     130,
+     240,
+     497,
+     390
+    ]
+   },
+   "background": "#000000"
+  },
+  {
+   "region": "Japan",
+   "title": "Zelda no Densetsu - Toki no Ocarina",
+   "reason": "Crop was a blurry grey cloud. Window moved to Link on Epona.",
+   "art": {
+    "source": "Named_Boxarts/Zelda no Densetsu - Toki no Ocarina (Japan).png",
+    "window": [
+     60,
+     85,
+     330,
+     196
+    ]
+   }
+  },
+  {
+   "region": "Japan",
+   "title": "1080 Snowboarding",
+   "reason": "Crop showed the box's controller badge. Window moved to the rider.",
+   "art": {
+    "source": "Named_Boxarts/1080 Snowboarding (Japan, USA) (En,Ja).png",
+    "window": [
+     170,
+     200,
+     430,
+     307
+    ]
+   }
+  },
+  {
+   "region": "Japan",
+   "title": "Jikkyou Powerful Pro Yakyuu 4",
+   "reason": "Crop showed the Diamond Head production seal. Window moved to Pawapuro-kun.",
+   "art": {
+    "source": "Named_Boxarts/Jikkyou Powerful Pro Yakyuu 4 (Japan).png",
+    "window": [
+     90,
+     90,
+     400,
+     217
+    ]
+   }
+  },
+  {
+   "region": "Japan",
+   "title": "Jikkyou Powerful Pro Yakyuu 5",
+   "reason": "Crop showed the Diamond Head production seal. Window moved to Pawapuro-kun.",
+   "art": {
+    "source": "Named_Boxarts/Jikkyou Powerful Pro Yakyuu 5 (Japan).png",
+    "window": [
+     150,
+     110,
+     450,
+     233
+    ]
+   }
+  },
+  {
+   "region": "Japan",
+   "title": "Jikkyou Powerful Pro Yakyuu 6",
+   "reason": "Crop showed the Diamond Head production seal. Window moved to Pawapuro-kun.",
+   "art": {
+    "source": "Named_Boxarts/Jikkyou Powerful Pro Yakyuu 6 (Japan).png",
+    "window": [
+     0,
+     170,
+     300,
+     293
+    ]
+   }
+  },
+  {
+   "region": "Japan",
+   "title": "Jikkyou Powerful Pro Yakyuu 2000",
+   "reason": "Crop showed the Diamond Head production seal. Window moved to Pawapuro-kun.",
+   "art": {
+    "source": "Named_Boxarts/Jikkyou Powerful Pro Yakyuu 2000 (Japan).png",
+    "window": [
+     90,
+     150,
+     390,
+     273
+    ]
+   }
+  }
+ ]
+}

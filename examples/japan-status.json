@@ -7,9 +7,8 @@
    "stage": "draft",
    "logo_source": "libretro-thumbnails Named_Logos/1080 Snowboarding (Japan, USA) (En,Ja).png",
    "art_source": "libretro-thumbnails Named_Boxarts/1080 Snowboarding (Japan, USA) (En,Ja).png",
-   "box_title_inliers": 13,
-   "crop_check": "",
-   "rights_status": "not_reviewed"
+   "rights_status": "not_reviewed",
+   "hand_fix": "Crop showed the box's controller badge. Window moved to the rider."
   },
   {
    "catalog_id": "2afc685ea064efa8",
@@ -607,8 +606,10 @@
    "title": "FIFA - Road to World Cup 98 - World Cup e no Michi",
    "region": "Japan",
    "stage": "draft",
-   "art_source": "libretro-thumbnails Named_Titles/FIFA - Road to World Cup 98 - World Cup e no Michi (Japan).png (hand-picked crop with printed title)",
-   "rights_status": "not_reviewed"
+   "art_source": "libretro-thumbnails Named_Boxarts/FIFA - Road to World Cup 98 - World Cup e no Michi (Japan).png",
+   "rights_status": "not_reviewed",
+   "logo_source": "libretro-thumbnails Named_Boxarts/FIFA - Road to World Cup 98 - World Cup e no Michi (Japan).png (ink)",
+   "hand_fix": "No upstream logo; the label was a blurry title screen with no art. Logo keyed from the Japanese box (blue ink on white); art is the box flames."
   },
   {
    "catalog_id": "7df137c83eef1fd8",
@@ -637,8 +638,10 @@
    "title": "G.A.S.P!! Fighters' NEXTream",
    "region": "Japan",
    "stage": "draft",
-   "art_source": "libretro-thumbnails Named_Boxarts/G.A.S.P!! Fighters' NEXTream (Japan).png (hand-picked crop with printed title)",
-   "rights_status": "not_reviewed"
+   "art_source": "libretro-thumbnails Named_Boxarts/G.A.S.P!! Fighters' NEXTream (Japan).png",
+   "rights_status": "not_reviewed",
+   "logo_source": "libretro-thumbnails Named_Titles/G.A.S.P!! Fighters' NEXTream (Japan).png (red_on_black)",
+   "hand_fix": "No upstream logo; the label was a boxed crop on maroon. Logo keyed from the title screen (red on black); art is the box fighters."
   },
   {
    "catalog_id": "db54ea79b30ca25d",
@@ -955,9 +958,8 @@
    "stage": "draft",
    "logo_source": "libretro-thumbnails Named_Logos/Jikkyou Powerful Pro Yakyuu 2000 (Japan).png",
    "art_source": "libretro-thumbnails Named_Boxarts/Jikkyou Powerful Pro Yakyuu 2000 (Japan).png",
-   "box_title_inliers": 249,
-   "crop_check": "",
-   "rights_status": "not_reviewed"
+   "rights_status": "not_reviewed",
+   "hand_fix": "Crop showed the Diamond Head production seal. Window moved to Pawapuro-kun."
   },
   {
    "catalog_id": "d536b11092c8c6b7",
@@ -966,9 +968,8 @@
    "stage": "draft",
    "logo_source": "libretro-thumbnails Named_Logos/Jikkyou Powerful Pro Yakyuu 4 (Japan).png",
    "art_source": "libretro-thumbnails Named_Boxarts/Jikkyou Powerful Pro Yakyuu 4 (Japan).png",
-   "box_title_inliers": 135,
-   "crop_check": "",
-   "rights_status": "not_reviewed"
+   "rights_status": "not_reviewed",
+   "hand_fix": "Crop showed the Diamond Head production seal. Window moved to Pawapuro-kun."
   },
   {
    "catalog_id": "635d99a099739601",
@@ -977,9 +978,8 @@
    "stage": "draft",
    "logo_source": "libretro-thumbnails Named_Logos/Jikkyou Powerful Pro Yakyuu 5 (Japan).png",
    "art_source": "libretro-thumbnails Named_Boxarts/Jikkyou Powerful Pro Yakyuu 5 (Japan).png",
-   "box_title_inliers": 167,
-   "crop_check": "",
-   "rights_status": "not_reviewed"
+   "rights_status": "not_reviewed",
+   "hand_fix": "Crop showed the Diamond Head production seal. Window moved to Pawapuro-kun."
   },
   {
    "catalog_id": "86053876344f395e",
@@ -988,9 +988,8 @@
    "stage": "draft",
    "logo_source": "libretro-thumbnails Named_Logos/Jikkyou Powerful Pro Yakyuu 6 (Japan).png",
    "art_source": "libretro-thumbnails Named_Boxarts/Jikkyou Powerful Pro Yakyuu 6 (Japan).png",
-   "box_title_inliers": 127,
-   "crop_check": "",
-   "rights_status": "not_reviewed"
+   "rights_status": "not_reviewed",
+   "hand_fix": "Crop showed the Diamond Head production seal. Window moved to Pawapuro-kun."
   },
   {
    "catalog_id": "a46d0aa463e78cf6",
@@ -1687,8 +1686,10 @@
    "title": "Snobo Kids",
    "region": "Japan",
    "stage": "draft",
-   "art_source": "libretro-thumbnails Named_Titles/Snobo Kids (Japan).png (hand-picked crop with printed title)",
-   "rights_status": "not_reviewed"
+   "art_source": "libretro-thumbnails Named_Boxarts/Snobo Kids (Japan).png",
+   "rights_status": "not_reviewed",
+   "logo_source": "libretro-thumbnails Named_Titles/Snobo Kids (Japan).png (sky)",
+   "hand_fix": "No upstream logo; the label was a boxed title screen on black. Logo keyed off the title-screen sky; art is the box characters."
   },
   {
    "catalog_id": "0093c863a0da7dd0",
@@ -2148,9 +2149,8 @@
    "stage": "draft",
    "logo_source": "libretro-thumbnails Named_Logos/Zelda no Densetsu - Toki no Ocarina (Japan).png",
    "art_source": "libretro-thumbnails Named_Boxarts/Zelda no Densetsu - Toki no Ocarina (Japan).png",
-   "box_title_inliers": 41,
-   "crop_check": "",
-   "rights_status": "not_reviewed"
+   "rights_status": "not_reviewed",
+   "hand_fix": "Crop was a blurry grey cloud. Window moved to Link on Epona."
   },
   {
    "catalog_id": "55d095b0fde030b1",

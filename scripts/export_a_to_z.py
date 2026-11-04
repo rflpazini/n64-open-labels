@@ -22,11 +22,13 @@ def write_readme(a,index,status):
  reviewed=sum(s['stage']=='visual_reviewed' for s in labels)
  snaps=sum('Named_Snaps' in s.get('art_source','') for s in labels)
  titled=sum('printed title' in s.get('art_source','') for s in labels)
+ fixed=sum('hand_fix' in s for s in labels)
  L=[f'# {a.region} set, A to Z: printable N64 end labels\n',
   f'**{n} labels** for the {a.region} retail cartridges in `catalog/coverage.csv`, one folder per initial letter. Each folder has an A4 PDF (print at **100% / actual size**), {a.dpi} DPI PNGs, a preview and a manifest. The easiest way to print is the site: https://rflpazini.com/n64-open-labels/\n',
   '## Status\n',
   f'- **{reviewed}** reuse the hand-tuned recipes from [collection-18](../collection-18/).',
-  f'- **{n-reviewed}** are machine drafts (`stage: draft`) from `scripts/auto_recipes.py`: libretro-thumbnails logo over an automatic box-art crop. {snaps} use a gameplay screenshot because the box is mostly text; {titled} have no clean logo upstream and use a hand-picked crop that already shows the printed title (`catalog/title-art.json`).',
+  f'- **{n-reviewed}** are machine drafts (`stage: draft`) from `scripts/auto_recipes.py`: libretro-thumbnails logo over an automatic box-art crop. {snaps} use a gameplay screenshot because the box is mostly text'+(f'; {titled} have no clean logo upstream and use a hand-picked crop that already shows the printed title (`catalog/title-art.json`)' if titled else '')+'.',
+  *([f'- **{fixed}** drafts carry a hand correction from `scripts/fix_labels.py` ([`catalog/label-fixes.json`](../../catalog/label-fixes.json)): a logo rebuilt where upstream has none or the wrong one, or an art window moved off box text and onto the characters.'] if fixed else []),
   '- Drafts are not individually reviewed or print-tested. Report problems with an issue.',
   '- Logos and artwork belong to Nintendo and the publishers (`rights_status: not_reviewed`). Unofficial, non-commercial fan project.\n']
  if status['pending']:L.append('**Not yet included:** '+', '.join(p['title'] for p in status['pending'])+'\n')
