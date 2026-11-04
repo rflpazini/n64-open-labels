@@ -52,4 +52,11 @@ class FingerprintTests(unittest.TestCase):
    html=(out/'index.html').read_text()
    self.assertRegex(html,r'style\.css\?v=[0-9a-f]{10}');self.assertRegex(html,r'app\.js\?v=[0-9a-f]{10}')
    self.assertRegex((out/'app.js').read_text(),r"labels\.json\?v=[0-9a-f]{10}")
+class ImageVersionTests(unittest.TestCase):
+ def test_label_urls_change_with_content(self):
+  m=module('site_v',ROOT/'scripts/build_site.py')
+  with tempfile.TemporaryDirectory() as t:
+   out=Path(t);(out/'a.png').write_bytes(b'one');first=m.versioned(out,'a.png')
+   (out/'a.png').write_bytes(b'two');second=m.versioned(out,'a.png')
+   self.assertRegex(first,r'^a\.png\?v=[0-9a-f]{10}$');self.assertNotEqual(first,second)
 if __name__=='__main__':unittest.main()
